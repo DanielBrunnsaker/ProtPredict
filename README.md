@@ -28,6 +28,14 @@ Additional data will need to be downloaded at Zenodo (link incoming).
 Frequent patterns are mined from Datalog database created from the Saccharomyces Genome Database (SGD), BioGRID, 
 and Yeast8[1,2,3] and then used as features in a protein abundance predictions.  These patterns are mined using Aleph in Prolog using the WARMR algorithm, and by using sample meta-data (deletant strains) from a dataset by Messner et al. as positive examples [4,5,6].
 
+A pattern in this context can take the following form, represented as a logic program:
+
+Gene(A) :=
+RegulatedBy(A, B, Transcription factor),
+nullPhenotype(B, Abnormal chronological lifespan),
+InvolvedIn(A, One − carbon metabolic process)
+
+
 In order to generate the features, you SWi-prolog needs to be installed, and you need to follow the following commands:
 In the folder of the relevant dataset (feature_generation/proteomics or feature_generation/proteomics_noAA):
 
