@@ -1,0 +1,8 @@
+	src_ORF	target_ORF	Strain	Direction	Type
+0	YAL013W	YGR088W	S288c	positive	manually curated
+1	YAL013W	YHR124W	Other		manually curated
+2	YAL013W	YHR124W	Other	negative	manually curated
+3	YAL013W	YJL106W	Other	negative	manually curated
+5	YAL013W	YJR094C	Other	negative	manually curated
+7	YAL013W	YMR169C	S288c	positive	manually curated
+6	YAL017W	YJR060W	S288c	positive	manually curated

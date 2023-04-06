@@ -1,0 +1,1185 @@
+2-oxoglutarate decarboxylation to succinyl-CoA	PWY-5084	KGD1	YIL125W	alpha-KetoGlutarate Dehydrogenase
+2-oxoglutarate decarboxylation to succinyl-CoA	PWY-5084	KGD2	YDR148C	alpha-KetoGlutarate Dehydrogenase
+2-oxoglutarate decarboxylation to succinyl-CoA	PWY-5084	LPD1	YFL018C	LiPoamide Dehydrogenase
+4-aminobenzoate biosynthesis	PWY-6543	ABZ1	YNR033W	para-AminoBenZoic acid (PABA) biosynthesis
+4-aminobenzoate biosynthesis	PWY-6543	ABZ2	YMR289W	para-AminoBenZoic acid (PABA) biosynthesis
+4-aminobutyrate degradation	YEAST-4AMINOBUTMETAB-PWY	UGA1	YGR019W	Utilization of GAba
+4-aminobutyrate degradation	YEAST-4AMINOBUTMETAB-PWY	UGA2	YBR006W	Utilization of GAba
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	PWY-6147	FOL1	YNL256W	FOLic acid synthesis
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	PWY-6147	FOL2	YGR267C	FOLic acid synthesis
+acetate utilization	ACETATEUTIL2-PWY	ACS1	YAL054C	Acetyl CoA Synthetase
+acetate utilization	ACETATEUTIL2-PWY	ACS2	YLR153C	Acetyl CoA Synthetase
+acetoin biosynthesis	PWY3O-335	BDH1	YAL060W	Butanediol DeHydrogenase
+acetoin biosynthesis	PWY3O-335	ILV2	YMR108W	IsoLeucine-plus-Valine requiring
+acetoin biosynthesis	PWY3O-335	ILV6	YCL009C	IsoLeucine Valine
+adenosine deoxyribonucleotides de novo biosynthesis II	PWY-7220-1	RNR1	YER070W	RiboNucleotide Reductase
+adenosine deoxyribonucleotides de novo biosynthesis II	PWY-7220-1	RNR2	YJL026W	RiboNucleotide Reductase
+adenosine deoxyribonucleotides de novo biosynthesis II	PWY-7220-1	RNR3	YIL066C	RiboNucleotide Reductase
+adenosine deoxyribonucleotides de novo biosynthesis II	PWY-7220-1	RNR4	YGR180C	RiboNucleotide Reductase
+adenosine deoxyribonucleotides de novo biosynthesis II	PWY-7220-1	TRX1	YLR043C	ThioRedoXin
+adenosine deoxyribonucleotides de novo biosynthesis II	PWY-7220-1	TRX2	YGR209C	ThioRedoXin
+adenosine deoxyribonucleotides de novo biosynthesis II	PWY-7220-1	TRX3	YCR083W	ThioRedoXin
+adenosine deoxyribonucleotides de novo biosynthesis II	PWY-7220-1	YNK1	YKL067W	Yeast Nucleoside diphosphate Kinase
+aerobic respiration, electron transport chain	PWY3O-188	COB	Q0105	CytochrOme B
+aerobic respiration, electron transport chain	PWY3O-188	COR1	YBL045C	CORe protein of QH2 cytochrome c reductase
+aerobic respiration, electron transport chain	PWY3O-188	COX1	Q0045	Cytochrome c OXidase
+aerobic respiration, electron transport chain	PWY3O-188	COX12	YLR038C	Cytochrome c OXidase
+aerobic respiration, electron transport chain	PWY3O-188	COX13	YGL191W	Cytochrome c OXidase
+aerobic respiration, electron transport chain	PWY3O-188	COX2	Q0250	Cytochrome c OXidase
+aerobic respiration, electron transport chain	PWY3O-188	COX3	Q0275	Cytochrome c OXidase
+aerobic respiration, electron transport chain	PWY3O-188	COX4	YGL187C	Cytochrome c OXidase
+aerobic respiration, electron transport chain	PWY3O-188	COX5A	YNL052W	Cytochrome c OXidase
+aerobic respiration, electron transport chain	PWY3O-188	COX6	YHR051W	Cytochrome c OXidase
+aerobic respiration, electron transport chain	PWY3O-188	COX7	YMR256C	Cytochrome c OXidase
+aerobic respiration, electron transport chain	PWY3O-188	COX8	YLR395C	Cytochrome c OXidase
+aerobic respiration, electron transport chain	PWY3O-188	COX9	YDL067C	Cytochrome c OXidase
+aerobic respiration, electron transport chain	PWY3O-188	CYT1	YOR065W	CYTochrome c1
+aerobic respiration, electron transport chain	PWY3O-188	NDI1	YML120C	NADH Dehydrogenase Internal
+aerobic respiration, electron transport chain	PWY3O-188	QCR10	YHR001W-A	ubiQuinol-cytochrome C oxidoReductase
+aerobic respiration, electron transport chain	PWY3O-188	QCR2	YPR191W	QH2:cytochrome-C oxidoReductase
+aerobic respiration, electron transport chain	PWY3O-188	QCR6	YFR033C	ubiQuinol-cytochrome C oxidoReductase
+aerobic respiration, electron transport chain	PWY3O-188	QCR7	YDR529C	ubiQuinol-cytochrome C oxidoReductase
+aerobic respiration, electron transport chain	PWY3O-188	QCR8	YJL166W	ubiQuinol-cytochrome C oxidoReductase
+aerobic respiration, electron transport chain	PWY3O-188	QCR9	YGR183C	ubiQuinol-cytochrome C oxidoReductase
+aerobic respiration, electron transport chain	PWY3O-188	RIP1	YEL024W	Rieske Iron-sulfur Protein
+aerobic respiration, electron transport chain	PWY3O-188	SDH1	YKL148C	Succinate DeHydrogenase
+aerobic respiration, electron transport chain	PWY3O-188	SDH2	YLL041C	Succinate DeHydrogenase
+aerobic respiration, electron transport chain	PWY3O-188	SDH3	YKL141W	Succinate DeHydrogenase
+aerobic respiration, electron transport chain	PWY3O-188	SDH4	YDR178W	Succinate DeHydrogenase
+aerobic respiration, electron transport chain	PWY3O-188	SDH9	YJL045W	Succinate DeHydrogenase
+allantoin degradation to glyoxylate I	PWY-5694	DAL1	YIR027C	Degradation of Allantoin
+allantoin degradation to glyoxylate I	PWY-5694	DAL2	YIR029W	Degradation of Allantoin
+allantoin degradation to glyoxylate I	PWY-5694	DAL3	YIR032C	Degradation of Allantoin
+allantoin degradation to ureidoglycolate I (urea producing)	PWY-5697	DAL1	YIR027C	Degradation of Allantoin
+allantoin degradation to ureidoglycolate I (urea producing)	PWY-5697	DAL2	YIR029W	Degradation of Allantoin
+arginine degradation (aerobic)	ARGDEG-YEAST-PWY	CAR1	YPL111W	Catabolism of ARginine
+arginine degradation (aerobic)	ARGDEG-YEAST-PWY	CAR2	YLR438W	Catabolism of ARginine
+arginine degradation (aerobic)	ARGDEG-YEAST-PWY	PRO3	YER023W	PROline requiring
+arginine degradation (aerobic)	ARGDEG-YEAST-PWY	PUT1	YLR142W	Proline UTilization
+arginine degradation (aerobic)	ARGDEG-YEAST-PWY	PUT2	YHR037W	Proline UTilization
+asparagine degradation	ASPARAGINE-DEG2-PWY	AAT1	YKL106W	Aspartate AminoTransferase
+asparagine degradation	ASPARAGINE-DEG2-PWY	AAT2	YLR027C	Aspartate AminoTransferase
+asparagine degradation	ASPARAGINE-DEG2-PWY	ASP1	YDR321W	ASParaginase
+asparagine degradation	ASPARAGINE-DEG2-PWY	ASP3-1	YLR155C	ASParaginase
+asparagine degradation	ASPARAGINE-DEG2-PWY	ASP3-2	YLR157C	ASParaginase
+asparagine degradation	ASPARAGINE-DEG2-PWY	ASP3-3	YLR158C	ASParaginase
+asparagine degradation	ASPARAGINE-DEG2-PWY	ASP3-4	YLR160C	ASParaginase
+aspartate biosynthesis	ASPBIO-PWY	AAT1	YKL106W	Aspartate AminoTransferase
+aspartate biosynthesis	ASPBIO-PWY	AAT2	YLR027C	Aspartate AminoTransferase
+aspartate biosynthesis	ASPBIO-PWY	PYC1	YGL062W	PYruvate Carboxylase
+aspartate biosynthesis	ASPBIO-PWY	PYC2	YBR218C	PYruvate Carboxylase
+assimilatory sulfate reduction I	SO4ASSIM-PWY	MET10	YFR030W	METhionine requiring
+assimilatory sulfate reduction I	SO4ASSIM-PWY	MET14	YKL001C	METhionine requiring
+assimilatory sulfate reduction I	SO4ASSIM-PWY	MET16	YPR167C	METhionine requiring
+assimilatory sulfate reduction I	SO4ASSIM-PWY	MET3	YJR010W	METhionine requiring
+assimilatory sulfate reduction I	SO4ASSIM-PWY	MET5	YJR137C	METhionine requiring
+assimilatory sulfate reduction I	SO4ASSIM-PWY	TRX1	YLR043C	ThioRedoXin
+assimilatory sulfate reduction I	SO4ASSIM-PWY	TRX2	YGR209C	ThioRedoXin
+assimilatory sulfate reduction I	SO4ASSIM-PWY	TRX3	YCR083W	ThioRedoXin
+biotin biosynthesis	BIOTIN-SYNTHESIS-PWY	BIO2	YGR286C	BIOtin
+biotin biosynthesis	BIOTIN-SYNTHESIS-PWY	BIO3	YNR058W	BIOtin
+biotin biosynthesis	BIOTIN-SYNTHESIS-PWY	BIO4	YNR057C	BIOtin
+butanediol biosynthesis	PWY3O-661	BDH1	YAL060W	Butanediol DeHydrogenase
+carnitine shuttle	PWY3O-4	CAT2	YML042W	Carnitine AcetylTransferase
+carnitine shuttle	PWY3O-4	YAT1	YAR035W	""
+carnitine shuttle	PWY3O-4	YAT2	YER024W	""
+CDP-diacylglycerol biosynthesis	PWY3O-103	CDS1	YBR029C	CDP-Diacylglycerol Synthase
+chitin biosynthesis	PWY3O-15	CHS1	YNL192W	CHitin Synthase
+chitin biosynthesis	PWY3O-15	CHS2	YBR038W	CHitin Synthase
+chitin biosynthesis	PWY3O-15	CHS3	YBR023C	CHitin Synthase-related
+chitosan biosynthesis	PWY3O-70	CDA1	YLR307W	Chitin DeAcetylase
+chitosan biosynthesis	PWY3O-70	CDA2	YLR308W	Chitin DeAcetylase
+chorismate biosynthesis	ARO-PWY-1	ARO1	YDR127W	AROmatic amino acid requiring
+chorismate biosynthesis	ARO-PWY-1	ARO2	YGL148W	AROmatic amino acid requiring
+chorismate biosynthesis	ARO-PWY-1	ARO3	YDR035W	AROmatic amino acid requiring
+chorismate biosynthesis	ARO-PWY-1	ARO4	YBR249C	AROmatic amino acid requiring
+citrulline biosynthesis	CITRUL-BIO2-PWY	ARG3	YJL088W	ARGinine requiring
+citrulline biosynthesis	CITRUL-BIO2-PWY	CPA1	YOR303W	Carbamyl Phosphate synthetase A
+citrulline biosynthesis	CITRUL-BIO2-PWY	CPA2	YJR109C	Carbamyl Phosphate synthetase A
+dehydro-D-arabinono-1,4-lactone biosynthesis	PWY3O-6-1	ALO1	YML086C	D-Arabinono-1,4-Lactone Oxidase
+dehydro-D-arabinono-1,4-lactone biosynthesis	PWY3O-6-1	ARA1	YBR149W	D-ARAbinose dehydrogenase
+dehydro-D-arabinono-1,4-lactone biosynthesis	PWY3O-6-1	ARA2	YMR041C	ARAbinose
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	ADE1	YAR015W	ADEnine requiring
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	ADE12	YNL220W	ADEnine requiring
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	ADE13	YLR359W	ADEnine requiring
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	ADE16	YLR028C	ADEnine
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	ADE17	YMR120C	ADEnine
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	ADE2	YOR128C	ADEnine requiring
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	ADE4	YMR300C	ADEnine requiring
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	ADE57	YGL234W	ADEnine requiring
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	ADE6	YGR061C	ADEnine requiring
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	ADE8	YDR408C	ADEnine requiring
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	ADK1	YDR226W	ADenylate Kinase
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	ADK2	YER170W	ADenylate Kinase
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	GUA1	YMR217W	GUanine Auxotroph
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	GUK1	YDR454C	GUanylate Kinase
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	IMD2	YHR216W	IMP Dehydrogenase
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	IMD3	YLR432W	IMP Dehydrogenase
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	IMD4	YML056C	IMP Dehydrogenase
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	RNR1	YER070W	RiboNucleotide Reductase
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	RNR2	YJL026W	RiboNucleotide Reductase
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	RNR3	YIL066C	RiboNucleotide Reductase
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	RNR4	YGR180C	RiboNucleotide Reductase
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	TRX1	YLR043C	ThioRedoXin
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	TRX2	YGR209C	ThioRedoXin
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	TRX3	YCR083W	ThioRedoXin
+de novo biosynthesis of purine nucleotides	DENOVOPURINE3-PWY	YNK1	YKL067W	Yeast Nucleoside diphosphate Kinase
+de novo biosynthesis of pyrimidine deoxyribonucleotides	YEAST-DE-NOVO-PYRMID-DNT	CDC21	YOR074C	Cell Division Cycle
+de novo biosynthesis of pyrimidine deoxyribonucleotides	YEAST-DE-NOVO-PYRMID-DNT	CDC8	YJR057W	Cell Division Cycle
+de novo biosynthesis of pyrimidine deoxyribonucleotides	YEAST-DE-NOVO-PYRMID-DNT	DUT1	YBR252W	DUTp pyrophosphatase
+de novo biosynthesis of pyrimidine deoxyribonucleotides	YEAST-DE-NOVO-PYRMID-DNT	RNR1	YER070W	RiboNucleotide Reductase
+de novo biosynthesis of pyrimidine deoxyribonucleotides	YEAST-DE-NOVO-PYRMID-DNT	RNR2	YJL026W	RiboNucleotide Reductase
+de novo biosynthesis of pyrimidine deoxyribonucleotides	YEAST-DE-NOVO-PYRMID-DNT	RNR3	YIL066C	RiboNucleotide Reductase
+de novo biosynthesis of pyrimidine deoxyribonucleotides	YEAST-DE-NOVO-PYRMID-DNT	RNR4	YGR180C	RiboNucleotide Reductase
+de novo biosynthesis of pyrimidine deoxyribonucleotides	YEAST-DE-NOVO-PYRMID-DNT	TRX1	YLR043C	ThioRedoXin
+de novo biosynthesis of pyrimidine deoxyribonucleotides	YEAST-DE-NOVO-PYRMID-DNT	TRX2	YGR209C	ThioRedoXin
+de novo biosynthesis of pyrimidine deoxyribonucleotides	YEAST-DE-NOVO-PYRMID-DNT	TRX3	YCR083W	ThioRedoXin
+de novo biosynthesis of pyrimidine deoxyribonucleotides	YEAST-DE-NOVO-PYRMID-DNT	YNK1	YKL067W	Yeast Nucleoside diphosphate Kinase
+de novo biosynthesis of pyrimidine ribonucleotides	PYRIMID-RNTSYN-PWY	URA1	YKL216W	URAcil requiring
+de novo biosynthesis of pyrimidine ribonucleotides	PYRIMID-RNTSYN-PWY	URA10	YMR271C	URAcil requiring
+de novo biosynthesis of pyrimidine ribonucleotides	PYRIMID-RNTSYN-PWY	URA2	YJL130C	URAcil requiring
+de novo biosynthesis of pyrimidine ribonucleotides	PYRIMID-RNTSYN-PWY	URA3	YEL021W	URAcil requiring
+de novo biosynthesis of pyrimidine ribonucleotides	PYRIMID-RNTSYN-PWY	URA4	YLR420W	URAcil requiring
+de novo biosynthesis of pyrimidine ribonucleotides	PYRIMID-RNTSYN-PWY	URA5	YML106W	URAcil requiring
+de novo biosynthesis of pyrimidine ribonucleotides	PYRIMID-RNTSYN-PWY	URA6	YKL024C	URAcil requiring
+de novo biosynthesis of pyrimidine ribonucleotides	PYRIMID-RNTSYN-PWY	URA7	YBL039C	URAcil requiring
+de novo biosynthesis of pyrimidine ribonucleotides	PYRIMID-RNTSYN-PWY	URA8	YJR103W	URAcil requiring
+diacylglycerol and triacylglycerol biosynthesis	TRIGLSYN-PWY	DPP1	YDR284C	Diacylglycerol Pyrophosphate Phosphatase
+diacylglycerol and triacylglycerol biosynthesis	TRIGLSYN-PWY	LPP1	YDR503C	Lipid Phosphate Phosphatase
+diphthamide biosynthesis	PWY-6482-1	DPH1	YIL103W	DiPHthamide biosynthesis
+diphthamide biosynthesis	PWY-6482-1	DPH2	YKL191W	DiPHthamide
+diphthamide biosynthesis	PWY-6482-1	DPH5	YLR172C	DiPHthamide
+diphthamide biosynthesis	PWY-6482-1	KTI11	YBL071W-A	Kluveromyces lactis Toxin Insensitive
+diphthamide biosynthesis	PWY-6482-1	RRT2	YBR246W	Regulator of rDNA Transcription
+dolichyl glucosyl phosphate biosynthesis	PWY3O-1565	ALG5	YPL227C	Asparagine-Linked Glycosylation
+dolichyl glucosyl phosphate biosynthesis	PWY3O-1565	PGM1	YKL127W	PhosphoGlucoMutase
+dolichyl glucosyl phosphate biosynthesis	PWY3O-1565	PGM2	YMR105C	PhosphoGlucoMutase
+dolichyl glucosyl phosphate biosynthesis	PWY3O-1565	UGP1	YKL035W	UDP-glucose pyrophosphorylase
+dolichyl glucosyl phosphate biosynthesis	PWY3O-1565	""	YHL012W	""
+dolichyl phosphate D-mannose biosynthesis	PWY3O-123	DPM1	YPR183W	Dolichol Phosphate Mannose synthase
+dolichyl phosphate D-mannose biosynthesis	PWY3O-123	PMI40	YER003C	PhosphoMannose Isomerase
+dolichyl phosphate D-mannose biosynthesis	PWY3O-123	PSA1	YDL055C	""
+dolichyl phosphate D-mannose biosynthesis	PWY3O-123	SEC53	YFL045C	SECretory
+epoxysqualene biosynthesis	PWY-5670-1	ERG1	YGR175C	ERGosterol biosynthesis
+epoxysqualene biosynthesis	PWY-5670-1	ERG9	YHR190W	ERGosterol biosynthesis
+ergosterol biosynthesis I	PWY-6075-1	ERG2	YMR202W	ERGosterol biosynthesis
+ergosterol biosynthesis I	PWY-6075-1	ERG3	YLR056W	ERGosterol biosynthesis
+ergosterol biosynthesis I	PWY-6075-1	ERG4	YGL012W	ERGosterol biosynthesis
+ergosterol biosynthesis I	PWY-6075-1	ERG5	YMR015C	ERGosterol biosynthesis
+ergosterol biosynthesis I	PWY-6075-1	ERG6	YML008C	ERGosterol biosynthesis
+ethanol degradation	PWY3O-4300	ACS1	YAL054C	Acetyl CoA Synthetase
+ethanol degradation	PWY3O-4300	ACS2	YLR153C	Acetyl CoA Synthetase
+ethanol degradation	PWY3O-4300	ADH2	YMR303C	Alcohol DeHydrogenase
+ethanol degradation	PWY3O-4300	ALD2	YMR170C	ALdehyde Dehydrogenase
+fatty acid biosynthesis, initial steps	PWY3O-10	ACC1	YNR016C	Acetyl-CoA Carboxylase
+fatty acid biosynthesis, initial steps	PWY3O-10	CEM1	YER061C	Condensing Enzyme with Mitochondrial function
+fatty acid biosynthesis, initial steps	PWY3O-10	FAS1	YKL182W	Fatty Acid Synthetase
+fatty acid biosynthesis, initial steps	PWY3O-10	FAS2	YPL231W	Fatty Acid Synthetase
+fatty acid biosynthesis, initial steps	PWY3O-10	HFA1	YMR207C	""
+fatty acid biosynthesis, initial steps	PWY3O-10	MCT1	YOR221C	Malonyl-CoA:ACP Transferase
+fatty acid biosynthesis, initial steps	PWY3O-10	OAR1	YKL055C	3-Oxoacyl-[Acyl-carrier-protein] Reductase
+fatty acid elongation	FASYN-ELONG2-PWY	CEM1	YER061C	Condensing Enzyme with Mitochondrial function
+fatty acid elongation	FASYN-ELONG2-PWY	FAS1	YKL182W	Fatty Acid Synthetase
+fatty acid elongation	FASYN-ELONG2-PWY	FAS2	YPL231W	Fatty Acid Synthetase
+fatty acid elongation	FASYN-ELONG2-PWY	OAR1	YKL055C	3-Oxoacyl-[Acyl-carrier-protein] Reductase
+fatty acid oxidation pathway	YEAST-FAO-PWY	DCI1	YOR180C	delta(3,5)-delta(2,4)-Dienoyl-CoA Isomerase
+fatty acid oxidation pathway	YEAST-FAO-PWY	ECI1	YLR284C	Enoyl-CoA Isomerase
+fatty acid oxidation pathway	YEAST-FAO-PWY	FAA1	YOR317W	Fatty Acid Activation
+fatty acid oxidation pathway	YEAST-FAO-PWY	FAA2	YER015W	Fatty Acid Activation
+fatty acid oxidation pathway	YEAST-FAO-PWY	FAA3	YIL009W	Fatty Acid Activation
+fatty acid oxidation pathway	YEAST-FAO-PWY	FAA4	YMR246W	Fatty Acid Activation
+fatty acid oxidation pathway	YEAST-FAO-PWY	FAT1	YBR041W	FATty acid transporter
+fatty acid oxidation pathway	YEAST-FAO-PWY	FOX2	YKR009C	Fatty acid OXidation
+fatty acid oxidation pathway	YEAST-FAO-PWY	POT1	YIL160C	Peroxisomal Oxoacyl Thiolase
+fatty acid oxidation pathway	YEAST-FAO-PWY	POX1	YGL205W	""
+fatty acids biosynthesis (yeast)	PWY3O-31723	FAS1	YKL182W	Fatty Acid Synthetase
+fatty acids biosynthesis (yeast)	PWY3O-31723	FAS2	YPL231W	Fatty Acid Synthetase
+folate biosynthesis II	PWY3O-45	ABZ1	YNR033W	para-AminoBenZoic acid (PABA) biosynthesis
+folate biosynthesis II	PWY3O-45	ABZ2	YMR289W	para-AminoBenZoic acid (PABA) biosynthesis
+folate biosynthesis II	PWY3O-45	DFR1	YOR236W	DihydroFolate Reductase
+folate biosynthesis II	PWY3O-45	FOL1	YNL256W	FOLic acid synthesis
+folate biosynthesis II	PWY3O-45	FOL2	YGR267C	FOLic acid synthesis
+folate biosynthesis II	PWY3O-45	FOL3	YMR113W	FOLic acid synthesis
+folate interconversions	PWY3O-697	ADE3	YGR204W	ADEnine requiring
+folate interconversions	PWY3O-697	CDC21	YOR074C	Cell Division Cycle
+folate interconversions	PWY3O-697	DFR1	YOR236W	DihydroFolate Reductase
+folate interconversions	PWY3O-697	GCV1	YDR019C	GlyCine cleaVage
+folate interconversions	PWY3O-697	GCV2	YMR189W	GlyCine cleaVage
+folate interconversions	PWY3O-697	GCV3	YAL044C	GlyCine cleaVage
+folate interconversions	PWY3O-697	LPD1	YFL018C	LiPoamide Dehydrogenase
+folate interconversions	PWY3O-697	MET12	YPL023C	METhionine requiring
+folate interconversions	PWY3O-697	MET13	YGL125W	METhionine requiring
+folate interconversions	PWY3O-697	MIS1	YBR084W	MItochondrial C1-tetrahydrofolate Synthase
+folate interconversions	PWY3O-697	MTD1	YKR080W	Methylene Tetrahydrafolate Dehydrogenase
+folate interconversions	PWY3O-697	SHM1	YBR263W	Serine HydroxyMethyltransferase
+folate interconversions	PWY3O-697	SHM2	YLR058C	Serine HydroxyMethyltransferase
+folate polyglutamylation	PWY3O-20	ADE3	YGR204W	ADEnine requiring
+folate polyglutamylation	PWY3O-20	DFR1	YOR236W	DihydroFolate Reductase
+folate polyglutamylation	PWY3O-20	MET12	YPL023C	METhionine requiring
+folate polyglutamylation	PWY3O-20	MET13	YGL125W	METhionine requiring
+folate polyglutamylation	PWY3O-20	MET7	YOR241W	METhionine requiring
+folate polyglutamylation	PWY3O-20	MIS1	YBR084W	MItochondrial C1-tetrahydrofolate Synthase
+folate polyglutamylation	PWY3O-20	SHM1	YBR263W	Serine HydroxyMethyltransferase
+folate polyglutamylation	PWY3O-20	SHM2	YLR058C	Serine HydroxyMethyltransferase
+folate transformations I	PWY-2201	ADE3	YGR204W	ADEnine requiring
+folate transformations I	PWY-2201	FAU1	YER183C	Folinic Acid Utilization
+folate transformations I	PWY-2201	GCV1	YDR019C	GlyCine cleaVage
+folate transformations I	PWY-2201	GCV2	YMR189W	GlyCine cleaVage
+folate transformations I	PWY-2201	GCV3	YAL044C	GlyCine cleaVage
+folate transformations I	PWY-2201	LPD1	YFL018C	LiPoamide Dehydrogenase
+folate transformations I	PWY-2201	MET12	YPL023C	METhionine requiring
+folate transformations I	PWY-2201	MET13	YGL125W	METhionine requiring
+folate transformations I	PWY-2201	MIS1	YBR084W	MItochondrial C1-tetrahydrofolate Synthase
+folate transformations I	PWY-2201	MTD1	YKR080W	Methylene Tetrahydrafolate Dehydrogenase
+folate transformations I	PWY-2201	SHM1	YBR263W	Serine HydroxyMethyltransferase
+folate transformations I	PWY-2201	SHM2	YLR058C	Serine HydroxyMethyltransferase
+formaldehyde oxidation II (glutathione-dependent)	PWY-1801-1	FDH1	YOR388C	Formate DeHydrogenase
+formaldehyde oxidation II (glutathione-dependent)	PWY-1801-1	SFA1	YDL168W	Sensitive to FormAldehyde
+formaldehyde oxidation II (glutathione-dependent)	PWY-1801-1	""	YJL068C	""
+fructose degradation	PWY3O-0	HXK1	YFR053C	HeXoKinase
+fructose degradation	PWY3O-0	HXK2	YGL253W	HeXoKinase
+galactose degradation	YEAST-GALACT-METAB-PWY	GAL1	YBR020W	GALactose metabolism
+galactose degradation	YEAST-GALACT-METAB-PWY	GAL10	YBR019C	GALactose metabolism
+galactose degradation	YEAST-GALACT-METAB-PWY	GAL7	YBR018C	GALactose metabolism
+galactose degradation	YEAST-GALACT-METAB-PWY	PGM1	YKL127W	PhosphoGlucoMutase
+galactose degradation	YEAST-GALACT-METAB-PWY	PGM2	YMR105C	PhosphoGlucoMutase
+gluconeogenesis I	GLUCONEO-PWY-1	ENO1	YGR254W	ENOlase
+gluconeogenesis I	GLUCONEO-PWY-1	ENO2	YHR174W	ENOlase
+gluconeogenesis I	GLUCONEO-PWY-1	FBA1	YKL060C	Fructose-1,6-Bisphosphate Aldolase
+gluconeogenesis I	GLUCONEO-PWY-1	FBP1	YLR377C	Fructose-1,6-BisPhosphatase
+gluconeogenesis I	GLUCONEO-PWY-1	GPM1	YKL152C	Glycerate PhosphoMutase
+gluconeogenesis I	GLUCONEO-PWY-1	MAE1	YKL029C	MAlic Enzyme
+gluconeogenesis I	GLUCONEO-PWY-1	MDH2	YOL126C	Malate DeHydrogenase
+gluconeogenesis I	GLUCONEO-PWY-1	PCK1	YKR097W	Phosphoenolpyruvate CarboxyKinase
+gluconeogenesis I	GLUCONEO-PWY-1	PGI1	YBR196C	PhosphoGlucoIsomerase
+gluconeogenesis I	GLUCONEO-PWY-1	PGK1	YCR012W	3-PhosphoGlycerate Kinase
+gluconeogenesis I	GLUCONEO-PWY-1	PYC1	YGL062W	PYruvate Carboxylase
+gluconeogenesis I	GLUCONEO-PWY-1	PYC2	YBR218C	PYruvate Carboxylase
+gluconeogenesis I	GLUCONEO-PWY-1	TDH1	YJL052W	Triose-phosphate DeHydrogenase
+gluconeogenesis I	GLUCONEO-PWY-1	TDH2	YJR009C	Triose-phosphate DeHydrogenase
+gluconeogenesis I	GLUCONEO-PWY-1	TDH3	YGR192C	Triose-phosphate DeHydrogenase
+glucose-6-phosphate biosynthesis	PWY3O-3827	GLK1	YCL040W	GLucoKinase
+glucose-6-phosphate biosynthesis	PWY3O-3827	HXK1	YFR053C	HeXoKinase
+glucose-6-phosphate biosynthesis	PWY3O-3827	HXK2	YGL253W	HeXoKinase
+glutaryl-CoA degradation	PWY-5177	ERG10	YPL028W	ERGosterol biosynthesis
+glutaryl-CoA degradation	PWY-5177	FOX2	YKR009C	Fatty acid OXidation
+glutaryl-CoA degradation	PWY-5177	PHS1	YJL097W	PTPLA Homolog involved in Sphingolipid biosynthesis 1
+glutathione biosynthesis	GLUTATHIONESYN-PWY	GSH1	YJL101C	glutathione (GSH)
+glutathione biosynthesis	GLUTATHIONESYN-PWY	GSH2	YOL049W	Glutathione
+glutathione degradation	PWYQT-4432	DUG1	YFR044C	Deficient in Utilization of Glutathione
+glutathione degradation	PWYQT-4432	ECM38	YLR299W	ExtraCellular Mutant
+glutathione-glutaredoxin redox reactions	GLUT-REDOX2-PWY	GLR1	YPL091W	GLutathione Reductase
+glutathione-glutaredoxin redox reactions	GLUT-REDOX2-PWY	GPX1	YKL026C	Glutathione PeroXidase
+glutathione-glutaredoxin redox reactions	GLUT-REDOX2-PWY	GPX2	YBR244W	Glutathione PeroXidase
+glutathione-glutaredoxin redox reactions	GLUT-REDOX2-PWY	GRX1	YCL035C	GlutaRedoXin
+glutathione-glutaredoxin redox reactions	GLUT-REDOX2-PWY	GRX2	YDR513W	GlutaRedoXin
+glutathione-glutaredoxin redox reactions	GLUT-REDOX2-PWY	GRX3	YDR098C	GlutaRedoXin
+glutathione-glutaredoxin redox reactions	GLUT-REDOX2-PWY	GRX4	YER174C	GlutaRedoXin
+glutathione-glutaredoxin redox reactions	GLUT-REDOX2-PWY	GRX5	YPL059W	GlutaRedoXin
+glutathione-glutaredoxin redox reactions	GLUT-REDOX2-PWY	GTT1	YIR038C	GlutaThione Transferase
+glutathione-glutaredoxin redox reactions	GLUT-REDOX2-PWY	GTT2	YLL060C	GlutaThione Transferase
+glutathione-glutaredoxin redox reactions	GLUT-REDOX2-PWY	HYR1	YIR037W	HYdroperoxide Resistance
+glutathione-glutaredoxin system	PWY3O-592	GLR1	YPL091W	GLutathione Reductase
+glutathione-glutaredoxin system	PWY3O-592	GRX1	YCL035C	GlutaRedoXin
+glutathione-glutaredoxin system	PWY3O-592	GRX2	YDR513W	GlutaRedoXin
+glutathione-glutaredoxin system	PWY3O-592	GRX3	YDR098C	GlutaRedoXin
+glutathione-glutaredoxin system	PWY3O-592	GRX4	YER174C	GlutaRedoXin
+glutathione-glutaredoxin system	PWY3O-592	GRX5	YPL059W	GlutaRedoXin
+glycerol biosynthesis	PWY3O-48	GPD1	YDL022W	Glycerol-3-Phosphate Dehydrogenase
+glycerol biosynthesis	PWY3O-48	GPD2	YOL059W	Glycerol-3-Phosphate Dehydrogenase
+glycerol degradation	AERO-GLYCEROL-CAT-PWY	GUT1	YHL032C	Glycerol UTilization
+glycerol degradation	AERO-GLYCEROL-CAT-PWY	GUT2	YIL155C	Glycerol UTilization
+glycogen biosynthesis	PWY3O-4031	GLC3	YEL011W	GLyCogen
+glycogen biosynthesis	PWY3O-4031	GLG1	YKR058W	Glycogenin-Like Gene
+glycogen biosynthesis	PWY3O-4031	GLG2	YJL137C	Glycogenin-Like Gene
+glycogen biosynthesis	PWY3O-4031	GSY1	YFR015C	Glycogen SYnthase
+glycogen biosynthesis	PWY3O-4031	GSY2	YLR258W	Glycogen SYnthase
+glycogen biosynthesis	PWY3O-4031	PGM1	YKL127W	PhosphoGlucoMutase
+glycogen biosynthesis	PWY3O-4031	PGM2	YMR105C	PhosphoGlucoMutase
+glycogen biosynthesis	PWY3O-4031	UGP1	YKL035W	UDP-glucose pyrophosphorylase
+glycogen biosynthesis	PWY3O-4031	""	YHL012W	""
+glycogen catabolism	GLYCOCAT-YEAST-PWY	GDB1	YPR184W	Glycogen DeBranching
+glycogen catabolism	GLYCOCAT-YEAST-PWY	GPH1	YPR160W	Glycogen PHosphorylase
+glycogen catabolism	GLYCOCAT-YEAST-PWY	PGM1	YKL127W	PhosphoGlucoMutase
+glycogen catabolism	GLYCOCAT-YEAST-PWY	PGM2	YMR105C	PhosphoGlucoMutase
+glycogen catabolism	GLYCOCAT-YEAST-PWY	SGA1	YIL099W	Sporulation-specific GlycoAmylase
+glycolysis I (from glucose 6-phosphate)	GLYCOLYSIS	CDC19	YAL038W	Cell Division Cycle
+glycolysis I (from glucose 6-phosphate)	GLYCOLYSIS	ENO1	YGR254W	ENOlase
+glycolysis I (from glucose 6-phosphate)	GLYCOLYSIS	ENO2	YHR174W	ENOlase
+glycolysis I (from glucose 6-phosphate)	GLYCOLYSIS	FBA1	YKL060C	Fructose-1,6-Bisphosphate Aldolase
+glycolysis I (from glucose 6-phosphate)	GLYCOLYSIS	FBP1	YLR377C	Fructose-1,6-BisPhosphatase
+glycolysis I (from glucose 6-phosphate)	GLYCOLYSIS	GPM1	YKL152C	Glycerate PhosphoMutase
+glycolysis I (from glucose 6-phosphate)	GLYCOLYSIS	PFK1	YGR240C	PhosphoFructoKinase
+glycolysis I (from glucose 6-phosphate)	GLYCOLYSIS	PFK2	YMR205C	PhosphoFructoKinase
+glycolysis I (from glucose 6-phosphate)	GLYCOLYSIS	PGI1	YBR196C	PhosphoGlucoIsomerase
+glycolysis I (from glucose 6-phosphate)	GLYCOLYSIS	PGK1	YCR012W	3-PhosphoGlycerate Kinase
+glycolysis I (from glucose 6-phosphate)	GLYCOLYSIS	PYK2	YOR347C	PYruvate Kinase
+glycolysis I (from glucose 6-phosphate)	GLYCOLYSIS	TDH1	YJL052W	Triose-phosphate DeHydrogenase
+glycolysis I (from glucose 6-phosphate)	GLYCOLYSIS	TDH2	YJR009C	Triose-phosphate DeHydrogenase
+glycolysis I (from glucose 6-phosphate)	GLYCOLYSIS	TDH3	YGR192C	Triose-phosphate DeHydrogenase
+glycolysis I (from glucose 6-phosphate)	GLYCOLYSIS	TPI1	YDR050C	Triose-Phosphate Isomerase
+glyoxylate cycle	GLYOXYLATE-BYPASS	ACO1	YLR304C	ACOnitase
+glyoxylate cycle	GLYOXYLATE-BYPASS	ACO2	YJL200C	ACOnitase
+glyoxylate cycle	GLYOXYLATE-BYPASS	CIT2	YCR005C	CITrate synthase
+glyoxylate cycle	GLYOXYLATE-BYPASS	DAL7	YIR031C	Degradation of Allantoin
+glyoxylate cycle	GLYOXYLATE-BYPASS	ICL1	YER065C	IsoCitrate Lyase
+glyoxylate cycle	GLYOXYLATE-BYPASS	MDH2	YOL126C	Malate DeHydrogenase
+glyoxylate cycle	GLYOXYLATE-BYPASS	MDH3	YDL078C	Malate DeHydrogenase
+glyoxylate cycle	GLYOXYLATE-BYPASS	MLS1	YNL117W	MaLate Synthase
+heme b biosynthesis I (aerobic)	HEME-BIOSYNTHESIS-II	HEM12	YDR047W	HEMe biosynthesis
+heme b biosynthesis I (aerobic)	HEME-BIOSYNTHESIS-II	HEM13	YDR044W	HEMe biosynthesis
+heme b biosynthesis I (aerobic)	HEME-BIOSYNTHESIS-II	HEM14	YER014W	HEMe biosynthesis
+heme b biosynthesis I (aerobic)	HEME-BIOSYNTHESIS-II	HEM15	YOR176W	HEMe biosynthesis
+hexaprenyl diphosphate biosynthesis	HEXPPSYN-PWY-2	BTS1	YPL069C	Bet Two Suppressor
+hexaprenyl diphosphate biosynthesis	HEXPPSYN-PWY-2	COQ1	YBR003W	COenzyme Q
+hexaprenyl diphosphate biosynthesis	HEXPPSYN-PWY-2	ERG20	YJL167W	ERGosterol biosynthesis
+homocysteine and cysteine interconversion	HOMOCYS-CYS-CONVERT	CYS3	YAL012W	CYStathionine gamma-lyase
+homocysteine and cysteine interconversion	HOMOCYS-CYS-CONVERT	CYS4	YGR155W	CYStathionine beta-synthase
+homocysteine and cysteine interconversion	HOMOCYS-CYS-CONVERT	STR2	YJR130C	Sulfur TRansfer
+homocysteine and cysteine interconversion	HOMOCYS-CYS-CONVERT	STR3	YGL184C	Sulfur TRansfer
+L-alanine biosynthesis II	ALANINE-SYN2-PWY	ALT1	YLR089C	ALanine Transaminase
+lanosterol biosynthesis	PWY-6132	ERG7	YHR072W	ERGosterol biosynthesis
+L-cysteine biosynthesis III (from L-homocysteine)	HOMOCYSDEGR-PWY-1	CYS3	YAL012W	CYStathionine gamma-lyase
+L-cysteine biosynthesis III (from L-homocysteine)	HOMOCYSDEGR-PWY-1	CYS4	YGR155W	CYStathionine beta-synthase
+lipid-linked oligosaccharide biosynthesis	GLUCOSE-MANNOSYL-CHITO-DOLICHOL	ALG1	YBR110W	Asparagine-Linked Glycosylation
+lipid-linked oligosaccharide biosynthesis	GLUCOSE-MANNOSYL-CHITO-DOLICHOL	ALG11	YNL048W	Asparagine-Linked Glycosylation
+lipid-linked oligosaccharide biosynthesis	GLUCOSE-MANNOSYL-CHITO-DOLICHOL	ALG12	YNR030W	Asparagine-Linked Glycosylation
+lipid-linked oligosaccharide biosynthesis	GLUCOSE-MANNOSYL-CHITO-DOLICHOL	ALG13	YGL047W	Asparagine-Linked Glycosylation
+lipid-linked oligosaccharide biosynthesis	GLUCOSE-MANNOSYL-CHITO-DOLICHOL	ALG14	YBR070C	Asparagine Linked Glycosylation
+lipid-linked oligosaccharide biosynthesis	GLUCOSE-MANNOSYL-CHITO-DOLICHOL	ALG2	YGL065C	Asparagine-Linked Glycosylation
+lipid-linked oligosaccharide biosynthesis	GLUCOSE-MANNOSYL-CHITO-DOLICHOL	ALG3	YBL082C	Asparagine Linked Glycosylation
+lipid-linked oligosaccharide biosynthesis	GLUCOSE-MANNOSYL-CHITO-DOLICHOL	ALG6	YOR002W	Asparagine-Linked Glycosylation
+lipid-linked oligosaccharide biosynthesis	GLUCOSE-MANNOSYL-CHITO-DOLICHOL	ALG7	YBR243C	Asparagine-Linked Glycosylation
+lipid-linked oligosaccharide biosynthesis	GLUCOSE-MANNOSYL-CHITO-DOLICHOL	ALG8	YOR067C	Asparagine-Linked Glycosylation
+lipid-linked oligosaccharide biosynthesis	GLUCOSE-MANNOSYL-CHITO-DOLICHOL	ALG9	YNL219C	Asparagine-Linked Glycosylation
+lipid-linked oligosaccharide biosynthesis	GLUCOSE-MANNOSYL-CHITO-DOLICHOL	DIE2	YGR227W	Derepression of ITR1 Expression
+L-leucine biosynthesis	LEUSYN-PWY-1	BAT1	YHR208W	Branched-chain Amino acid Transaminase
+L-leucine biosynthesis	LEUSYN-PWY-1	BAT2	YJR148W	Branched-chain Amino acid Transaminase
+L-leucine biosynthesis	LEUSYN-PWY-1	LEU1	YGL009C	LEUcine biosynthesis
+L-leucine biosynthesis	LEUSYN-PWY-1	LEU2	YCL018W	LEUcine biosynthesis
+L-leucine biosynthesis	LEUSYN-PWY-1	LEU4	YNL104C	LEUcine biosynthesis
+L-leucine biosynthesis	LEUSYN-PWY-1	LEU9	YOR108W	LEUcine biosynthesis
+L-lysine biosynthesis IV	LYSINE-AMINOAD-PWY-2	LYS1	YIR034C	LYSine requiring
+L-lysine biosynthesis IV	LYSINE-AMINOAD-PWY-2	LYS12	YIL094C	LYSine requiring
+L-lysine biosynthesis IV	LYSINE-AMINOAD-PWY-2	LYS2	YBR115C	LYSine requiring
+L-lysine biosynthesis IV	LYSINE-AMINOAD-PWY-2	LYS20	YDL182W	LYSine requiring
+L-lysine biosynthesis IV	LYSINE-AMINOAD-PWY-2	LYS21	YDL131W	LYSine
+L-lysine biosynthesis IV	LYSINE-AMINOAD-PWY-2	LYS4	YDR234W	LYSine requiring
+L-lysine biosynthesis IV	LYSINE-AMINOAD-PWY-2	LYS9	YNR050C	LYSine requiring
+L-proline biosynthesis I	PROSYN-PWY	PRO1	YDR300C	PROline requiring
+L-proline biosynthesis I	PROSYN-PWY	PRO2	YOR323C	PROline requiring
+L-proline biosynthesis I	PROSYN-PWY	PRO3	YER023W	PROline requiring
+L-serine biosynthesis I	SERSYN-PWY	SER1	YOR184W	SERine requiring
+L-serine biosynthesis I	SERSYN-PWY	SER2	YGR208W	SERine requiring
+L-serine biosynthesis I	SERSYN-PWY	SER3	YER081W	SERine requiring
+L-serine biosynthesis I	SERSYN-PWY	SER33	YIL074C	SERine requiring
+L-tryptophan degradation III (eukaryotic)	TRYPTOPHAN-DEGRADATION-1	BNA1	YJR025C	Biosynthesis of Nicotinic Acid
+L-tryptophan degradation III (eukaryotic)	TRYPTOPHAN-DEGRADATION-1	BNA2	YJR078W	Biosynthesis of Nicotinic Acid
+L-tryptophan degradation III (eukaryotic)	TRYPTOPHAN-DEGRADATION-1	BNA3	YJL060W	Biosynthesis of Nicotinic Acid
+L-tryptophan degradation III (eukaryotic)	TRYPTOPHAN-DEGRADATION-1	BNA4	YBL098W	Biosynthesis of Nicotinic Acid
+L-tryptophan degradation III (eukaryotic)	TRYPTOPHAN-DEGRADATION-1	BNA5	YLR231C	Biosynthesis of Nicotinic Acid
+L-tryptophan degradation III (eukaryotic)	TRYPTOPHAN-DEGRADATION-1	BNA6	YFR047C	Biosynthesis of Nicotinic Acid
+L-tryptophan degradation III (eukaryotic)	TRYPTOPHAN-DEGRADATION-1	BNA7	YDR428C	Biosynthesis of NAD
+L-tryptophan degradation III (eukaryotic)	TRYPTOPHAN-DEGRADATION-1	NMA1	YLR328W	Nicotinamide Mononucleotide Adenylyltransferase
+L-tryptophan degradation III (eukaryotic)	TRYPTOPHAN-DEGRADATION-1	NMA2	YGR010W	Nicotinamide Mononucleotide Adenylyltransferase
+L-tryptophan degradation III (eukaryotic)	TRYPTOPHAN-DEGRADATION-1	QNS1	YHR074W	glutamine (Q) dependent Nad+ Synthetase
+L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	PWY-5651	BNA1	YJR025C	Biosynthesis of Nicotinic Acid
+L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	PWY-5651	BNA2	YJR078W	Biosynthesis of Nicotinic Acid
+L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	PWY-5651	BNA3	YJL060W	Biosynthesis of Nicotinic Acid
+L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	PWY-5651	BNA4	YBL098W	Biosynthesis of Nicotinic Acid
+L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	PWY-5651	BNA5	YLR231C	Biosynthesis of Nicotinic Acid
+L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	PWY-5651	BNA7	YDR428C	Biosynthesis of NAD
+L-tyrosine degradation III	PWY3O-4108	ADH1	YOL086C	Alcohol DeHydrogenase
+L-tyrosine degradation III	PWY3O-4108	ADH2	YMR303C	Alcohol DeHydrogenase
+L-tyrosine degradation III	PWY3O-4108	ADH3	YMR083W	Alcohol DeHydrogenase
+L-tyrosine degradation III	PWY3O-4108	ADH4	YGL256W	Alcohol DeHydrogenase
+L-tyrosine degradation III	PWY3O-4108	ADH5	YBR145W	Alcohol DeHydrogenase
+L-tyrosine degradation III	PWY3O-4108	ARO8	YGL202W	AROmatic amino acid requiring
+L-tyrosine degradation III	PWY3O-4108	ARO9	YHR137W	AROmatic amino acid requiring
+L-tyrosine degradation III	PWY3O-4108	PDC1	YLR044C	Pyruvate DeCarboxylase
+L-tyrosine degradation III	PWY3O-4108	PDC5	YLR134W	Pyruvate DeCarboxylase
+L-tyrosine degradation III	PWY3O-4108	PDC6	YGR087C	Pyruvate DeCarboxylase
+mannose degradation	PWY3O-1743	GLK1	YCL040W	GLucoKinase
+mannose degradation	PWY3O-1743	HXK1	YFR053C	HeXoKinase
+mannose degradation	PWY3O-1743	HXK2	YGL253W	HeXoKinase
+mannose degradation	PWY3O-1743	PMI40	YER003C	PhosphoMannose Isomerase
+methylglyoxal catabolism	PWY-901	GLO1	YML004C	GLyOxalase
+methylglyoxal catabolism	PWY-901	GLO2	YDR272W	GLyOxalase
+methylglyoxal catabolism	PWY-901	GLO4	YOR040W	GLyOxalase
+mevalonate pathway	IPPSYN-PWY	ERG10	YPL028W	ERGosterol biosynthesis
+mevalonate pathway	IPPSYN-PWY	ERG12	YMR208W	ERGosterol biosynthesis
+mevalonate pathway	IPPSYN-PWY	ERG13	YML126C	ERGosterol biosynthesis
+mevalonate pathway	IPPSYN-PWY	ERG8	YMR220W	ERGosterol biosynthesis
+mevalonate pathway	IPPSYN-PWY	HMG1	YML075C	3-Hydroxy-3-MethylGlutaryl-coenzyme a reductase
+mevalonate pathway	IPPSYN-PWY	HMG2	YLR450W	3-Hydroxy-3-MethylGlutaryl-coenzyme a reductase
+mevalonate pathway	IPPSYN-PWY	IDI1	YPL117C	Isopentenyl Diphosphate Isomerase
+mevalonate pathway	IPPSYN-PWY	MVD1	YNR043W	MeValonate pyrophosphate Decarboxylase
+mevalonate pathway I	PWY-922	ERG10	YPL028W	ERGosterol biosynthesis
+mevalonate pathway I	PWY-922	ERG12	YMR208W	ERGosterol biosynthesis
+mevalonate pathway I	PWY-922	ERG13	YML126C	ERGosterol biosynthesis
+mevalonate pathway I	PWY-922	ERG8	YMR220W	ERGosterol biosynthesis
+mevalonate pathway I	PWY-922	HMG1	YML075C	3-Hydroxy-3-MethylGlutaryl-coenzyme a reductase
+mevalonate pathway I	PWY-922	HMG2	YLR450W	3-Hydroxy-3-MethylGlutaryl-coenzyme a reductase
+mevalonate pathway I	PWY-922	IDI1	YPL117C	Isopentenyl Diphosphate Isomerase
+mevalonate pathway I	PWY-922	MVD1	YNR043W	MeValonate pyrophosphate Decarboxylase
+myo-inositol biosynthesis	PWY-2301	INM1	YHR046C	INositol Monophosphatase
+myo-inositol biosynthesis	PWY-2301	INM2	YDR287W	INositol Monophosphatase
+myo-inositol biosynthesis	PWY-2301	INO1	YJL153C	INOsitol requiring
+myristate biosynthesis	PWY-5971-1	OAR1	YKL055C	3-Oxoacyl-[Acyl-carrier-protein] Reductase
+myristate biosynthesis	PWY-5971-1	TES1	YJR019C	ThioESterase
+NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde	PWY-5653	BNA6	YFR047C	Biosynthesis of Nicotinic Acid
+NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde	PWY-5653	NMA1	YLR328W	Nicotinamide Mononucleotide Adenylyltransferase
+NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde	PWY-5653	NMA2	YGR010W	Nicotinamide Mononucleotide Adenylyltransferase
+NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde	PWY-5653	QNS1	YHR074W	glutamine (Q) dependent Nad+ Synthetase
+NAD de novo biosynthesis II (from tryptophan)	NADSYN-PWY	BNA1	YJR025C	Biosynthesis of Nicotinic Acid
+NAD de novo biosynthesis II (from tryptophan)	NADSYN-PWY	BNA2	YJR078W	Biosynthesis of Nicotinic Acid
+NAD de novo biosynthesis II (from tryptophan)	NADSYN-PWY	BNA3	YJL060W	Biosynthesis of Nicotinic Acid
+NAD de novo biosynthesis II (from tryptophan)	NADSYN-PWY	BNA4	YBL098W	Biosynthesis of Nicotinic Acid
+NAD de novo biosynthesis II (from tryptophan)	NADSYN-PWY	BNA5	YLR231C	Biosynthesis of Nicotinic Acid
+NAD de novo biosynthesis II (from tryptophan)	NADSYN-PWY	BNA6	YFR047C	Biosynthesis of Nicotinic Acid
+NAD de novo biosynthesis II (from tryptophan)	NADSYN-PWY	BNA7	YDR428C	Biosynthesis of NAD
+NAD de novo biosynthesis II (from tryptophan)	NADSYN-PWY	NMA1	YLR328W	Nicotinamide Mononucleotide Adenylyltransferase
+NAD de novo biosynthesis II (from tryptophan)	NADSYN-PWY	NMA2	YGR010W	Nicotinamide Mononucleotide Adenylyltransferase
+NAD de novo biosynthesis II (from tryptophan)	NADSYN-PWY	QNS1	YHR074W	glutamine (Q) dependent Nad+ Synthetase
+NAD salvage pathway IV (from nicotinamide riboside)	PWY3O-4106	NMA1	YLR328W	Nicotinamide Mononucleotide Adenylyltransferase
+NAD salvage pathway IV (from nicotinamide riboside)	PWY3O-4106	NMA2	YGR010W	Nicotinamide Mononucleotide Adenylyltransferase
+NAD salvage pathway IV (from nicotinamide riboside)	PWY3O-4106	NRK1	YNL129W	Nicotinamide Riboside Kinase
+NAD salvage pathway V (PNC V cycle)	PWY3O-4107	NMA1	YLR328W	Nicotinamide Mononucleotide Adenylyltransferase
+NAD salvage pathway V (PNC V cycle)	PWY3O-4107	NMA2	YGR010W	Nicotinamide Mononucleotide Adenylyltransferase
+NAD salvage pathway V (PNC V cycle)	PWY3O-4107	NPT1	YOR209C	Nicotinate PhosphoribosylTransferase
+NAD salvage pathway V (PNC V cycle)	PWY3O-4107	PNC1	YGL037C	Pyrazinamidase and NiCotinamidase
+NAD salvage pathway V (PNC V cycle)	PWY3O-4107	QNS1	YHR074W	glutamine (Q) dependent Nad+ Synthetase
+NAD salvage pathway V (PNC V cycle)	PWY3O-4107	SIR2	YDL042C	Silent Information Regulator
+nicotinamide riboside salvage pathway II	PWY3O-96	PNP1	YLR209C	purine nucleoside phosphorylase
+nicotinamide riboside salvage pathway II	PWY3O-96	URH1	YDR400W	URidine Hydrolase
+nicotinate riboside salvage pathway I	PWY3O-224	NRK1	YNL129W	Nicotinamide Riboside Kinase
+nicotinate riboside salvage pathway II	PWY3O-236	PNP1	YLR209C	purine nucleoside phosphorylase
+nicotinate riboside salvage pathway II	PWY3O-236	URH1	YDR400W	URidine Hydrolase
+oleate biosynthesis	PWY3O-5268	OLE1	YGL055W	OLEic acid requiring
+palmitate biosynthesis	PWY3O-8514	FAS1	YKL182W	Fatty Acid Synthetase
+palmitate biosynthesis	PWY3O-8514	FAS2	YPL231W	Fatty Acid Synthetase
+palmitate biosynthesis	PWY3O-8514	OAR1	YKL055C	3-Oxoacyl-[Acyl-carrier-protein] Reductase
+palmitoleate biosynthesis	PWY3O-1801	OLE1	YGL055W	OLEic acid requiring
+palmitoleate biosynthesis	PWY3O-1801	TES1	YJR019C	ThioESterase
+p-aminobenzoate biosynthesis	PWY3O-1874	ABZ1	YNR033W	para-AminoBenZoic acid (PABA) biosynthesis
+p-aminobenzoate biosynthesis	PWY3O-1874	ABZ2	YMR289W	para-AminoBenZoic acid (PABA) biosynthesis
+pantothenate and coenzyme A biosynthesis	PANTOSYN2-PWY	ALD2	YMR170C	ALdehyde Dehydrogenase
+pantothenate and coenzyme A biosynthesis	PANTOSYN2-PWY	ALD3	YMR169C	ALdehyde Dehydrogenase
+pantothenate and coenzyme A biosynthesis	PANTOSYN2-PWY	CAB1	YDR531W	Coenzyme A Biosynthesis
+pantothenate and coenzyme A biosynthesis	PANTOSYN2-PWY	CAB2	YIL083C	Coenzyme A Biosynthesis
+pantothenate and coenzyme A biosynthesis	PANTOSYN2-PWY	CAB3	YKL088W	Coenzyme A Biosynthesis
+pantothenate and coenzyme A biosynthesis	PANTOSYN2-PWY	CAB4	YGR277C	Coenzyme A Biosynthesis
+pantothenate and coenzyme A biosynthesis	PANTOSYN2-PWY	CAB5	YDR196C	""
+pantothenate and coenzyme A biosynthesis	PANTOSYN2-PWY	ECM31	YBR176W	ExtraCellular Mutant
+pantothenate and coenzyme A biosynthesis	PANTOSYN2-PWY	FMS1	YMR020W	Fenpropimorph-resistance Multicopy Suppressor
+pantothenate and coenzyme A biosynthesis	PANTOSYN2-PWY	PAN5	YHR063C	PANtothenate biosynthesis
+pantothenate and coenzyme A biosynthesis	PANTOSYN2-PWY	PAN6	YIL145C	PANtothenate biosynthesis
+pantothenate and coenzyme A biosynthesis	PANTOSYN2-PWY	SIS2	YKR072C	SIt4 Suppressor
+pantothenate and coenzyme A biosynthesis	PANTOSYN2-PWY	VHS3	YOR054C	Viable in a Hal3 Sit4 background
+pentose phosphate pathway	PENTOSE-P-PWY	GND1	YHR183W	6-phosphoGlucoNateDehydrogenase
+pentose phosphate pathway	PENTOSE-P-PWY	GND2	YGR256W	6-phosphoGlucoNateDehydrogenase
+pentose phosphate pathway	PENTOSE-P-PWY	RKI1	YOR095C	Ribose-5-phosphate Ketol-Isomerase
+pentose phosphate pathway	PENTOSE-P-PWY	RPE1	YJL121C	Ribulose 5-Phosphate Epimerase
+pentose phosphate pathway	PENTOSE-P-PWY	SOL3	YHR163W	Suppressor Of Los1-1
+pentose phosphate pathway	PENTOSE-P-PWY	SOL4	YGR248W	Suppressor Of Los1-1
+pentose phosphate pathway	PENTOSE-P-PWY	TAL1	YLR354C	TransALdolase
+pentose phosphate pathway	PENTOSE-P-PWY	TKL1	YPR074C	TransKetoLase
+pentose phosphate pathway	PENTOSE-P-PWY	TKL2	YBR117C	TransKetoLase
+pentose phosphate pathway	PENTOSE-P-PWY	ZWF1	YNL241C	ZWischenFerment
+pentose phosphate pathway (non-oxidative branch)	NONOXIPENT-PWY	RKI1	YOR095C	Ribose-5-phosphate Ketol-Isomerase
+pentose phosphate pathway (non-oxidative branch)	NONOXIPENT-PWY	RPE1	YJL121C	Ribulose 5-Phosphate Epimerase
+pentose phosphate pathway (non-oxidative branch)	NONOXIPENT-PWY	TAL1	YLR354C	TransALdolase
+pentose phosphate pathway (non-oxidative branch)	NONOXIPENT-PWY	TKL1	YPR074C	TransKetoLase
+pentose phosphate pathway (non-oxidative branch)	NONOXIPENT-PWY	TKL2	YBR117C	TransKetoLase
+pentose phosphate pathway (oxidative branch) I	OXIDATIVEPENT-PWY	GND1	YHR183W	6-phosphoGlucoNateDehydrogenase
+pentose phosphate pathway (oxidative branch) I	OXIDATIVEPENT-PWY	GND2	YGR256W	6-phosphoGlucoNateDehydrogenase
+pentose phosphate pathway (oxidative branch) I	OXIDATIVEPENT-PWY	SOL3	YHR163W	Suppressor Of Los1-1
+pentose phosphate pathway (oxidative branch) I	OXIDATIVEPENT-PWY	SOL4	YGR248W	Suppressor Of Los1-1
+pentose phosphate pathway (oxidative branch) I	OXIDATIVEPENT-PWY	ZWF1	YNL241C	ZWischenFerment
+periplasmic NAD degradation	PERIPLASMA-NAD-DEGRADATION	NPY1	YGL067W	NADH PYrophosphatase
+phenylalanine biosynthesis	PWY3O-4153	ARO7	YPR060C	AROmatic amino acid requiring
+phenylalanine biosynthesis	PWY3O-4153	ARO8	YGL202W	AROmatic amino acid requiring
+phenylalanine biosynthesis	PWY3O-4153	ARO9	YHR137W	AROmatic amino acid requiring
+phenylalanine biosynthesis	PWY3O-4153	PHA2	YNL316C	PHenylAlanine requiring
+phosphatidate biosynthesis II (the glycerol-3-phosphate pathway)	PWY3O-6499	GPD1	YDL022W	Glycerol-3-Phosphate Dehydrogenase
+phosphatidate biosynthesis II (the glycerol-3-phosphate pathway)	PWY3O-6499	GPD2	YOL059W	Glycerol-3-Phosphate Dehydrogenase
+phosphatidate biosynthesis II (the glycerol-3-phosphate pathway)	PWY3O-6499	GPT2	YKR067W	Glycerol-3-Phosphate acylTransferase
+phosphatidate biosynthesis II (the glycerol-3-phosphate pathway)	PWY3O-6499	SCT1	YBL011W	Suppressor of Choline-Transport mutants
+phosphatidate biosynthesis II (the glycerol-3-phosphate pathway)	PWY3O-6499	SLC1	YDL052C	SphingoLipid Compensation
+phosphatidate biosynthesis I (the dihydroxyacetone pathway)	PWY3O-6407	AYR1	YIL124W	1-AcyldihYdroxyacetone-phosphate Reductase
+phosphatidate biosynthesis I (the dihydroxyacetone pathway)	PWY3O-6407	GPT2	YKR067W	Glycerol-3-Phosphate acylTransferase
+phosphatidate biosynthesis I (the dihydroxyacetone pathway)	PWY3O-6407	SCT1	YBL011W	Suppressor of Choline-Transport mutants
+phosphatidate biosynthesis I (the dihydroxyacetone pathway)	PWY3O-6407	SLC1	YDL052C	SphingoLipid Compensation
+phosphatidylcholine biosynthesis I	PWY3O-450	CKI1	YLR133W	Choline KInase
+phosphatidylcholine biosynthesis I	PWY3O-450	CPT1	YNL130C	CholinePhosphoTransferase
+phosphatidylcholine biosynthesis I	PWY3O-450	PCT1	YGR202C	Phosphocholine CytidylylTransferase
+phosphatidylethanolamine biosynthesis I	PWY-5669	CHO1	YER026C	CHOline requiring
+phosphatidylethanolamine biosynthesis I	PWY-5669	PSD1	YNL169C	PhosphatidylSerine Decarboxylase
+phosphatidylethanolamine biosynthesis I	PWY-5669	PSD2	YGR170W	PhosphatidylSerine Decarboxylase
+phosphatidylinositol biosynthesis	PWY3O-3	PIS1	YPR113W	Phosphatidyl Inositol Synthase
+phospholipid biosynthesis	PHOSLIPSYN2-PWY-1	CHO1	YER026C	CHOline requiring
+phospholipid biosynthesis	PHOSLIPSYN2-PWY-1	CHO2	YGR157W	CHOline requiring
+phospholipid biosynthesis	PHOSLIPSYN2-PWY-1	CRD1	YDL142C	CaRDiolipin synthase
+phospholipid biosynthesis	PHOSLIPSYN2-PWY-1	OPI3	YJR073C	OverProducer of Inositol
+phospholipid biosynthesis	PHOSLIPSYN2-PWY-1	PGS1	YCL004W	PhosphatidylGlycerolphosphate Synthase
+phospholipid biosynthesis	PHOSLIPSYN2-PWY-1	PSD1	YNL169C	PhosphatidylSerine Decarboxylase
+phospholipid biosynthesis	PHOSLIPSYN2-PWY-1	PSD2	YGR170W	PhosphatidylSerine Decarboxylase
+phospholipid biosynthesis II (Kennedy pathway)	PWY3O-259	ECT1	YGR007W	Ethanolamine-phosphate CytidylylTransferase
+phospholipid biosynthesis II (Kennedy pathway)	PWY3O-259	EKI1	YDR147W	Ethanolamine KInase
+phospholipid biosynthesis II (Kennedy pathway)	PWY3O-259	EPT1	YHR123W	EthanolaminePhosphoTransferase
+PRPP biosynthesis	PWY0-662	PRS1	YKL181W	PhosphoRibosylpyrophosphate Synthetase
+PRPP biosynthesis	PWY0-662	PRS2	YER099C	PhosphoRibosylpyrophosphate Synthetase
+PRPP biosynthesis	PWY0-662	PRS3	YHL011C	PhosphoRibosylpyrophosphate Synthetase
+PRPP biosynthesis	PWY0-662	PRS4	YBL068W	PhosphoRibosylpyrophosphate Synthetase
+PRPP biosynthesis	PWY0-662	PRS5	YOL061W	PhosphoRibosylpyrophosphate Synthetase
+putrescine biosynthesis III	PWY-46	SPE1	YKL184W	SPErmidine auxotroph
+pyridoxal 5'-phosphate salvage I	PLPSAL-PWY	BUD16	YEL029C	BUD site selection
+pyridoxal 5'-phosphate salvage I	PLPSAL-PWY	PDX3	YBR035C	PyriDoXine auxotrophy
+pyruvate decarboxylation to acetyl CoA	PYRUVDEHYD-PWY	LAT1	YNL071W	""
+pyruvate decarboxylation to acetyl CoA	PYRUVDEHYD-PWY	LPD1	YFL018C	LiPoamide Dehydrogenase
+pyruvate decarboxylation to acetyl CoA	PYRUVDEHYD-PWY	PDA1	YER178W	Pyruvate Dehydrogenase Alpha
+pyruvate decarboxylation to acetyl CoA	PYRUVDEHYD-PWY	PDB1	YBR221C	Pyruvate Dehydrogenase Beta subunit
+pyruvate fermentation to acetoin III	PWY3O-440	PDC1	YLR044C	Pyruvate DeCarboxylase
+pyruvate fermentation to acetoin III	PWY3O-440	PDC5	YLR134W	Pyruvate DeCarboxylase
+pyruvate fermentation to acetoin III	PWY3O-440	PDC6	YGR087C	Pyruvate DeCarboxylase
+riboflavin, FMN and FAD biosynthesis	YEAST-RIBOSYN-PWY	FAD1	YDL045C	FAD synthetase
+riboflavin, FMN and FAD biosynthesis	YEAST-RIBOSYN-PWY	FMN1	YDR236C	FMN biosynthesis
+riboflavin, FMN and FAD biosynthesis	YEAST-RIBOSYN-PWY	RIB1	YBL033C	RIBoflavin biosynthesis
+riboflavin, FMN and FAD biosynthesis	YEAST-RIBOSYN-PWY	RIB2	YOL066C	RIBoflavin biosynthesis
+riboflavin, FMN and FAD biosynthesis	YEAST-RIBOSYN-PWY	RIB3	YDR487C	RIBoflavin biosynthesis
+riboflavin, FMN and FAD biosynthesis	YEAST-RIBOSYN-PWY	RIB4	YOL143C	RIBoflavin biosynthesis
+riboflavin, FMN and FAD biosynthesis	YEAST-RIBOSYN-PWY	RIB5	YBR256C	RIBoflavin biosynthesis
+riboflavin, FMN and FAD biosynthesis	YEAST-RIBOSYN-PWY	RIB7	YBR153W	RIBoflavin biosynthesis
+(R,R)-butanediol degradation	PWY3O-246	BDH1	YAL060W	Butanediol DeHydrogenase
+S-adenosyl-L-methionine biosynthesis	SAM-PWY	SAM1	YLR180W	S-AdenosylMethionine requiring
+S-adenosyl-L-methionine biosynthesis	SAM-PWY	SAM2	YDR502C	S-AdenosylMethionine requiring
+salvage pathways of adenine, hypoxanthine and their nucleosides	PWY3O-2220	AAH1	YNL141W	Adenine AminoHydrolase
+salvage pathways of adenine, hypoxanthine and their nucleosides	PWY3O-2220	ADO1	YJR105W	ADenOsine kinase
+salvage pathways of adenine, hypoxanthine and their nucleosides	PWY3O-2220	AMD1	YML035C	AMP Deaminase
+salvage pathways of adenine, hypoxanthine and their nucleosides	PWY3O-2220	APT1	YML022W	Adenine PhosphoribosylTransferase
+salvage pathways of adenine, hypoxanthine and their nucleosides	PWY3O-2220	HPT1	YDR399W	Hypoxanthine guanine PhosphoribosylTransferase
+salvage pathways of adenine, hypoxanthine and their nucleosides	PWY3O-2220	PNP1	YLR209C	purine nucleoside phosphorylase
+salvage pathways of guanine, xanthine and their nucleosides	PWY3O-743	GUD1	YDL238C	GUanine Deaminase
+salvage pathways of guanine, xanthine and their nucleosides	PWY3O-743	HPT1	YDR399W	Hypoxanthine guanine PhosphoribosylTransferase
+salvage pathways of guanine, xanthine and their nucleosides	PWY3O-743	XPT1	YJR133W	Xanthine Phosphoribosyl Transferase
+salvage pathways of purines and their nucleosides	PWY3O-1	AAH1	YNL141W	Adenine AminoHydrolase
+salvage pathways of purines and their nucleosides	PWY3O-1	ADO1	YJR105W	ADenOsine kinase
+salvage pathways of purines and their nucleosides	PWY3O-1	AMD1	YML035C	AMP Deaminase
+salvage pathways of purines and their nucleosides	PWY3O-1	APT1	YML022W	Adenine PhosphoribosylTransferase
+salvage pathways of purines and their nucleosides	PWY3O-1	GUD1	YDL238C	GUanine Deaminase
+salvage pathways of purines and their nucleosides	PWY3O-1	HPT1	YDR399W	Hypoxanthine guanine PhosphoribosylTransferase
+salvage pathways of purines and their nucleosides	PWY3O-1	PNP1	YLR209C	purine nucleoside phosphorylase
+salvage pathways of purines and their nucleosides	PWY3O-1	XPT1	YJR133W	Xanthine Phosphoribosyl Transferase
+salvage pathways of pyrimidine deoxyribonucleotides	YEAST-SALV-PYRMID-DNTP	CDD1	YLR245C	CytiDine Deaminase
+salvage pathways of pyrimidine deoxyribonucleotides	YEAST-SALV-PYRMID-DNTP	URH1	YDR400W	URidine Hydrolase
+salvage pathways of pyrimidine deoxyribonucleotides	YEAST-SALV-PYRMID-DNTP	URK1	YNR012W	URidine Kinase
+salvage pathways of pyrimidine ribonucleotides	YEAST-RNT-SALV	CDD1	YLR245C	CytiDine Deaminase
+salvage pathways of pyrimidine ribonucleotides	YEAST-RNT-SALV	FCY1	YPR062W	FluoroCYtosine resistance
+salvage pathways of pyrimidine ribonucleotides	YEAST-RNT-SALV	FUR1	YHR128W	5-FluoroURidine resistant
+salvage pathways of pyrimidine ribonucleotides	YEAST-RNT-SALV	URA6	YKL024C	URAcil requiring
+salvage pathways of pyrimidine ribonucleotides	YEAST-RNT-SALV	URH1	YDR400W	URidine Hydrolase
+salvage pathways of pyrimidine ribonucleotides	YEAST-RNT-SALV	URK1	YNR012W	URidine Kinase
+salvage pathways of pyrimidine ribonucleotides	YEAST-RNT-SALV	YNK1	YKL067W	Yeast Nucleoside diphosphate Kinase
+serine biosynthesis from glyoxylate	PWY3O-230	SHM1	YBR263W	Serine HydroxyMethyltransferase
+serine biosynthesis from glyoxylate	PWY3O-230	SHM2	YLR058C	Serine HydroxyMethyltransferase
+siroheme biosynthesis	PWY-5194-1	MET1	YKR069W	METhionine requiring
+siroheme biosynthesis	PWY-5194-1	MET8	YBR213W	METhionine requiring
+spermidine biosynthesis I	BSUBPOLYAMSYN-PWY	SPE2	YOL052C	SPErmidine auxotroph
+spermidine biosynthesis I	BSUBPOLYAMSYN-PWY	SPE3	YPR069C	SPErmidine auxotroph
+spermine biosynthesis	ARGSPECAT-PWY	SPE2	YOL052C	SPErmidine auxotroph
+spermine biosynthesis	ARGSPECAT-PWY	SPE4	YLR146C	SPErmidine auxotroph
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	AUR1	YKL004W	AUreobasidin A Resistance
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	CSG2	YBR036C	Calcium Sensitive Growth
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	DPL1	YDR294C	Dihydrosphingosine Phosphate Lyase
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	IPT1	YDR072C	InositolPhosphoTransferase
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	LAC1	YKL008C	Longevity-Assurance gene Cognate (LAG1 Cognate)
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	LAG1	YHL003C	Longevity Assurance Gene
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	LCB1	YMR296C	Long-Chain Base
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	LCB2	YDR062W	Long-Chain Base
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	LCB3	YJL134W	Long-Chain Base
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	LCB4	YOR171C	Long-Chain Base
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	LCB5	YLR260W	Long-Chain Base
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	LIP1	YMR298W	Lag1p/Lac1p Interacting Protein
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	SCS7	YMR272C	Suppressor of Ca2+ Sensitivity
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	SUR1	YPL057C	SUppressor of Rvs161 and rvs167 mutations
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	SUR2	YDR297W	SUppressor of Rvs161 and rvs167 mutations
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	TSC10	YBR265W	Temperature-sensitive Suppressors of Csg2 mutants
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	YDC1	YPL087W	Yeast DihydroCeramidase
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	YPC1	YBR183W	Yeast Phyto-Ceramidase
+sphingolipid biosynthesis (yeast)	SPHINGOLIPID-SYN-PWY-1	YSR3	YKR053C	Yeast Sphingolipid Resistance
+stearate biosynthesis III (fungi)	PWY3O-355	CEM1	YER061C	Condensing Enzyme with Mitochondrial function
+stearate biosynthesis III (fungi)	PWY3O-355	FAS1	YKL182W	Fatty Acid Synthetase
+stearate biosynthesis III (fungi)	PWY3O-355	FAS2	YPL231W	Fatty Acid Synthetase
+stearate biosynthesis III (fungi)	PWY3O-355	OAR1	YKL055C	3-Oxoacyl-[Acyl-carrier-protein] Reductase
+stearate biosynthesis III (fungi)	PWY3O-355	TES1	YJR019C	ThioESterase
+sucrose degradation	SUCUTIL-PWY-2	SUC2	YIL162W	SUCrose
+sulfate activation (for sulfonation)	PWY-5340	MET14	YKL001C	METhionine requiring
+sulfate activation (for sulfonation)	PWY-5340	MET3	YJR010W	METhionine requiring
+sulfate assimilation pathway	PWY-781	MET10	YFR030W	METhionine requiring
+sulfate assimilation pathway	PWY-781	MET14	YKL001C	METhionine requiring
+sulfate assimilation pathway	PWY-781	MET16	YPR167C	METhionine requiring
+sulfate assimilation pathway	PWY-781	MET3	YJR010W	METhionine requiring
+sulfate assimilation pathway	PWY-781	MET5	YJR137C	METhionine requiring
+sulfate assimilation pathway	PWY-781	TRX1	YLR043C	ThioRedoXin
+sulfate assimilation pathway	PWY-781	TRX2	YGR209C	ThioRedoXin
+sulfate assimilation pathway	PWY-781	TRX3	YCR083W	ThioRedoXin
+superoxide radicals degradation	DETOX1-PWY	CTA1	YDR256C	CaTalase A
+superoxide radicals degradation	DETOX1-PWY	CTT1	YGR088W	CaTalase T
+superoxide radicals degradation	DETOX1-PWY	SOD1	YJR104C	SuperOxide Dismutase
+superoxide radicals degradation	DETOX1-PWY	SOD2	YHR008C	SuperOxide Dismutase
+superpathway of acetoin and butanediol biosynthesis	PWY3O-981	BDH1	YAL060W	Butanediol DeHydrogenase
+superpathway of acetoin and butanediol biosynthesis	PWY3O-981	ILV2	YMR108W	IsoLeucine-plus-Valine requiring
+superpathway of acetoin and butanediol biosynthesis	PWY3O-981	ILV6	YCL009C	IsoLeucine Valine
+superpathway of acetoin and butanediol biosynthesis	PWY3O-981	PDC1	YLR044C	Pyruvate DeCarboxylase
+superpathway of acetoin and butanediol biosynthesis	PWY3O-981	PDC5	YLR134W	Pyruvate DeCarboxylase
+superpathway of acetoin and butanediol biosynthesis	PWY3O-981	PDC6	YGR087C	Pyruvate DeCarboxylase
+superpathway of adenosine nucleotides de novo biosynthesis II	PWY-6126-1	ADE12	YNL220W	ADEnine requiring
+superpathway of adenosine nucleotides de novo biosynthesis II	PWY-6126-1	ADE13	YLR359W	ADEnine requiring
+superpathway of adenosine nucleotides de novo biosynthesis II	PWY-6126-1	ADK1	YDR226W	ADenylate Kinase
+superpathway of adenosine nucleotides de novo biosynthesis II	PWY-6126-1	ADK2	YER170W	ADenylate Kinase
+superpathway of adenosine nucleotides de novo biosynthesis II	PWY-6126-1	RNR1	YER070W	RiboNucleotide Reductase
+superpathway of adenosine nucleotides de novo biosynthesis II	PWY-6126-1	RNR2	YJL026W	RiboNucleotide Reductase
+superpathway of adenosine nucleotides de novo biosynthesis II	PWY-6126-1	RNR3	YIL066C	RiboNucleotide Reductase
+superpathway of adenosine nucleotides de novo biosynthesis II	PWY-6126-1	RNR4	YGR180C	RiboNucleotide Reductase
+superpathway of adenosine nucleotides de novo biosynthesis II	PWY-6126-1	TRX1	YLR043C	ThioRedoXin
+superpathway of adenosine nucleotides de novo biosynthesis II	PWY-6126-1	TRX2	YGR209C	ThioRedoXin
+superpathway of adenosine nucleotides de novo biosynthesis II	PWY-6126-1	TRX3	YCR083W	ThioRedoXin
+superpathway of adenosine nucleotides de novo biosynthesis II	PWY-6126-1	YNK1	YKL067W	Yeast Nucleoside diphosphate Kinase
+superpathway of allantoin degradation in yeast	ALLANTOINDEG-PWY	DAL1	YIR027C	Degradation of Allantoin
+superpathway of allantoin degradation in yeast	ALLANTOINDEG-PWY	DAL2	YIR029W	Degradation of Allantoin
+superpathway of allantoin degradation in yeast	ALLANTOINDEG-PWY	DAL3	YIR032C	Degradation of Allantoin
+superpathway of allantoin degradation in yeast	ALLANTOINDEG-PWY	DUR12	YBR208C	Degradation of URea
+superpathway of aromatic amino acid biosynthesis	COMPLETE-ARO-PWY-1	ARO1	YDR127W	AROmatic amino acid requiring
+superpathway of aromatic amino acid biosynthesis	COMPLETE-ARO-PWY-1	ARO2	YGL148W	AROmatic amino acid requiring
+superpathway of aromatic amino acid biosynthesis	COMPLETE-ARO-PWY-1	ARO3	YDR035W	AROmatic amino acid requiring
+superpathway of aromatic amino acid biosynthesis	COMPLETE-ARO-PWY-1	ARO4	YBR249C	AROmatic amino acid requiring
+superpathway of aromatic amino acid biosynthesis	COMPLETE-ARO-PWY-1	ARO7	YPR060C	AROmatic amino acid requiring
+superpathway of aromatic amino acid biosynthesis	COMPLETE-ARO-PWY-1	ARO8	YGL202W	AROmatic amino acid requiring
+superpathway of aromatic amino acid biosynthesis	COMPLETE-ARO-PWY-1	ARO9	YHR137W	AROmatic amino acid requiring
+superpathway of aromatic amino acid biosynthesis	COMPLETE-ARO-PWY-1	HIS5	YIL116W	HIStidine requiring
+superpathway of aromatic amino acid biosynthesis	COMPLETE-ARO-PWY-1	PHA2	YNL316C	PHenylAlanine requiring
+superpathway of aromatic amino acid biosynthesis	COMPLETE-ARO-PWY-1	TRP1	YDR007W	TRyPtophan
+superpathway of aromatic amino acid biosynthesis	COMPLETE-ARO-PWY-1	TRP2	YER090W	TRyPtophan
+superpathway of aromatic amino acid biosynthesis	COMPLETE-ARO-PWY-1	TRP3	YKL211C	TRyPtophan
+superpathway of aromatic amino acid biosynthesis	COMPLETE-ARO-PWY-1	TRP4	YDR354W	TRyPtophan
+superpathway of aromatic amino acid biosynthesis	COMPLETE-ARO-PWY-1	TRP5	YGL026C	TRyPtophan
+superpathway of aromatic amino acid biosynthesis	COMPLETE-ARO-PWY-1	TYR1	YBR166C	TYRosine
+superpathway of branched chain amino acid biosynthesis	BRANCHED-CHAIN-AA-SYN-PWY-1	BAT1	YHR208W	Branched-chain Amino acid Transaminase
+superpathway of branched chain amino acid biosynthesis	BRANCHED-CHAIN-AA-SYN-PWY-1	BAT2	YJR148W	Branched-chain Amino acid Transaminase
+superpathway of branched chain amino acid biosynthesis	BRANCHED-CHAIN-AA-SYN-PWY-1	ILV1	YER086W	IsoLeucine-plus-Valine requiring
+superpathway of branched chain amino acid biosynthesis	BRANCHED-CHAIN-AA-SYN-PWY-1	ILV2	YMR108W	IsoLeucine-plus-Valine requiring
+superpathway of branched chain amino acid biosynthesis	BRANCHED-CHAIN-AA-SYN-PWY-1	ILV3	YJR016C	IsoLeucine-plus-Valine requiring
+superpathway of branched chain amino acid biosynthesis	BRANCHED-CHAIN-AA-SYN-PWY-1	ILV5	YLR355C	IsoLeucine-plus-Valine requiring
+superpathway of branched chain amino acid biosynthesis	BRANCHED-CHAIN-AA-SYN-PWY-1	ILV6	YCL009C	IsoLeucine Valine
+superpathway of branched chain amino acid biosynthesis	BRANCHED-CHAIN-AA-SYN-PWY-1	LEU1	YGL009C	LEUcine biosynthesis
+superpathway of branched chain amino acid biosynthesis	BRANCHED-CHAIN-AA-SYN-PWY-1	LEU2	YCL018W	LEUcine biosynthesis
+superpathway of branched chain amino acid biosynthesis	BRANCHED-CHAIN-AA-SYN-PWY-1	LEU4	YNL104C	LEUcine biosynthesis
+superpathway of branched chain amino acid biosynthesis	BRANCHED-CHAIN-AA-SYN-PWY-1	LEU9	YOR108W	LEUcine biosynthesis
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	ABZ1	YNR033W	para-AminoBenZoic acid (PABA) biosynthesis
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	ABZ2	YMR289W	para-AminoBenZoic acid (PABA) biosynthesis
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	ADE3	YGR204W	ADEnine requiring
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	ARO1	YDR127W	AROmatic amino acid requiring
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	ARO2	YGL148W	AROmatic amino acid requiring
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	ARO3	YDR035W	AROmatic amino acid requiring
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	ARO4	YBR249C	AROmatic amino acid requiring
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	ARO7	YPR060C	AROmatic amino acid requiring
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	ARO8	YGL202W	AROmatic amino acid requiring
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	ARO9	YHR137W	AROmatic amino acid requiring
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	CDC21	YOR074C	Cell Division Cycle
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	DFR1	YOR236W	DihydroFolate Reductase
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	FOL1	YNL256W	FOLic acid synthesis
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	FOL2	YGR267C	FOLic acid synthesis
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	FOL3	YMR113W	FOLic acid synthesis
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	GCV1	YDR019C	GlyCine cleaVage
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	GCV2	YMR189W	GlyCine cleaVage
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	GCV3	YAL044C	GlyCine cleaVage
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	HIS5	YIL116W	HIStidine requiring
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	LPD1	YFL018C	LiPoamide Dehydrogenase
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	MET12	YPL023C	METhionine requiring
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	MET13	YGL125W	METhionine requiring
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	MIS1	YBR084W	MItochondrial C1-tetrahydrofolate Synthase
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	MTD1	YKR080W	Methylene Tetrahydrafolate Dehydrogenase
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	PHA2	YNL316C	PHenylAlanine requiring
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	SHM1	YBR263W	Serine HydroxyMethyltransferase
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	SHM2	YLR058C	Serine HydroxyMethyltransferase
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	TRP1	YDR007W	TRyPtophan
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	TRP2	YER090W	TRyPtophan
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	TRP3	YKL211C	TRyPtophan
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	TRP4	YDR354W	TRyPtophan
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	TRP5	YGL026C	TRyPtophan
+superpathway of chorismate metabolism	ALL-CHORISMATE-PWY-1	TYR1	YBR166C	TYRosine
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG1	YGR175C	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG10	YPL028W	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG11	YHR007C	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG12	YMR208W	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG13	YML126C	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG2	YMR202W	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG20	YJL167W	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG24	YNL280C	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG25	YGR060W	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG26	YGL001C	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG27	YLR100W	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG3	YLR056W	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG4	YGL012W	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG5	YMR015C	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG6	YML008C	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG7	YHR072W	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG8	YMR220W	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	ERG9	YHR190W	ERGosterol biosynthesis
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	HMG1	YML075C	3-Hydroxy-3-MethylGlutaryl-coenzyme a reductase
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	HMG2	YLR450W	3-Hydroxy-3-MethylGlutaryl-coenzyme a reductase
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	IDI1	YPL117C	Isopentenyl Diphosphate Isomerase
+superpathway of ergosterol biosynthesis I	ERGOSTEROL-SYN-PWY-1	MVD1	YNR043W	MeValonate pyrophosphate Decarboxylase
+superpathway of fatty acid biosynthesis, saturated	PWY3O-6336	ACC1	YNR016C	Acetyl-CoA Carboxylase
+superpathway of fatty acid biosynthesis, saturated	PWY3O-6336	CEM1	YER061C	Condensing Enzyme with Mitochondrial function
+superpathway of fatty acid biosynthesis, saturated	PWY3O-6336	FAS1	YKL182W	Fatty Acid Synthetase
+superpathway of fatty acid biosynthesis, saturated	PWY3O-6336	FAS2	YPL231W	Fatty Acid Synthetase
+superpathway of fatty acid biosynthesis, saturated	PWY3O-6336	HFA1	YMR207C	""
+superpathway of fatty acid biosynthesis, saturated	PWY3O-6336	MCT1	YOR221C	Malonyl-CoA:ACP Transferase
+superpathway of fatty acid biosynthesis, saturated	PWY3O-6336	OAR1	YKL055C	3-Oxoacyl-[Acyl-carrier-protein] Reductase
+superpathway of fatty acid biosynthesis, saturated	PWY3O-6336	TES1	YJR019C	ThioESterase
+superpathway of fatty acid biosynthesis, saturated and unsaturated	PWY3O-5962	ACC1	YNR016C	Acetyl-CoA Carboxylase
+superpathway of fatty acid biosynthesis, saturated and unsaturated	PWY3O-5962	CEM1	YER061C	Condensing Enzyme with Mitochondrial function
+superpathway of fatty acid biosynthesis, saturated and unsaturated	PWY3O-5962	FAS1	YKL182W	Fatty Acid Synthetase
+superpathway of fatty acid biosynthesis, saturated and unsaturated	PWY3O-5962	FAS2	YPL231W	Fatty Acid Synthetase
+superpathway of fatty acid biosynthesis, saturated and unsaturated	PWY3O-5962	HFA1	YMR207C	""
+superpathway of fatty acid biosynthesis, saturated and unsaturated	PWY3O-5962	MCT1	YOR221C	Malonyl-CoA:ACP Transferase
+superpathway of fatty acid biosynthesis, saturated and unsaturated	PWY3O-5962	OAR1	YKL055C	3-Oxoacyl-[Acyl-carrier-protein] Reductase
+superpathway of fatty acid biosynthesis, saturated and unsaturated	PWY3O-5962	OLE1	YGL055W	OLEic acid requiring
+superpathway of fatty acid biosynthesis, saturated and unsaturated	PWY3O-5962	TES1	YJR019C	ThioESterase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	ADH1	YOL086C	Alcohol DeHydrogenase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	ADH2	YMR303C	Alcohol DeHydrogenase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	ADH3	YMR083W	Alcohol DeHydrogenase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	ADH4	YGL256W	Alcohol DeHydrogenase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	ADH5	YBR145W	Alcohol DeHydrogenase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	ALD2	YMR170C	ALdehyde Dehydrogenase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	ALD4	YOR374W	ALdehyde Dehydrogenase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	ALD5	YER073W	ALdehyde Dehydrogenase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	ALD6	YPL061W	ALdehyde Dehydrogenase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	CDC19	YAL038W	Cell Division Cycle
+superpathway of glucose fermentation	GLUCFERMEN-PWY	ENO1	YGR254W	ENOlase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	ENO2	YHR174W	ENOlase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	FBA1	YKL060C	Fructose-1,6-Bisphosphate Aldolase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	FBP1	YLR377C	Fructose-1,6-BisPhosphatase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	GLK1	YCL040W	GLucoKinase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	GPM1	YKL152C	Glycerate PhosphoMutase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	HXK1	YFR053C	HeXoKinase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	HXK2	YGL253W	HeXoKinase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	PDC1	YLR044C	Pyruvate DeCarboxylase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	PDC5	YLR134W	Pyruvate DeCarboxylase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	PDC6	YGR087C	Pyruvate DeCarboxylase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	PFK1	YGR240C	PhosphoFructoKinase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	PFK2	YMR205C	PhosphoFructoKinase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	PGI1	YBR196C	PhosphoGlucoIsomerase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	PGK1	YCR012W	3-PhosphoGlycerate Kinase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	PYK2	YOR347C	PYruvate Kinase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	TDH1	YJL052W	Triose-phosphate DeHydrogenase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	TDH2	YJR009C	Triose-phosphate DeHydrogenase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	TDH3	YGR192C	Triose-phosphate DeHydrogenase
+superpathway of glucose fermentation	GLUCFERMEN-PWY	TPI1	YDR050C	Triose-Phosphate Isomerase
+superpathway of glutamate biosynthesis	PWY3O-13	GDH1	YOR375C	Glutamate DeHydrogenase
+superpathway of glutamate biosynthesis	PWY3O-13	GDH3	YAL062W	Glutamate DeHydrogenase
+superpathway of glutamate biosynthesis	PWY3O-13	GLN1	YPR035W	GLutamiNe metabolism
+superpathway of glutamate biosynthesis	PWY3O-13	GLT1	YDL171C	GLuTamate synthase
+superpathway of glutamate biosynthesis	PWY3O-13	IDP1	YDL066W	Isocitrate Dehydrogenase, NADP-specific
+superpathway of glutamate biosynthesis	PWY3O-13	IDP2	YLR174W	Isocitrate Dehydrogenase, NADP-specific
+superpathway of glutamate biosynthesis	PWY3O-13	IDP3	YNL009W	Isocitrate Dehydrogenase, NADP-dependent
+superpathway of glutathione metabolism (truncated &gamma;-glutamyl cycle)	PWY3O-114	DUG1	YFR044C	Deficient in Utilization of Glutathione
+superpathway of glutathione metabolism (truncated &gamma;-glutamyl cycle)	PWY3O-114	ECM38	YLR299W	ExtraCellular Mutant
+superpathway of glutathione metabolism (truncated &gamma;-glutamyl cycle)	PWY3O-114	GSH1	YJL101C	glutathione (GSH)
+superpathway of glutathione metabolism (truncated &gamma;-glutamyl cycle)	PWY3O-114	GSH2	YOL049W	Glutathione
+superpathway of guanosine nucleotides de novo biosynthesis II	PWY-6125	GUA1	YMR217W	GUanine Auxotroph
+superpathway of guanosine nucleotides de novo biosynthesis II	PWY-6125	GUK1	YDR454C	GUanylate Kinase
+superpathway of guanosine nucleotides de novo biosynthesis II	PWY-6125	IMD2	YHR216W	IMP Dehydrogenase
+superpathway of guanosine nucleotides de novo biosynthesis II	PWY-6125	IMD3	YLR432W	IMP Dehydrogenase
+superpathway of guanosine nucleotides de novo biosynthesis II	PWY-6125	IMD4	YML056C	IMP Dehydrogenase
+superpathway of guanosine nucleotides de novo biosynthesis II	PWY-6125	RNR1	YER070W	RiboNucleotide Reductase
+superpathway of guanosine nucleotides de novo biosynthesis II	PWY-6125	RNR2	YJL026W	RiboNucleotide Reductase
+superpathway of guanosine nucleotides de novo biosynthesis II	PWY-6125	RNR3	YIL066C	RiboNucleotide Reductase
+superpathway of guanosine nucleotides de novo biosynthesis II	PWY-6125	RNR4	YGR180C	RiboNucleotide Reductase
+superpathway of guanosine nucleotides de novo biosynthesis II	PWY-6125	TRX1	YLR043C	ThioRedoXin
+superpathway of guanosine nucleotides de novo biosynthesis II	PWY-6125	TRX2	YGR209C	ThioRedoXin
+superpathway of guanosine nucleotides de novo biosynthesis II	PWY-6125	TRX3	YCR083W	ThioRedoXin
+superpathway of guanosine nucleotides de novo biosynthesis II	PWY-6125	YNK1	YKL067W	Yeast Nucleoside diphosphate Kinase
+superpathway of heme and siroheme biosynthesis	PWY3O-69	HEM1	YDR232W	HEMe biosynthesis
+superpathway of heme and siroheme biosynthesis	PWY3O-69	HEM12	YDR047W	HEMe biosynthesis
+superpathway of heme and siroheme biosynthesis	PWY3O-69	HEM13	YDR044W	HEMe biosynthesis
+superpathway of heme and siroheme biosynthesis	PWY3O-69	HEM14	YER014W	HEMe biosynthesis
+superpathway of heme and siroheme biosynthesis	PWY3O-69	HEM15	YOR176W	HEMe biosynthesis
+superpathway of heme and siroheme biosynthesis	PWY3O-69	HEM2	YGL040C	HEMe biosynthesis
+superpathway of heme and siroheme biosynthesis	PWY3O-69	HEM3	YDL205C	HEMe biosynthesis
+superpathway of heme and siroheme biosynthesis	PWY3O-69	HEM4	YOR278W	HEMe biosynthesis
+superpathway of heme and siroheme biosynthesis	PWY3O-69	MET1	YKR069W	METhionine requiring
+superpathway of heme and siroheme biosynthesis	PWY3O-69	MET8	YBR213W	METhionine requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	ADE1	YAR015W	ADEnine requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	ADE12	YNL220W	ADEnine requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	ADE13	YLR359W	ADEnine requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	ADE16	YLR028C	ADEnine
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	ADE17	YMR120C	ADEnine
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	ADE2	YOR128C	ADEnine requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	ADE4	YMR300C	ADEnine requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	ADE57	YGL234W	ADEnine requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	ADE6	YGR061C	ADEnine requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	ADE8	YDR408C	ADEnine requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	ADK1	YDR226W	ADenylate Kinase
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	ADK2	YER170W	ADenylate Kinase
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	GUA1	YMR217W	GUanine Auxotroph
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	GUK1	YDR454C	GUanylate Kinase
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	HIS1	YER055C	HIStidine
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	HIS2	YFR025C	HIStidine requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	HIS3	YOR202W	HIStidine
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	HIS4	YCL030C	HIStidine requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	HIS5	YIL116W	HIStidine requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	HIS6	YIL020C	HIStidine requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	HIS7	YBR248C	HIStidine requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	IMD2	YHR216W	IMP Dehydrogenase
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	IMD3	YLR432W	IMP Dehydrogenase
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	IMD4	YML056C	IMP Dehydrogenase
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	PRS1	YKL181W	PhosphoRibosylpyrophosphate Synthetase
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	PRS2	YER099C	PhosphoRibosylpyrophosphate Synthetase
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	PRS3	YHL011C	PhosphoRibosylpyrophosphate Synthetase
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	PRS4	YBL068W	PhosphoRibosylpyrophosphate Synthetase
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	PRS5	YOL061W	PhosphoRibosylpyrophosphate Synthetase
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	RNR1	YER070W	RiboNucleotide Reductase
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	RNR2	YJL026W	RiboNucleotide Reductase
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	RNR3	YIL066C	RiboNucleotide Reductase
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	RNR4	YGR180C	RiboNucleotide Reductase
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	TRX1	YLR043C	ThioRedoXin
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	TRX2	YGR209C	ThioRedoXin
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	TRX3	YCR083W	ThioRedoXin
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	URA1	YKL216W	URAcil requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	URA10	YMR271C	URAcil requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	URA2	YJL130C	URAcil requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	URA3	YEL021W	URAcil requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	URA4	YLR420W	URAcil requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	URA5	YML106W	URAcil requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	URA6	YKL024C	URAcil requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	URA7	YBL039C	URAcil requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	URA8	YJR103W	URAcil requiring
+superpathway of histidine, purine, and pyrimidine biosynthesis	PRPP-PWY-1	YNK1	YKL067W	Yeast Nucleoside diphosphate Kinase
+superpathway of L-threonine biosynthesis	THRESYN-PWY	AAT1	YKL106W	Aspartate AminoTransferase
+superpathway of L-threonine biosynthesis	THRESYN-PWY	AAT2	YLR027C	Aspartate AminoTransferase
+superpathway of L-threonine biosynthesis	THRESYN-PWY	HOM2	YDR158W	HOMoserine requiring
+superpathway of L-threonine biosynthesis	THRESYN-PWY	HOM3	YER052C	HOMoserine requiring
+superpathway of L-threonine biosynthesis	THRESYN-PWY	HOM6	YJR139C	HOMoserine requiring
+superpathway of L-threonine biosynthesis	THRESYN-PWY	THR1	YHR025W	THReonine requiring
+superpathway of L-threonine biosynthesis	THRESYN-PWY	THR4	YCR053W	THReonine requiring
+superpathway of methionine biosynthesis	PWY3O-954	HOM2	YDR158W	HOMoserine requiring
+superpathway of methionine biosynthesis	PWY3O-954	HOM3	YER052C	HOMoserine requiring
+superpathway of methionine biosynthesis	PWY3O-954	HOM6	YJR139C	HOMoserine requiring
+superpathway of methionine biosynthesis	PWY3O-954	MET17	YLR303W	METhionine requiring
+superpathway of methionine biosynthesis	PWY3O-954	MET2	YNL277W	METhionine requiring
+superpathway of methionine biosynthesis	PWY3O-954	MET6	YER091C	METhionine requiring
+superpathway of methionine biosynthesis	PWY3O-954	MET7	YOR241W	METhionine requiring
+superpathway of methionine salvage pathway	PWY3O-351	ADI1	YMR009W	Acireductone DIoxygenase
+superpathway of methionine salvage pathway	PWY3O-351	ARO8	YGL202W	AROmatic amino acid requiring
+superpathway of methionine salvage pathway	PWY3O-351	ARO9	YHR137W	AROmatic amino acid requiring
+superpathway of methionine salvage pathway	PWY3O-351	BAT1	YHR208W	Branched-chain Amino acid Transaminase
+superpathway of methionine salvage pathway	PWY3O-351	BAT2	YJR148W	Branched-chain Amino acid Transaminase
+superpathway of methionine salvage pathway	PWY3O-351	MDE1	YJR024C	Methylthioribulose-1-phosphate DEhydratase
+superpathway of methionine salvage pathway	PWY3O-351	MEU1	YLR017W	Multicopy Enhancer of UAS2
+superpathway of methionine salvage pathway	PWY3O-351	MRI1	YPR118W	MethylthioRibose-1-phosphate Isomerase
+superpathway of methionine salvage pathway	PWY3O-351	SAM1	YLR180W	S-AdenosylMethionine requiring
+superpathway of methionine salvage pathway	PWY3O-351	SAM2	YDR502C	S-AdenosylMethionine requiring
+superpathway of methionine salvage pathway	PWY3O-351	SPE2	YOL052C	SPErmidine auxotroph
+superpathway of methionine salvage pathway	PWY3O-351	SPE3	YPR069C	SPErmidine auxotroph
+superpathway of methionine salvage pathway	PWY3O-351	SPE4	YLR146C	SPErmidine auxotroph
+superpathway of methionine salvage pathway	PWY3O-351	UTR4	YEL038W	Unidentified TRanscript
+superpathway of NAD biosynthesis	PWY3O-4158	BNA1	YJR025C	Biosynthesis of Nicotinic Acid
+superpathway of NAD biosynthesis	PWY3O-4158	BNA2	YJR078W	Biosynthesis of Nicotinic Acid
+superpathway of NAD biosynthesis	PWY3O-4158	BNA3	YJL060W	Biosynthesis of Nicotinic Acid
+superpathway of NAD biosynthesis	PWY3O-4158	BNA4	YBL098W	Biosynthesis of Nicotinic Acid
+superpathway of NAD biosynthesis	PWY3O-4158	BNA5	YLR231C	Biosynthesis of Nicotinic Acid
+superpathway of NAD biosynthesis	PWY3O-4158	BNA6	YFR047C	Biosynthesis of Nicotinic Acid
+superpathway of NAD biosynthesis	PWY3O-4158	BNA7	YDR428C	Biosynthesis of NAD
+superpathway of NAD biosynthesis	PWY3O-4158	NMA1	YLR328W	Nicotinamide Mononucleotide Adenylyltransferase
+superpathway of NAD biosynthesis	PWY3O-4158	NMA2	YGR010W	Nicotinamide Mononucleotide Adenylyltransferase
+superpathway of NAD biosynthesis	PWY3O-4158	NPT1	YOR209C	Nicotinate PhosphoribosylTransferase
+superpathway of NAD biosynthesis	PWY3O-4158	NRK1	YNL129W	Nicotinamide Riboside Kinase
+superpathway of NAD biosynthesis	PWY3O-4158	PNC1	YGL037C	Pyrazinamidase and NiCotinamidase
+superpathway of NAD biosynthesis	PWY3O-4158	PNP1	YLR209C	purine nucleoside phosphorylase
+superpathway of NAD biosynthesis	PWY3O-4158	QNS1	YHR074W	glutamine (Q) dependent Nad+ Synthetase
+superpathway of NAD biosynthesis	PWY3O-4158	SIR2	YDL042C	Silent Information Regulator
+superpathway of NAD biosynthesis	PWY3O-4158	URH1	YDR400W	URidine Hydrolase
+superpathway of phosphatidate biosynthesis	PWY3O-6635	AYR1	YIL124W	1-AcyldihYdroxyacetone-phosphate Reductase
+superpathway of phosphatidate biosynthesis	PWY3O-6635	GPD1	YDL022W	Glycerol-3-Phosphate Dehydrogenase
+superpathway of phosphatidate biosynthesis	PWY3O-6635	GPD2	YOL059W	Glycerol-3-Phosphate Dehydrogenase
+superpathway of phosphatidate biosynthesis	PWY3O-6635	GPT2	YKR067W	Glycerol-3-Phosphate acylTransferase
+superpathway of phosphatidate biosynthesis	PWY3O-6635	SCT1	YBL011W	Suppressor of Choline-Transport mutants
+superpathway of phosphatidate biosynthesis	PWY3O-6635	SLC1	YDL052C	SphingoLipid Compensation
+superpathway of phosphatidic acid and phospholipid biosynthesis	PHOS-PWY	CDS1	YBR029C	CDP-Diacylglycerol Synthase
+superpathway of phosphatidic acid and phospholipid biosynthesis	PHOS-PWY	CHO1	YER026C	CHOline requiring
+superpathway of phosphatidic acid and phospholipid biosynthesis	PHOS-PWY	CHO2	YGR157W	CHOline requiring
+superpathway of phosphatidic acid and phospholipid biosynthesis	PHOS-PWY	CKI1	YLR133W	Choline KInase
+superpathway of phosphatidic acid and phospholipid biosynthesis	PHOS-PWY	CPT1	YNL130C	CholinePhosphoTransferase
+superpathway of phosphatidic acid and phospholipid biosynthesis	PHOS-PWY	CRD1	YDL142C	CaRDiolipin synthase
+superpathway of phosphatidic acid and phospholipid biosynthesis	PHOS-PWY	ECT1	YGR007W	Ethanolamine-phosphate CytidylylTransferase
+superpathway of phosphatidic acid and phospholipid biosynthesis	PHOS-PWY	EKI1	YDR147W	Ethanolamine KInase
+superpathway of phosphatidic acid and phospholipid biosynthesis	PHOS-PWY	EPT1	YHR123W	EthanolaminePhosphoTransferase
+superpathway of phosphatidic acid and phospholipid biosynthesis	PHOS-PWY	OPI3	YJR073C	OverProducer of Inositol
+superpathway of phosphatidic acid and phospholipid biosynthesis	PHOS-PWY	PCT1	YGR202C	Phosphocholine CytidylylTransferase
+superpathway of phosphatidic acid and phospholipid biosynthesis	PHOS-PWY	PGS1	YCL004W	PhosphatidylGlycerolphosphate Synthase
+superpathway of phosphatidic acid and phospholipid biosynthesis	PHOS-PWY	PIS1	YPR113W	Phosphatidyl Inositol Synthase
+superpathway of phosphatidic acid and phospholipid biosynthesis	PHOS-PWY	PSD1	YNL169C	PhosphatidylSerine Decarboxylase
+superpathway of phosphatidic acid and phospholipid biosynthesis	PHOS-PWY	PSD2	YGR170W	PhosphatidylSerine Decarboxylase
+superpathway of phospholipid biosynthesis	PWY3O-2	CHO1	YER026C	CHOline requiring
+superpathway of phospholipid biosynthesis	PWY3O-2	CHO2	YGR157W	CHOline requiring
+superpathway of phospholipid biosynthesis	PWY3O-2	CKI1	YLR133W	Choline KInase
+superpathway of phospholipid biosynthesis	PWY3O-2	CPT1	YNL130C	CholinePhosphoTransferase
+superpathway of phospholipid biosynthesis	PWY3O-2	CRD1	YDL142C	CaRDiolipin synthase
+superpathway of phospholipid biosynthesis	PWY3O-2	ECT1	YGR007W	Ethanolamine-phosphate CytidylylTransferase
+superpathway of phospholipid biosynthesis	PWY3O-2	EKI1	YDR147W	Ethanolamine KInase
+superpathway of phospholipid biosynthesis	PWY3O-2	EPT1	YHR123W	EthanolaminePhosphoTransferase
+superpathway of phospholipid biosynthesis	PWY3O-2	OPI3	YJR073C	OverProducer of Inositol
+superpathway of phospholipid biosynthesis	PWY3O-2	PCT1	YGR202C	Phosphocholine CytidylylTransferase
+superpathway of phospholipid biosynthesis	PWY3O-2	PGS1	YCL004W	PhosphatidylGlycerolphosphate Synthase
+superpathway of phospholipid biosynthesis	PWY3O-2	PIS1	YPR113W	Phosphatidyl Inositol Synthase
+superpathway of phospholipid biosynthesis	PWY3O-2	PSD1	YNL169C	PhosphatidylSerine Decarboxylase
+superpathway of phospholipid biosynthesis	PWY3O-2	PSD2	YGR170W	PhosphatidylSerine Decarboxylase
+superpathway of polyamine biosynthesis	POLYAMSYN-YEAST-PWY	SPE1	YKL184W	SPErmidine auxotroph
+superpathway of polyamine biosynthesis	POLYAMSYN-YEAST-PWY	SPE2	YOL052C	SPErmidine auxotroph
+superpathway of polyamine biosynthesis	POLYAMSYN-YEAST-PWY	SPE3	YPR069C	SPErmidine auxotroph
+superpathway of polyamine biosynthesis	POLYAMSYN-YEAST-PWY	SPE4	YLR146C	SPErmidine auxotroph
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	AAH1	YNL141W	Adenine AminoHydrolase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	ADE1	YAR015W	ADEnine requiring
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	ADE12	YNL220W	ADEnine requiring
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	ADE13	YLR359W	ADEnine requiring
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	ADE16	YLR028C	ADEnine
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	ADE17	YMR120C	ADEnine
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	ADE2	YOR128C	ADEnine requiring
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	ADE4	YMR300C	ADEnine requiring
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	ADE57	YGL234W	ADEnine requiring
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	ADE6	YGR061C	ADEnine requiring
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	ADE8	YDR408C	ADEnine requiring
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	ADK1	YDR226W	ADenylate Kinase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	ADK2	YER170W	ADenylate Kinase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	ADO1	YJR105W	ADenOsine kinase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	AMD1	YML035C	AMP Deaminase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	APT1	YML022W	Adenine PhosphoribosylTransferase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	APT2	YDR441C	Adenine PhosphoribosylTransferase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	GUA1	YMR217W	GUanine Auxotroph
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	GUD1	YDL238C	GUanine Deaminase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	GUK1	YDR454C	GUanylate Kinase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	HPT1	YDR399W	Hypoxanthine guanine PhosphoribosylTransferase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	IMD2	YHR216W	IMP Dehydrogenase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	IMD3	YLR432W	IMP Dehydrogenase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	IMD4	YML056C	IMP Dehydrogenase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	ISN1	YOR155C	IMP-Specific 5'-Nucleotidase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	PNP1	YLR209C	purine nucleoside phosphorylase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	RNR1	YER070W	RiboNucleotide Reductase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	RNR2	YJL026W	RiboNucleotide Reductase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	RNR3	YIL066C	RiboNucleotide Reductase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	RNR4	YGR180C	RiboNucleotide Reductase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	TRX1	YLR043C	ThioRedoXin
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	TRX2	YGR209C	ThioRedoXin
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	TRX3	YCR083W	ThioRedoXin
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	XPT1	YJR133W	Xanthine Phosphoribosyl Transferase
+superpathway of purine biosynthesis and salvage pathways	PWY3O-285	YNK1	YKL067W	Yeast Nucleoside diphosphate Kinase
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	ADE1	YAR015W	ADEnine requiring
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	ADE12	YNL220W	ADEnine requiring
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	ADE13	YLR359W	ADEnine requiring
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	ADE16	YLR028C	ADEnine
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	ADE17	YMR120C	ADEnine
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	ADE2	YOR128C	ADEnine requiring
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	ADE4	YMR300C	ADEnine requiring
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	ADE57	YGL234W	ADEnine requiring
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	ADE6	YGR061C	ADEnine requiring
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	ADE8	YDR408C	ADEnine requiring
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	ADK1	YDR226W	ADenylate Kinase
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	ADK2	YER170W	ADenylate Kinase
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	GUA1	YMR217W	GUanine Auxotroph
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	GUK1	YDR454C	GUanylate Kinase
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	IMD2	YHR216W	IMP Dehydrogenase
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	IMD3	YLR432W	IMP Dehydrogenase
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	IMD4	YML056C	IMP Dehydrogenase
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	RNR1	YER070W	RiboNucleotide Reductase
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	RNR2	YJL026W	RiboNucleotide Reductase
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	RNR3	YIL066C	RiboNucleotide Reductase
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	RNR4	YGR180C	RiboNucleotide Reductase
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	TRX1	YLR043C	ThioRedoXin
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	TRX2	YGR209C	ThioRedoXin
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	TRX3	YCR083W	ThioRedoXin
+superpathway of purine nucleotides de novo biosynthesis II	DENOVOPURINE2-PWY	YNK1	YKL067W	Yeast Nucleoside diphosphate Kinase
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	PWY0-162	CPA1	YOR303W	Carbamyl Phosphate synthetase A
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	PWY0-162	CPA2	YJR109C	Carbamyl Phosphate synthetase A
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	PWY0-162	URA1	YKL216W	URAcil requiring
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	PWY0-162	URA10	YMR271C	URAcil requiring
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	PWY0-162	URA2	YJL130C	URAcil requiring
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	PWY0-162	URA3	YEL021W	URAcil requiring
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	PWY0-162	URA4	YLR420W	URAcil requiring
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	PWY0-162	URA5	YML106W	URAcil requiring
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	PWY0-162	URA6	YKL024C	URAcil requiring
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	PWY0-162	URA7	YBL039C	URAcil requiring
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	PWY0-162	URA8	YJR103W	URAcil requiring
+superpathway of serine and glycine biosynthesis	PWY3O-261	AGX1	YFL030W	Alanine:Glyoxylate aminotrans(X)ferase
+superpathway of serine and glycine biosynthesis	PWY3O-261	GLY1	YEL046C	GLYcine requiring
+superpathway of serine and glycine biosynthesis	PWY3O-261	SER1	YOR184W	SERine requiring
+superpathway of serine and glycine biosynthesis	PWY3O-261	SER2	YGR208W	SERine requiring
+superpathway of serine and glycine biosynthesis	PWY3O-261	SER3	YER081W	SERine requiring
+superpathway of serine and glycine biosynthesis	PWY3O-261	SER33	YIL074C	SERine requiring
+superpathway of serine and glycine biosynthesis	PWY3O-261	SHM1	YBR263W	Serine HydroxyMethyltransferase
+superpathway of serine and glycine biosynthesis	PWY3O-261	SHM2	YLR058C	Serine HydroxyMethyltransferase
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	CYS3	YAL012W	CYStathionine gamma-lyase
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	CYS4	YGR155W	CYStathionine beta-synthase
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	HOM2	YDR158W	HOMoserine requiring
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	HOM3	YER052C	HOMoserine requiring
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	HOM6	YJR139C	HOMoserine requiring
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	MET10	YFR030W	METhionine requiring
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	MET14	YKL001C	METhionine requiring
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	MET16	YPR167C	METhionine requiring
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	MET17	YLR303W	METhionine requiring
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	MET2	YNL277W	METhionine requiring
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	MET3	YJR010W	METhionine requiring
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	MET5	YJR137C	METhionine requiring
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	MET6	YER091C	METhionine requiring
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	MET7	YOR241W	METhionine requiring
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	SAM1	YLR180W	S-AdenosylMethionine requiring
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	SAM2	YDR502C	S-AdenosylMethionine requiring
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	STR2	YJR130C	Sulfur TRansfer
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	STR3	YGL184C	Sulfur TRansfer
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	TRX1	YLR043C	ThioRedoXin
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	TRX2	YGR209C	ThioRedoXin
+superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	PWY-821-1	TRX3	YCR083W	ThioRedoXin
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	ACO1	YLR304C	ACOnitase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	ACO2	YJL200C	ACOnitase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	CIT1	YNR001C	CITrate synthase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	CIT2	YCR005C	CITrate synthase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	CIT3	YPR001W	CITrate synthase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	DAL7	YIR031C	Degradation of Allantoin
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	FUM1	YPL262W	FUMarase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	ICL1	YER065C	IsoCitrate Lyase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	IDH1	YNL037C	Isocitrate DeHydrogenase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	IDH2	YOR136W	Isocitrate DeHydrogenase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	KGD1	YIL125W	alpha-KetoGlutarate Dehydrogenase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	KGD2	YDR148C	alpha-KetoGlutarate Dehydrogenase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	LPD1	YFL018C	LiPoamide Dehydrogenase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	LSC1	YOR142W	Ligase of Succinyl-CoA
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	LSC2	YGR244C	Ligase of Succinyl-CoA
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	MAE1	YKL029C	MAlic Enzyme
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	MDH1	YKL085W	Malate DeHydrogenase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	MDH2	YOL126C	Malate DeHydrogenase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	MDH3	YDL078C	Malate DeHydrogenase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	MLS1	YNL117W	MaLate Synthase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	PYC1	YGL062W	PYruvate Carboxylase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	PYC2	YBR218C	PYruvate Carboxylase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	SDH1	YKL148C	Succinate DeHydrogenase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	SDH2	YLL041C	Succinate DeHydrogenase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	SDH3	YKL141W	Succinate DeHydrogenase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	SDH4	YDR178W	Succinate DeHydrogenase
+superpathway of TCA cycle and glyoxylate cycle	PWY3O-94	SDH9	YJL045W	Succinate DeHydrogenase
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	ABZ1	YNR033W	para-AminoBenZoic acid (PABA) biosynthesis
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	ABZ2	YMR289W	para-AminoBenZoic acid (PABA) biosynthesis
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	ADE3	YGR204W	ADEnine requiring
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	CDC21	YOR074C	Cell Division Cycle
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	DFR1	YOR236W	DihydroFolate Reductase
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	FOL1	YNL256W	FOLic acid synthesis
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	FOL2	YGR267C	FOLic acid synthesis
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	FOL3	YMR113W	FOLic acid synthesis
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	GCV1	YDR019C	GlyCine cleaVage
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	GCV2	YMR189W	GlyCine cleaVage
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	GCV3	YAL044C	GlyCine cleaVage
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	LPD1	YFL018C	LiPoamide Dehydrogenase
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	MET12	YPL023C	METhionine requiring
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	MET13	YGL125W	METhionine requiring
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	MIS1	YBR084W	MItochondrial C1-tetrahydrofolate Synthase
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	MTD1	YKR080W	Methylene Tetrahydrafolate Dehydrogenase
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	SHM1	YBR263W	Serine HydroxyMethyltransferase
+superpathway of tetrahydrofolate biosynthesis and salvage	FOLSYN-PWY-1	SHM2	YLR058C	Serine HydroxyMethyltransferase
+superpathway of threonine and methionine biosynthesis	P4-PWY-1	AAT1	YKL106W	Aspartate AminoTransferase
+superpathway of threonine and methionine biosynthesis	P4-PWY-1	AAT2	YLR027C	Aspartate AminoTransferase
+superpathway of threonine and methionine biosynthesis	P4-PWY-1	HOM2	YDR158W	HOMoserine requiring
+superpathway of threonine and methionine biosynthesis	P4-PWY-1	HOM3	YER052C	HOMoserine requiring
+superpathway of threonine and methionine biosynthesis	P4-PWY-1	HOM6	YJR139C	HOMoserine requiring
+superpathway of threonine and methionine biosynthesis	P4-PWY-1	MET17	YLR303W	METhionine requiring
+superpathway of threonine and methionine biosynthesis	P4-PWY-1	MET2	YNL277W	METhionine requiring
+superpathway of threonine and methionine biosynthesis	P4-PWY-1	MET6	YER091C	METhionine requiring
+superpathway of threonine and methionine biosynthesis	P4-PWY-1	MET7	YOR241W	METhionine requiring
+superpathway of threonine and methionine biosynthesis	P4-PWY-1	THR1	YHR025W	THReonine requiring
+superpathway of threonine and methionine biosynthesis	P4-PWY-1	THR4	YCR053W	THReonine requiring
+superpathway of threonine biosynthesis	PWY3O-7	AAT1	YKL106W	Aspartate AminoTransferase
+superpathway of threonine biosynthesis	PWY3O-7	AAT2	YLR027C	Aspartate AminoTransferase
+superpathway of threonine biosynthesis	PWY3O-7	HOM2	YDR158W	HOMoserine requiring
+superpathway of threonine biosynthesis	PWY3O-7	HOM3	YER052C	HOMoserine requiring
+superpathway of threonine biosynthesis	PWY3O-7	HOM6	YJR139C	HOMoserine requiring
+superpathway of threonine biosynthesis	PWY3O-7	PYC1	YGL062W	PYruvate Carboxylase
+superpathway of threonine biosynthesis	PWY3O-7	PYC2	YBR218C	PYruvate Carboxylase
+superpathway of threonine biosynthesis	PWY3O-7	THR1	YHR025W	THReonine requiring
+superpathway of threonine biosynthesis	PWY3O-7	THR4	YCR053W	THReonine requiring
+superpathway of ubiquinone biosynthesis	PWY3O-862	BTS1	YPL069C	Bet Two Suppressor
+superpathway of ubiquinone biosynthesis	PWY3O-862	CAT5	YOR125C	CATabolite repression
+superpathway of ubiquinone biosynthesis	PWY3O-862	COQ1	YBR003W	COenzyme Q
+superpathway of ubiquinone biosynthesis	PWY3O-862	COQ2	YNR041C	COenzyme Q
+superpathway of ubiquinone biosynthesis	PWY3O-862	COQ3	YOL096C	COenzyme Q
+superpathway of ubiquinone biosynthesis	PWY3O-862	COQ5	YML110C	COenzyme Q
+superpathway of ubiquinone biosynthesis	PWY3O-862	COQ6	YGR255C	COenzyme Q
+superpathway of ubiquinone biosynthesis	PWY3O-862	ERG20	YJL167W	ERGosterol biosynthesis
+TCA cycle, aerobic respiration	TCA-EUK-PWY	ACO1	YLR304C	ACOnitase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	ACO2	YJL200C	ACOnitase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	CIT1	YNR001C	CITrate synthase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	CIT3	YPR001W	CITrate synthase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	FUM1	YPL262W	FUMarase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	IDH1	YNL037C	Isocitrate DeHydrogenase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	IDH2	YOR136W	Isocitrate DeHydrogenase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	KGD1	YIL125W	alpha-KetoGlutarate Dehydrogenase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	KGD2	YDR148C	alpha-KetoGlutarate Dehydrogenase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	LPD1	YFL018C	LiPoamide Dehydrogenase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	LSC1	YOR142W	Ligase of Succinyl-CoA
+TCA cycle, aerobic respiration	TCA-EUK-PWY	LSC2	YGR244C	Ligase of Succinyl-CoA
+TCA cycle, aerobic respiration	TCA-EUK-PWY	MAE1	YKL029C	MAlic Enzyme
+TCA cycle, aerobic respiration	TCA-EUK-PWY	MDH1	YKL085W	Malate DeHydrogenase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	PYC1	YGL062W	PYruvate Carboxylase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	PYC2	YBR218C	PYruvate Carboxylase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	SDH1	YKL148C	Succinate DeHydrogenase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	SDH2	YLL041C	Succinate DeHydrogenase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	SDH3	YKL141W	Succinate DeHydrogenase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	SDH4	YDR178W	Succinate DeHydrogenase
+TCA cycle, aerobic respiration	TCA-EUK-PWY	SDH9	YJL045W	Succinate DeHydrogenase
+tetrahydrofolate biosynthesis	PWY-6614	DFR1	YOR236W	DihydroFolate Reductase
+tetrahydrofolate biosynthesis	PWY-6614	FOL1	YNL256W	FOLic acid synthesis
+tetrahydrofolate biosynthesis	PWY-6614	FOL3	YMR113W	FOLic acid synthesis
+tetrapyrrole biosynthesis	PWY3O-50	HEM1	YDR232W	HEMe biosynthesis
+tetrapyrrole biosynthesis	PWY3O-50	HEM2	YGL040C	HEMe biosynthesis
+tetrapyrrole biosynthesis	PWY3O-50	HEM3	YDL205C	HEMe biosynthesis
+tetrapyrrole biosynthesis	PWY3O-50	HEM4	YOR278W	HEMe biosynthesis
+thiamine biosynthesis	PWY3O-17	THI13	YDL244W	THIamine metabolism
+thiamine biosynthesis	PWY3O-17	THI20	YOL055C	THIamine metabolism
+thiamine biosynthesis	PWY3O-17	THI21	YPL258C	THIamine metabolism
+thiamine biosynthesis	PWY3O-17	THI6	YPL214C	THIamine biosynthesis
+thiamine biosynthesis	PWY3O-17	THI80	YOR143C	THIamine metabolism
+thioredoxin pathway	THIOREDOX-PWY	TRR1	YDR353W	ThioRedoxin Reductase
+thioredoxin pathway	THIOREDOX-PWY	TRR2	YHR106W	ThioRedoxin Reductase
+thioredoxin pathway	THIOREDOX-PWY	TRX1	YLR043C	ThioRedoXin
+thioredoxin pathway	THIOREDOX-PWY	TRX2	YGR209C	ThioRedoXin
+thioredoxin pathway	THIOREDOX-PWY	TRX3	YCR083W	ThioRedoXin
+trans, trans-farnesyl diphosphate biosynthesis	PWY-5123	ERG20	YJL167W	ERGosterol biosynthesis
+trans, trans-farnesyl diphosphate biosynthesis	PWY-5123	IDI1	YPL117C	Isopentenyl Diphosphate Isomerase
+trehalose biosynthesis I	TRESYN-PWY	TPS1	YBR126C	Trehalose-6-Phosphate Synthase
+trehalose biosynthesis I	TRESYN-PWY	TPS2	YDR074W	Trehalose-6-Phosphate Synthase/phosphatase
+trehalose degradation	TREDEG-YEAST-PWY	ATH1	YPR026W	Acid TreHalase
+trehalose degradation	TREDEG-YEAST-PWY	NTH1	YDR001C	Neutral TreHalase
+ubiquinol-6 biosynthesis from 4-hydroxybenzoate (eukaryotic)	PWY3O-19	CAT5	YOR125C	CATabolite repression
+ubiquinol-6 biosynthesis from 4-hydroxybenzoate (eukaryotic)	PWY3O-19	COQ2	YNR041C	COenzyme Q
+ubiquinol-6 biosynthesis from 4-hydroxybenzoate (eukaryotic)	PWY3O-19	COQ3	YOL096C	COenzyme Q
+ubiquinol-6 biosynthesis from 4-hydroxybenzoate (eukaryotic)	PWY3O-19	COQ5	YML110C	COenzyme Q
+ubiquinol-6 biosynthesis from 4-hydroxybenzoate (eukaryotic)	PWY3O-19	COQ6	YGR255C	COenzyme Q
+UDP-N-acetylglucosamine biosynthesis	UDPNAGSYN-YEAST-PWY	GFA1	YKL104C	Glutamine:Fructose-6-phosphate Amidotransferase
+UDP-N-acetylglucosamine biosynthesis	UDPNAGSYN-YEAST-PWY	GNA1	YFL017C	GlucosamiNe-6-phosphate Acetyltransferase
+UDP-N-acetylglucosamine biosynthesis	UDPNAGSYN-YEAST-PWY	PCM1	YEL058W	PhosphoaCetylglucosamine Mutase
+UDP-N-acetylglucosamine biosynthesis	UDPNAGSYN-YEAST-PWY	QRI1	YDL103C	""
+urea degradation I	PWY-5703	DUR12	YBR208C	Degradation of URea
+very long chain fatty acid biosynthesis I	PWY-5080-1	ELO2	YCR034W	fatty acid ELOngation
+very long chain fatty acid biosynthesis I	PWY-5080-1	ELO3	YLR372W	fatty acid ELOngation
+very long chain fatty acid biosynthesis I	PWY-5080-1	IFA38	YBR159W	""
+very long chain fatty acid biosynthesis I	PWY-5080-1	PHS1	YJL097W	PTPLA Homolog involved in Sphingolipid biosynthesis 1
+very long chain fatty acid biosynthesis I	PWY-5080-1	TSC13	YDL015C	Temperature-sensitive Suppressors of Csg2 mutants
+xylose metabolism	PWY3O-8	GRE3	YHR104W	Genes de Respuesta a Estres (stress responsive genes)
+xylose metabolism	PWY3O-8	XYL2	YLR070C	""
+xylulose degradation	PWY3O-5	XKS1	YGR194C	XyluloKinaSe
+zymosterol biosynthesis	PWY-6074-1	ERG11	YHR007C	ERGosterol biosynthesis
+zymosterol biosynthesis	PWY-6074-1	ERG24	YNL280C	ERGosterol biosynthesis
+zymosterol biosynthesis	PWY-6074-1	ERG25	YGR060W	ERGosterol biosynthesis
+zymosterol biosynthesis	PWY-6074-1	ERG26	YGL001C	ERGosterol biosynthesis
+zymosterol biosynthesis	PWY-6074-1	ERG27	YLR100W	ERGosterol biosynthesis
+β-alanine biosynthesis IV	PWY-5760-1	ALD2	YMR170C	ALdehyde Dehydrogenase
+β-alanine biosynthesis IV	PWY-5760-1	ALD3	YMR169C	ALdehyde Dehydrogenase
+β-alanine biosynthesis IV	PWY-5760-1	FMS1	YMR020W	Fenpropimorph-resistance Multicopy Suppressor

@@ -1,0 +1,827 @@
+gene_disease('Q0085','Charcot-Marie-Tooth disease').
+gene_disease('Q0085','Leigh disease').
+gene_disease('Q0085','NARP syndrome').
+gene_disease('Q0085','autosomal dominant cerebellar ataxia').
+gene_disease('Q0085','breast cancer').
+gene_disease('Q0085','kidney disease').
+gene_disease('Q0085','parathyroid carcinoma').
+gene_disease('Q0085','prostate cancer').
+gene_disease('Q0085','thyroid gland cancer').
+gene_disease('YAL029C','Griscelli syndrome type 1').
+gene_disease('YAL029C','cerebrovascular disease').
+gene_disease('YAL029C','melanoma').
+gene_disease('YAL029C','microvillus inclusion disease').
+gene_disease('YAL039C','microphthalmia').
+gene_disease('YAL048C','Parkinsons disease').
+gene_disease('YBL020W','cancer').
+gene_disease('YBL020W','congenital disorder of glycosylation type I').
+gene_disease('YBL030C','Sengers syndrome').
+gene_disease('YBL030C','autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 2').
+gene_disease('YBL030C','facioscapulohumeral muscular dystrophy').
+gene_disease('YBL030C','hypertrophic cardiomyopathy').
+gene_disease('YBL030C','lactic acidosis').
+gene_disease('YBL030C','mitochondrial myopathy').
+gene_disease('YBL036C','early-onset vitamin B6-dependent epilepsy').
+gene_disease('YBL068W','diabetes insipidus').
+gene_disease('YBL068W','fundus dystrophy').
+gene_disease('YBL080C','cardiomyopathy').
+gene_disease('YBL082C','congenital disorder of glycosylation Id').
+gene_disease('YBL082C','congenital disorder of glycosylation').
+gene_disease('YBL088C','ataxia telangiectasia').
+gene_disease('YBL088C','cancer').
+gene_disease('YBR002C','cancer').
+gene_disease('YBR018C','galactosemia').
+gene_disease('YBR019C','galactosemia').
+gene_disease('YBR019C','thrombocytopenia').
+gene_disease('YBR024W','cardiomyopathy').
+gene_disease('YBR029C','cancer').
+gene_disease('YBR036C','Charcot-Marie-Tooth disease').
+gene_disease('YBR037C','hypertrophic cardiomyopathy').
+gene_disease('YBR037C','liver disease').
+gene_disease('YBR061C','non-syndromic X-linked intellectual disability').
+gene_disease('YBR109C','cancer').
+gene_disease('YBR110W','congenital disorder of glycosylation Ik').
+gene_disease('YBR110W','congenital disorder of glycosylation type I').
+gene_disease('YBR110W','congenital disorder of glycosylation').
+gene_disease('YBR118W','developmental and epileptic encephalopathy 33').
+gene_disease('YBR118W','dilated cardiomyopathy').
+gene_disease('YBR118W','epilepsy').
+gene_disease('YBR121C','Charcot-Marie-Tooth disease type 2D').
+gene_disease('YBR121C','spinal muscular atrophy').
+gene_disease('YBR127C','follicular lymphoma').
+gene_disease('YBR127C','renal tubular acidosis').
+gene_disease('YBR135W','breast cancer').
+gene_disease('YBR135W','liver cancer').
+gene_disease('YBR135W','lung cancer').
+gene_disease('YBR136W','Seckel syndrome').
+gene_disease('YBR136W','ataxia telangiectasia').
+gene_disease('YBR136W','breast cancer').
+gene_disease('YBR136W','colon cancer').
+gene_disease('YBR136W','endometrial cancer').
+gene_disease('YBR136W','non-Hodgkin lymphoma').
+gene_disease('YBR140C','neurofibromatosis 1').
+gene_disease('YBR140C','neurofibromatosis').
+gene_disease('YBR159W','cancer').
+gene_disease('YBR159W','gynecomastia').
+gene_disease('YBR159W','polycystic kidney disease').
+gene_disease('YBR159W','pseudohermaphroditism').
+gene_disease('YBR160W','cancer').
+gene_disease('YBR179C','Charcot-Marie-Tooth disease type 2A2B').
+gene_disease('YBR183W','leukodystrophy').
+gene_disease('YBR187W','congenital disorder of glycosylation type II').
+gene_disease('YBR187W','congenital disorder of glycosylation type IIk').
+gene_disease('YBR223C','spinocerebellar ataxia type 1 with axonal neuropathy').
+gene_disease('YBR252W','cancer').
+gene_disease('YBR254C','X-linked spondyloepiphyseal dysplasia tarda').
+gene_disease('YBR254C','spondyloepiphyseal dysplasia congenita').
+gene_disease('YBR265W','erythrokeratodermia variabilis et progressiva 4').
+gene_disease('YBR279W','pancreatic cancer').
+gene_disease('YCR012W','cancer').
+gene_disease('YCR032W','Chediak-Higashi syndrome').
+gene_disease('YCR075C','adenocarcinoma').
+gene_disease('YCR075C','carcinoma').
+gene_disease('YCR075C','colon cancer').
+gene_disease('YCR075C','colorectal cancer').
+gene_disease('YCR075C','congenital disorder of glycosylation type IIj').
+gene_disease('YCR075C','cystinosis').
+gene_disease('YCR075C','familial hyperinsulinemic hypoglycemia 7').
+gene_disease('YCR075C','hypoglycemia').
+gene_disease('YCR075C','ischemia').
+gene_disease('YCR075C','melanoma').
+gene_disease('YCR075C','nemaline myopathy 7').
+gene_disease('YCR092C','cancer').
+gene_disease('YDL003W','Cornelia de Lange syndrome').
+gene_disease('YDL003W','Roberts syndrome').
+gene_disease('YDL015C','non-syndromic intellectual disability').
+gene_disease('YDL028C','bipolar disorder').
+gene_disease('YDL033C','MERRF syndrome').
+gene_disease('YDL040C','autism spectrum disorder').
+gene_disease('YDL040C','congenital heart disease').
+gene_disease('YDL040C','intellectual disability').
+gene_disease('YDL042C','Alzheimers disease').
+gene_disease('YDL042C','Parkinsons disease').
+gene_disease('YDL042C','diabetes mellitus').
+gene_disease('YDL042C','prostate cancer').
+gene_disease('YDL045C','cancer').
+gene_disease('YDL046W','Niemann-Pick disease type C2').
+gene_disease('YDL046W','Niemann-Pick disease').
+gene_disease('YDL064W','cancer').
+gene_disease('YDL066W','high grade glioma').
+gene_disease('YDL085C-A','neurodegenerative disease').
+gene_disease('YDL102W','colorectal cancer').
+gene_disease('YDL102W','endometrial cancer').
+gene_disease('YDL108W','brachydactyly type A2').
+gene_disease('YDL108W','breast cancer').
+gene_disease('YDL108W','essential hypertension').
+gene_disease('YDL108W','hypoglycemia').
+gene_disease('YDL108W','primary congenital glaucoma').
+gene_disease('YDL108W','type 2 diabetes mellitus').
+gene_disease('YDL119C','sideroblastic anemia').
+gene_disease('YDL120W','Friedreich ataxia').
+gene_disease('YDL120W','cancer').
+gene_disease('YDL120W','iron metabolism disease').
+gene_disease('YDL125C','Gamstorp-Wohlfart syndrome').
+gene_disease('YDL126C','inclusion body myopathy with Paget disease of bone and frontotemporal dementia').
+gene_disease('YDL147W','cancer').
+gene_disease('YDL148C','oligohydramnios').
+gene_disease('YDL154W','primary ovarian insufficiency').
+gene_disease('YDL164C','cancer').
+gene_disease('YDL193W','congenital disorder of glycosylation').
+gene_disease('YDL205C','cancer').
+gene_disease('YDL207W','lethal congenital contracture syndrome 1').
+gene_disease('YDR037W','Charcot-Marie-Tooth disease recessive intermediate B').
+gene_disease('YDR037W','autosomal recessive nonsyndromic deafness 89').
+gene_disease('YDR037W','hypomyelinating leukoencephalopathy').
+gene_disease('YDR037W','ophthalmoplegia').
+gene_disease('YDR047W','porphyria cutanea tarda').
+gene_disease('YDR049W','inflammatory bowel disease').
+gene_disease('YDR050C','cancer').
+gene_disease('YDR050C','triosephosphate isomerase deficiency').
+gene_disease('YDR054C','azoospermia').
+gene_disease('YDR054C','congenital heart disease').
+gene_disease('YDR086C','cancer').
+gene_disease('YDR093W','progressive familial intrahepatic cholestasis').
+gene_disease('YDR097C','breast cancer').
+gene_disease('YDR097C','cancer').
+gene_disease('YDR097C','colorectal carcinoma').
+gene_disease('YDR097C','ovarian cancer').
+gene_disease('YDR097C','primary ovarian insufficiency').
+gene_disease('YDR129C','Huntingtons disease').
+gene_disease('YDR165W','Seckel syndrome').
+gene_disease('YDR178W','hypertrophic cardiomyopathy').
+gene_disease('YDR178W','mitochondrial complex II deficiency').
+gene_disease('YDR178W','paraganglioma').
+gene_disease('YDR180W','cancer').
+gene_disease('YDR204W','coenzyme Q10 deficiency disease').
+gene_disease('YDR208W','cancer').
+gene_disease('YDR211W','leukoencephalopathy with vanishing white matter').
+gene_disease('YDR236C','cancer').
+gene_disease('YDR246W','syndromic intellectual disability').
+gene_disease('YDR268W','mitochondrial metabolism disease').
+gene_disease('YDR270W','Menkes disease').
+gene_disease('YDR270W','Wilson disease').
+gene_disease('YDR270W','occipital horn syndrome').
+gene_disease('YDR270W','spinal muscular atrophy').
+gene_disease('YDR279W','Aicardi-Goutieres syndrome').
+gene_disease('YDR291W','Baller-Gerold syndrome').
+gene_disease('YDR291W','Rothmund-Thomson syndrome').
+gene_disease('YDR291W','rapadilino syndrome').
+gene_disease('YDR324C','liver cirrhosis').
+gene_disease('YDR374C','disease of metabolism').
+gene_disease('YDR375C','mitochondrial complex III deficiency nuclear type 1').
+gene_disease('YDR376W','Parkinsons disease').
+gene_disease('YDR376W','auditory system disease').
+gene_disease('YDR376W','optic atrophy').
+gene_disease('YDR376W','retinitis pigmentosa').
+gene_disease('YDR379C-A','mitochondrial complex II deficiency').
+gene_disease('YDR385W','spinocerebellar ataxia type 26').
+gene_disease('YDR394W','hereditary spastic paraplegia').
+gene_disease('YDR404C','cancer').
+gene_disease('YDR419W','xeroderma pigmentosum').
+gene_disease('YDR430C','Alzheimers disease').
+gene_disease('YDR430C','hereditary ataxia').
+gene_disease('YDR430C','primary cerebellar degeneration').
+gene_disease('YDR440W','leukemia').
+gene_disease('YDR454C','cancer').
+gene_disease('YDR470C','Leigh disease').
+gene_disease('YDR481C','bone disease').
+gene_disease('YDR481C','calcinosis').
+gene_disease('YDR481C','carcinoma').
+gene_disease('YDR481C','choriocarcinoma').
+gene_disease('YDR481C','cleidocranial dysplasia').
+gene_disease('YDR481C','cryptorchidism').
+gene_disease('YDR481C','embryonal carcinoma').
+gene_disease('YDR481C','germ cell cancer').
+gene_disease('YDR481C','germinoma').
+gene_disease('YDR481C','gonadoblastoma').
+gene_disease('YDR481C','hypophosphatasia').
+gene_disease('YDR481C','infantile hypophosphatasia').
+gene_disease('YDR481C','meningioma').
+gene_disease('YDR481C','osteomalacia').
+gene_disease('YDR481C','osteosarcoma').
+gene_disease('YDR481C','primary biliary cholangitis').
+gene_disease('YDR481C','rickets').
+gene_disease('YDR481C','seminoma').
+gene_disease('YDR493W','lactic acidosis').
+gene_disease('YDR493W','mitochondrial complex III deficiency nuclear type 8').
+gene_disease('YDR493W','mitochondrial complex III deficiency').
+gene_disease('YDR510W','cancer').
+gene_disease('YDR511W','mitochondrial complex II deficiency').
+gene_disease('YDR511W','paraganglioma').
+gene_disease('YDR511W','pheochromocytoma').
+gene_disease('YDR519W','Huntingtons disease').
+gene_disease('YDR531W','pantothenate kinase-associated neurodegeneration').
+gene_disease('YDR533C','Parkinsons disease').
+gene_disease('YDR533C','cancer').
+gene_disease('YDR533C','early-onset Parkinsons disease').
+gene_disease('YEL011W','glycogen storage disease IV').
+gene_disease('YEL026W','cancer').
+gene_disease('YEL048C','childhood onset epileptic encephalopathy').
+gene_disease('YEL048C','rhabdomyolysis-myalgia syndrome').
+gene_disease('YEL058W','cancer').
+gene_disease('YEL061C','breast cancer').
+gene_disease('YEL061C','colorectal cancer').
+gene_disease('YEL061C','lung cancer').
+gene_disease('YEL061C','prostate cancer').
+gene_disease('YEL061C','uterine cancer').
+gene_disease('YEL062W','cancer').
+gene_disease('YER014W','variegate porphyria').
+gene_disease('YER017C','hereditary spastic paraplegia').
+gene_disease('YER017C','optic atrophy 12').
+gene_disease('YER017C','spinocerebellar ataxia type 28').
+gene_disease('YER022W','infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly').
+gene_disease('YER025W','MEHMO syndrome').
+gene_disease('YER025W','glucose metabolism disease').
+gene_disease('YER025W','hypopituitarism').
+gene_disease('YER025W','leukodystrophy').
+gene_disease('YER043C','hyperhomocysteinemia').
+gene_disease('YER053C','mitochondrial metabolism disease').
+gene_disease('YER078C','nephronophthisis-like nephropathy 1').
+gene_disease('YER094C','cancer').
+gene_disease('YER095W','breast cancer').
+gene_disease('YER095W','colorectal cancer').
+gene_disease('YER095W','primary ovarian insufficiency').
+gene_disease('YER112W','cancer').
+gene_disease('YER125W','Liddle syndrome').
+gene_disease('YER133W','cancer').
+gene_disease('YER136W','cancer').
+gene_disease('YER148W','spinocerebellar ataxia type 17').
+gene_disease('YER156C','vitiligo').
+gene_disease('YER162C','xeroderma pigmentosum').
+gene_disease('YER164W','prostate cancer').
+gene_disease('YER168C','sideroblastic anemia with B-cell immunodeficiency. periodic fevers. and developmental delay').
+gene_disease('YER168C','sideroblastic anemia').
+gene_disease('YER171W','Cockayne syndrome').
+gene_disease('YER171W','photosensitive trichothiodystrophy').
+gene_disease('YER171W','xeroderma pigmentosum').
+gene_disease('YER172C','retinitis pigmentosa 33').
+gene_disease('YER172C','retinitis pigmentosa').
+gene_disease('YER178W','pyruvate decarboxylase deficiency').
+gene_disease('YFL005W','Dyggve-Melchior-Clausen disease').
+gene_disease('YFL005W','Smith-McCort dysplasia').
+gene_disease('YFL017C','cancer').
+gene_disease('YFL017C','keratosis follicularis spinulosa decalvans').
+gene_disease('YFL018C','disease of metabolism').
+gene_disease('YFL029C','cystinosis').
+gene_disease('YFL029C','encephalitis').
+gene_disease('YFL029C','intellectual disability').
+gene_disease('YFL030W','primary hyperoxaluria').
+gene_disease('YFL037W','Picks disease').
+gene_disease('YFL037W','autosomal dominant macrothrombocytopenia TUBB1-related').
+gene_disease('YFL037W','brain ischemia').
+gene_disease('YFL037W','cerebellar ataxia. mental retardation and dysequlibrium syndrome').
+gene_disease('YFL037W','complex cortical dysplasia with other brain malformations 1').
+gene_disease('YFL037W','complex cortical dysplasia with other brain malformations 7').
+gene_disease('YFL037W','congenital fibrosis of the extraocular muscles').
+gene_disease('YFL037W','facial paralysis').
+gene_disease('YFL037W','lung non-small cell carcinoma').
+gene_disease('YFL037W','malignant astrocytoma').
+gene_disease('YFL037W','ovarian cancer').
+gene_disease('YFL037W','prostate cancer').
+gene_disease('YFL037W','ptosis').
+gene_disease('YFL038C','colorectal cancer').
+gene_disease('YFL039C','Moyamoya disease').
+gene_disease('YFL039C','autosomal dominant nonsyndromic deafness 20').
+gene_disease('YFL039C','patent ductus arteriosus').
+gene_disease('YFL039C','thoracic aortic aneurysm').
+gene_disease('YFL045C','congenital disorder of glycosylation Ia').
+gene_disease('YFR010W','prion disease').
+gene_disease('YFR027W','Roberts syndrome').
+gene_disease('YFR028C','autosomal recessive nonsyndromic deafness 32').
+gene_disease('YFR028C','colorectal carcinoma').
+gene_disease('YFR028C','vascular disease').
+gene_disease('YGL001C','cancer').
+gene_disease('YGL003C','disease of cellular proliferation').
+gene_disease('YGL006W','Hailey-Hailey disease').
+gene_disease('YGL022W','congenital disorder of glycosylation Iw').
+gene_disease('YGL030W','cancer').
+gene_disease('YGL048C','Alzheimers disease').
+gene_disease('YGL048C','amyotrophic lateral sclerosis').
+gene_disease('YGL048C','cancer').
+gene_disease('YGL048C','inclusion body myopathy with Paget disease of bone and frontotemporal dementia').
+gene_disease('YGL048C','myopathy').
+gene_disease('YGL066W','spinocerebellar ataxia type 7').
+gene_disease('YGL080W','mitochondrial metabolism disease').
+gene_disease('YGL092W','acute myeloid leukemia').
+gene_disease('YGL115W','Wolff-Parkinson-White syndrome').
+gene_disease('YGL115W','lethal congenital glycogen storage disease of heart').
+gene_disease('YGL116W','melanoma').
+gene_disease('YGL119W','coenzyme Q10 deficiency disease').
+gene_disease('YGL119W','nephrotic syndrome type 9').
+gene_disease('YGL119W','primary coenzyme Q10 deficiency 4').
+gene_disease('YGL136C','MELAS syndrome').
+gene_disease('YGL142C','sleeping sickness').
+gene_disease('YGL167C','Hailey-Hailey disease').
+gene_disease('YGL180W','triple-receptor negative breast cancer').
+gene_disease('YGL236C','nonsyndromic deafness').
+gene_disease('YGL238W','breast cancer').
+gene_disease('YGR024C','autosomal recessive cerebellar ataxia').
+gene_disease('YGR024C','cancer').
+gene_disease('YGR029W','autosomal dominant polycystic kidney disease').
+gene_disease('YGR029W','autosomal recessive centronuclear myopathy').
+gene_disease('YGR048W','cleft palate').
+gene_disease('YGR075C','cancer').
+gene_disease('YGR078C','cancer').
+gene_disease('YGR083C','leukoencephalopathy with vanishing white matter').
+gene_disease('YGR091W','retinitis pigmentosa').
+gene_disease('YGR094W','childhood onset epileptic encephalopathy').
+gene_disease('YGR094W','combined oxidative phosphorylation deficiency 20').
+gene_disease('YGR094W','mitochondrial encephalomyopathy').
+gene_disease('YGR094W','mitochondrial metabolism disease').
+gene_disease('YGR105W','X-linked myopathy with excessive autophagy').
+gene_disease('YGR155W','Down syndrome').
+gene_disease('YGR155W','homocystinuria').
+gene_disease('YGR162W','Parkinsons disease').
+gene_disease('YGR163W','follicular lymphoma').
+gene_disease('YGR175C','cancer').
+gene_disease('YGR181W','deafness-dystonia-optic neuronopathy syndrome').
+gene_disease('YGR184C','neurodegenerative disease').
+gene_disease('YGR185C','cancer').
+gene_disease('YGR185C','multisystem proteinopathy').
+gene_disease('YGR185C','neuropathy').
+gene_disease('YGR240C','glycogen storage disease').
+gene_disease('YGR246C','cerebellofaciodental syndrome').
+gene_disease('YGR246C','colorectal cancer').
+gene_disease('YGR255C','nephrotic syndrome').
+gene_disease('YGR255C','neurilemmomatosis').
+gene_disease('YGR255C','primary coenzyme Q10 deficiency 6').
+gene_disease('YGR258C','Cockayne syndrome').
+gene_disease('YGR258C','xeroderma pigmentosum').
+gene_disease('YGR264C','Charcot-Marie-Tooth disease axonal type 2U').
+gene_disease('YGR264C','pulmonary alveolar proteinosis').
+gene_disease('YGR267C','dystonia').
+gene_disease('YGR270W','breast cancer').
+gene_disease('YGR270W','prostate cancer').
+gene_disease('YGR277C','cancer').
+gene_disease('YGR280C','cancer').
+gene_disease('YGR281W','cystic fibrosis').
+gene_disease('YHL003C','fatty liver disease').
+gene_disease('YHL003C','hepatocellular carcinoma').
+gene_disease('YHL003C','type 2 diabetes mellitus').
+gene_disease('YHL015W','Diamond-Blackfan anemia').
+gene_disease('YHL023C','cancer').
+gene_disease('YHR002W','Graves disease').
+gene_disease('YHR005C','McCune Albright syndrome').
+gene_disease('YHR007C','Alzheimers disease').
+gene_disease('YHR007C','prostate cancer').
+gene_disease('YHR008C','Alzheimers disease').
+gene_disease('YHR008C','Parkinsons disease').
+gene_disease('YHR008C','cancer').
+gene_disease('YHR013C','Ogden syndrome').
+gene_disease('YHR037W','disease of metabolism').
+gene_disease('YHR043C','cancer').
+gene_disease('YHR060W','congenital disorder of glycosylation type IIo').
+gene_disease('YHR069C','short stature. hearing loss. retinitis pigmentosa. and distinctive facies').
+gene_disease('YHR070W','cytochrome-c oxidase deficiency disease').
+gene_disease('YHR070W','hypercalcemia').
+gene_disease('YHR070W','hypertrophic cardiomyopathy').
+gene_disease('YHR070W','lactic acidosis').
+gene_disease('YHR070W','mitochondrial complex I deficiency').
+gene_disease('YHR070W','mitochondrial complex III deficiency').
+gene_disease('YHR070W','mitochondrial myopathy').
+gene_disease('YHR090C','hepatocellular carcinoma').
+gene_disease('YHR090C','melanoma').
+gene_disease('YHR090C','squamous cell carcinoma').
+gene_disease('YHR091C','pontocerebellar hypoplasia type 6').
+gene_disease('YHR118C','Meier-Gorlin syndrome').
+gene_disease('YHR164C','Bloom syndrome').
+gene_disease('YHR164C','Seckel syndrome 8').
+gene_disease('YHR164C','Seckel syndrome').
+gene_disease('YHR164C','Werner syndrome').
+gene_disease('YHR164C','cancer').
+gene_disease('YHR164C','microcephaly').
+gene_disease('YHR165C','acute myeloid leukemia').
+gene_disease('YHR165C','myelodysplastic syndrome').
+gene_disease('YHR165C','prostate cancer').
+gene_disease('YHR171W','nervous system disease').
+gene_disease('YHR204W','cystic fibrosis').
+gene_disease('YIL022W','thyroid gland Hurthle cell carcinoma').
+gene_disease('YIL031W','acute promyelocytic leukemia').
+gene_disease('YIL049W','congenital disorder of glycosylation type I').
+gene_disease('YIL061C','mixed connective tissue disease').
+gene_disease('YIL078W','amino acid metabolic disorder').
+gene_disease('YIL083C','cancer').
+gene_disease('YIL083C','dilated cardiomyopathy').
+gene_disease('YIL134W','multiple acyl-CoA dehydrogenase deficiency').
+gene_disease('YIL143C','Cockayne syndrome').
+gene_disease('YIL143C','xeroderma pigmentosum').
+gene_disease('YIL144W','cancer').
+gene_disease('YIL149C','lung cancer').
+gene_disease('YIR002C','Fanconi anemia').
+gene_disease('YJL029C','pontocerebellar hypoplasia type 2E').
+gene_disease('YJL046W','Leigh disease').
+gene_disease('YJL059W','neuronal ceroid lipofuscinosis 3').
+gene_disease('YJL097W','cancer').
+gene_disease('YJL104W','osteochondrodysplasia').
+gene_disease('YJL154C','Parkinsons disease').
+gene_disease('YJL180C','mitochondrial complex V (ATP synthase) deficiency. nuclear type 1').
+gene_disease('YJR006W','cancer').
+gene_disease('YJR007W','leukodystrophy').
+gene_disease('YJR014W','autism spectrum disorder').
+gene_disease('YJR035W','Cockayne syndrome B').
+gene_disease('YJR040W','Dent disease').
+gene_disease('YJR040W','osteopetrosis').
+gene_disease('YJR043C','cancer').
+gene_disease('YJR045C','Parkinsons disease').
+gene_disease('YJR048W','hyperglycemia').
+gene_disease('YJR048W','thrombocytopenia').
+gene_disease('YJR064W','Bardet-Biedl syndrome 10').
+gene_disease('YJR066W','cancer').
+gene_disease('YJR104C','amyotrophic lateral sclerosis').
+gene_disease('YJR110W','Charcot-Marie-Tooth disease').
+gene_disease('YJR110W','centronuclear myopathy X-linked').
+gene_disease('YJR117W','lethal restrictive dermopathy').
+gene_disease('YJR117W','non-alcoholic fatty liver disease').
+gene_disease('YJR117W','progeria').
+gene_disease('YJR117W','type 2 diabetes mellitus').
+gene_disease('YJR135W-A','deafness-dystonia-optic neuronopathy syndrome').
+gene_disease('YJR138W','cancer').
+gene_disease('YJR143C','Walker-Warburg syndrome').
+gene_disease('YKL010C','cancer').
+gene_disease('YKL013C','cancer').
+gene_disease('YKL017C','Charcot-Marie-Tooth disease axonal type 2S').
+gene_disease('YKL017C','distal spinal muscular atrophy 1').
+gene_disease('YKL024C','cancer').
+gene_disease('YKL033W','cancer').
+gene_disease('YKL035W','cancer').
+gene_disease('YKL049C','cancer').
+gene_disease('YKL049C','male infertility').
+gene_disease('YKL049C','oligospermia').
+gene_disease('YKL053C-A','breast cancer').
+gene_disease('YKL055C','mitochondrial metabolism disease').
+gene_disease('YKL059C','cancer').
+gene_disease('YKL085W','developmental and epileptic encephalopathy 51').
+gene_disease('YKL113C','cancer').
+gene_disease('YKL119C','congenital disorder of glycosylation type IIp').
+gene_disease('YKL145W','cancer').
+gene_disease('YKL148C','Leigh disease').
+gene_disease('YKL148C','cardiomyopathy').
+gene_disease('YKL148C','gastrointestinal stromal tumor').
+gene_disease('YKL148C','leukodystrophy').
+gene_disease('YKL148C','mitochondrial complex II deficiency').
+gene_disease('YKL148C','neurodegenerative disease').
+gene_disease('YKL148C','paraganglioma').
+gene_disease('YKL148C','pheochromocytoma').
+gene_disease('YKL148C','pituitary adenoma').
+gene_disease('YKL173W','mandibulofacial dysostosis. Guion-Almeida type').
+gene_disease('YKL181W','Arts syndrome').
+gene_disease('YKL181W','Charcot-Marie-Tooth disease X-linked recessive 5').
+gene_disease('YKL181W','X-linked nonsyndromic deafness').
+gene_disease('YKL188C','adrenoleukodystrophy').
+gene_disease('YKL189W','cancer').
+gene_disease('YKL195W','mitochondrial complex I deficiency').
+gene_disease('YKL197C','peroxisomal biogenesis disorder').
+gene_disease('YKL209C','cystic fibrosis').
+gene_disease('YKR009C','lipid metabolism disorder').
+gene_disease('YKR026C','leukoencephalopathy with vanishing white matter').
+gene_disease('YKR031C','developmental cardiac valvular defect').
+gene_disease('YKR038C','primary hypomagnesemia').
+gene_disease('YKR038C','proteinuria').
+gene_disease('YKR054C','Charcot-Marie-Tooth disease axonal type 2O').
+gene_disease('YKR054C','congenital muscular dystrophy').
+gene_disease('YKR054C','polymicrogyria').
+gene_disease('YKR054C','spinal muscular atrophy with lower extremity predominant 1').
+gene_disease('YKR079C','infantile hypertrophic cardiomyopathy').
+gene_disease('YKR079C','mitochondrial complex I deficiency').
+gene_disease('YKR086W','retinitis pigmentosa').
+gene_disease('YKR095W','lung cancer').
+gene_disease('YLL001W','encephalopathy due to defective mitochondrial and peroxisomal fission 1').
+gene_disease('YLL040C','Cohen syndrome').
+gene_disease('YLL040C','Parkinsons disease 23').
+gene_disease('YLL040C','Parkinsons disease').
+gene_disease('YLL040C','autosomal recessive spinocerebellar ataxia 4').
+gene_disease('YLL040C','cerebellar ataxia').
+gene_disease('YLL040C','choreaacanthocytosis').
+gene_disease('YLL041C','mitochondrial encephalomyopathy').
+gene_disease('YLL041C','paraganglioma').
+gene_disease('YLR022C','Shwachman-Diamond syndrome').
+gene_disease('YLR022C','neuronal ceroid lipofuscinosis 3').
+gene_disease('YLR032W','gastrointestinal system cancer').
+gene_disease('YLR038C','hypertrophic cardiomyopathy').
+gene_disease('YLR038C','mitochondrial encephalomyopathy').
+gene_disease('YLR075W','T-cell acute lymphoblastic leukemia').
+gene_disease('YLR075W','autistic disorder').
+gene_disease('YLR075W','spondyloepiphyseal dysplasia congenita').
+gene_disease('YLR075W','syndromic X-linked intellectual disability Najm type').
+gene_disease('YLR078C','progressive myoclonus epilepsy 6').
+gene_disease('YLR099C','ichthyosis').
+gene_disease('YLR099C','neutral lipid storage disease').
+gene_disease('YLR100W','steroid inherited metabolic disorder').
+gene_disease('YLR103C','Meier-Gorlin syndrome').
+gene_disease('YLR133W','epilepsy').
+gene_disease('YLR133W','microcephaly').
+gene_disease('YLR154C','Aicardi-Goutieres syndrome').
+gene_disease('YLR163C','multiple mitochondrial dysfunctions syndrome 6').
+gene_disease('YLR164W','paraganglioma').
+gene_disease('YLR174W','high grade glioma').
+gene_disease('YLR186W','Bowen-Conradi syndrome').
+gene_disease('YLR191W','peroxisomal disease').
+gene_disease('YLR201C','coenzyme Q10 deficiency disease').
+gene_disease('YLR212C','complex cortical dysplasia with other brain malformations 4').
+gene_disease('YLR237W','megaloblastic anemia').
+gene_disease('YLR239C','glycine encephalopathy').
+gene_disease('YLR242C','developmental and epileptic encephalopathy 38').
+gene_disease('YLR242C','lipid storage disease').
+gene_disease('YLR251W','mitochondrial DNA depletion syndrome 3').
+gene_disease('YLR251W','mitochondrial DNA depletion syndrome 6').
+gene_disease('YLR251W','mitochondrial metabolism disease').
+gene_disease('YLR263W','male infertility').
+gene_disease('YLR274W','Meier-Gorlin syndrome').
+gene_disease('YLR289W','West syndrome').
+gene_disease('YLR291C','leukoencephalopathy with vanishing white matter').
+gene_disease('YLR304C','central nervous system disease').
+gene_disease('YLR304C','neurodegenerative disease').
+gene_disease('YLR304C','optic atrophy 9').
+gene_disease('YLR304C','optic nerve disease').
+gene_disease('YLR348C','childhood onset epileptic encephalopathy').
+gene_disease('YLR348C','mitochondrial DNA depletion syndrome').
+gene_disease('YLR348C','mitochondrial complex I deficiency').
+gene_disease('YLR350W','Loeys-Dietz syndrome').
+gene_disease('YLR350W','asthma').
+gene_disease('YLR382C','Perrault syndrome').
+gene_disease('YLR382C','mitochondrial metabolism disease').
+gene_disease('YLR384C','Riley-Day syndrome').
+gene_disease('YLR404W','congenital generalized lipodystrophy type 2').
+gene_disease('YLR404W','congenital generalized lipodystrophy').
+gene_disease('YLR430W','amyotrophic lateral sclerosis type 4').
+gene_disease('YLR430W','ataxia with oculomotor apraxia type 2').
+gene_disease('YLR438W','gyrate atrophy').
+gene_disease('YML035C','pontocerebellar hypoplasia').
+gene_disease('YML061C','cancer').
+gene_disease('YML061C','progeria').
+gene_disease('YML065W','Meier-Gorlin syndrome').
+gene_disease('YML069W','cancer').
+gene_disease('YML077W','cancer').
+gene_disease('YML077W','melanoma').
+gene_disease('YML085C','lissencephaly 3').
+gene_disease('YML085C','lissencephaly').
+gene_disease('YML085C','microlissencephaly').
+gene_disease('YML085C','polymicrogyria').
+gene_disease('YML104C','autosomal recessive spinocerebellar ataxia 20').
+gene_disease('YML110C','coenzyme Q10 deficiency disease').
+gene_disease('YML120C','Leber hereditary optic neuropathy').
+gene_disease('YML124C','Alzheimers disease').
+gene_disease('YML124C','breast cancer').
+gene_disease('YML124C','leukemia').
+gene_disease('YML124C','lissencephaly').
+gene_disease('YML124C','lung carcinoma').
+gene_disease('YML124C','osteoblastoma').
+gene_disease('YMR013C','congenital disorder of glycosylation type I').
+gene_disease('YMR034C','amelogenesis imperfecta').
+gene_disease('YMR034C','osteochondrodysplasia').
+gene_disease('YMR034C','osteoporosis').
+gene_disease('YMR038C','amyotrophic lateral sclerosis').
+gene_disease('YMR038C','cataract').
+gene_disease('YMR038C','neurodegenerative disease').
+gene_disease('YMR038C','sensorineural hearing loss').
+gene_disease('YMR079W','breast cancer').
+gene_disease('YMR089C','hereditary spastic paraplegia').
+gene_disease('YMR089C','optic atrophy 12').
+gene_disease('YMR089C','spinocerebellar ataxia type 28').
+gene_disease('YMR092C','hypertrophic cardiomyopathy').
+gene_disease('YMR110C','Sjogren-Larsson syndrome').
+gene_disease('YMR128W','microcephaly').
+gene_disease('YMR161W','Huntingtons disease').
+gene_disease('YMR165C','lipid metabolism disorder').
+gene_disease('YMR165C','myoglobinuria').
+gene_disease('YMR167W','colorectal cancer').
+gene_disease('YMR167W','hereditary nonpolyposis colorectal cancer type 2').
+gene_disease('YMR167W','primary ovarian insufficiency').
+gene_disease('YMR186W','cancer').
+gene_disease('YMR190C','Bloom syndrome').
+gene_disease('YMR190C','Werner syndrome').
+gene_disease('YMR201C','xeroderma pigmentosum group A').
+gene_disease('YMR205C','glycogen storage disease').
+gene_disease('YMR208W','cancer').
+gene_disease('YMR208W','mevalonic aciduria').
+gene_disease('YMR212C','autism spectrum disorder').
+gene_disease('YMR224C','breast cancer').
+gene_disease('YMR224C','intestinal cancer').
+gene_disease('YMR224C','liver cancer').
+gene_disease('YMR224C','ovarian cancer').
+gene_disease('YMR224C','skin cancer').
+gene_disease('YMR231W','hypomyelinating leukodystrophy 12').
+gene_disease('YMR244C-A','cardiomyopathy').
+gene_disease('YMR244C-A','cytochrome-c oxidase deficiency disease').
+gene_disease('YMR244C-A','fatal infantile cardioencephalomyopathy due to cytochrome c oxidase deficiency').
+gene_disease('YMR246W','Sjogren-Larsson syndrome').
+gene_disease('YMR259C','non-syndromic X-linked intellectual disability').
+gene_disease('YMR260C','uveal melanoma').
+gene_disease('YMR267W','dilated cardiomyopathy').
+gene_disease('YMR267W','myocarditis').
+gene_disease('YMR288W','acute myeloid leukemia').
+gene_disease('YMR288W','bladder urothelial carcinoma').
+gene_disease('YMR288W','myelodysplastic syndrome').
+gene_disease('YMR288W','uterine corpus endometrial carcinoma').
+gene_disease('YMR293C','cardiomyopathy').
+gene_disease('YMR301C','X-linked sideroblastic anemia with ataxia').
+gene_disease('YMR308C','cancer').
+gene_disease('YMR314W','cancer').
+gene_disease('YMR322C','Parkinsons disease').
+gene_disease('YMR322C','cancer').
+gene_disease('YNCQ0010W','MELAS syndrome').
+gene_disease('YNCQ0010W','chronic progressive external ophthalmoplegia').
+gene_disease('YNCQ0010W','mitochondrial myopathy').
+gene_disease('YNL007C','autosomal dominant limb-girdle muscular dystrophy type 1').
+gene_disease('YNL037C','early infantile epileptic encephalopathy').
+gene_disease('YNL061W','cancer').
+gene_disease('YNL072W','Aicardi-Goutieres syndrome').
+gene_disease('YNL088W','B cell deficiency').
+gene_disease('YNL088W','acute myeloid leukemia').
+gene_disease('YNL088W','cancer').
+gene_disease('YNL098C','colorectal cancer').
+gene_disease('YNL112W','abdominal obesity-metabolic syndrome').
+gene_disease('YNL112W','cancer').
+gene_disease('YNL113W','Treacher Collins syndrome').
+gene_disease('YNL138W','ovary epithelial cancer').
+gene_disease('YNL142W','renal tubular acidosis').
+gene_disease('YNL169C','Parkinsons disease').
+gene_disease('YNL219C','bipolar disorder').
+gene_disease('YNL219C','congenital disorder of glycosylation type I').
+gene_disease('YNL241C','congenital nonspherocytic hemolytic anemia').
+gene_disease('YNL247W','microcephaly').
+gene_disease('YNL250W','breast cancer').
+gene_disease('YNL255C','myotonic dystrophy type 2').
+gene_disease('YNL262W','anaplastic astrocytoma').
+gene_disease('YNL262W','breast carcinoma').
+gene_disease('YNL262W','cancer').
+gene_disease('YNL262W','colorectal cancer').
+gene_disease('YNL262W','duodenum cancer').
+gene_disease('YNL262W','endometrial cancer').
+gene_disease('YNL262W','endometrial serous adenocarcinoma').
+gene_disease('YNL262W','gastric adenocarcinoma').
+gene_disease('YNL262W','glioblastoma').
+gene_disease('YNL262W','high grade glioma').
+gene_disease('YNL262W','kidney cancer').
+gene_disease('YNL262W','liver cancer').
+gene_disease('YNL262W','lung cancer').
+gene_disease('YNL262W','ovarian cancer').
+gene_disease('YNL262W','pleomorphic xanthoastrocytoma').
+gene_disease('YNL262W','prostate cancer').
+gene_disease('YNL293W','Ewing sarcoma').
+gene_disease('YNL293W','cancer').
+gene_disease('YNL325C','Charcot-Marie-Tooth disease type 4J').
+gene_disease('YNL329C','peroxisomal biogenesis disorder').
+gene_disease('YNR026C','autism spectrum disorder').
+gene_disease('YNR026C','cranioectodermal dysplasia').
+gene_disease('YNR026C','intellectual disability').
+gene_disease('YNR030W','congenital disorder of glycosylation type I').
+gene_disease('YNR036C','dilated cardiomyopathy').
+gene_disease('YNR041C','coenzyme Q10 deficiency disease').
+gene_disease('YNR041C','multiple system atrophy').
+gene_disease('YNR041C','primary coenzyme Q10 deficiency 1').
+gene_disease('YOL013C','alpha 1-antitrypsin deficiency').
+gene_disease('YOL021C','multiple myeloma').
+gene_disease('YOL027C','Wolf-Hirschhorn syndrome').
+gene_disease('YOL031C','Marinesco-Sjogren syndrome').
+gene_disease('YOL049W','Huntingtons disease').
+gene_disease('YOL071W','paraganglioma').
+gene_disease('YOL081W','neurofibromatosis 1').
+gene_disease('YOL081W','neurofibromatosis').
+gene_disease('YOL090W','Lynch syndrome').
+gene_disease('YOL090W','breast cancer').
+gene_disease('YOL090W','cancer').
+gene_disease('YOL090W','hereditary nonpolyposis colorectal cancer type 8').
+gene_disease('YOL090W','ovarian cancer').
+gene_disease('YOL090W','primary ovarian insufficiency').
+gene_disease('YOL093W','glucose metabolism disease').
+gene_disease('YOL112W','Ewing sarcoma').
+gene_disease('YOL123W','autosomal dominant limb-girdle muscular dystrophy type 3').
+gene_disease('YOL130W','primary hypomagnesemia').
+gene_disease('YOL133W','cancer').
+gene_disease('YOL139C','autism spectrum disorder').
+gene_disease('YOL142W','pontocerebellar hypoplasia type 1B').
+gene_disease('YOR002W','congenital disorder of glycosylation type I').
+gene_disease('YOR022C','hereditary spastic paraplegia 28').
+gene_disease('YOR022C','hereditary spastic paraplegia 54').
+gene_disease('YOR033C','primary ovarian insufficiency').
+gene_disease('YOR042W','neurodegenerative disease').
+gene_disease('YOR043W','progressive myoclonus epilepsy 3').
+gene_disease('YOR056C','colorectal cancer').
+gene_disease('YOR056C','osteosarcoma').
+gene_disease('YOR067C','congenital disorder of glycosylation type I').
+gene_disease('YOR100C','lipid metabolism disorder').
+gene_disease('YOR101W','Costello syndrome').
+gene_disease('YOR101W','colorectal cancer').
+gene_disease('YOR101W','urinary bladder cancer').
+gene_disease('YOR116C','hypomyelinating leukodystrophy 7 with or without oligodontia and-or hypogonadotropic hypogonadism').
+gene_disease('YOR116C','hypomyelinating leukodystrophy').
+gene_disease('YOR119C','colon cancer').
+gene_disease('YOR122C','amyotrophic lateral sclerosis').
+gene_disease('YOR130C','ornithine translocase deficiency').
+gene_disease('YOR136W','early infantile epileptic encephalopathy').
+gene_disease('YOR143C','cancer').
+gene_disease('YOR149C','cancer').
+gene_disease('YOR165W','hereditary spastic paraplegia').
+gene_disease('YOR176W','cancer').
+gene_disease('YOR181W','Wiskott-Aldrich syndrome').
+gene_disease('YOR204W','childhood medulloblastoma').
+gene_disease('YOR207C','hypomyelinating leukodystrophy').
+gene_disease('YOR211C','Behr syndrome').
+gene_disease('YOR211C','dominant optic atrophy plus syndrome').
+gene_disease('YOR211C','mitochondrial DNA depletion syndrome 14').
+gene_disease('YOR211C','optic atrophy 1').
+gene_disease('YOR226C','mitochondrial myopathy').
+gene_disease('YOR236W','cancer').
+gene_disease('YOR243C','intellectual disability').
+gene_disease('YOR243C','microcephaly').
+gene_disease('YOR244W','cancer').
+gene_disease('YOR246C','Leber congenital amaurosis').
+gene_disease('YOR250C','pontocerebellar hypoplasia').
+gene_disease('YOR270C','autosomal recessive osteopetrosis 1').
+gene_disease('YOR270C','renal tubular acidosis').
+gene_disease('YOR274W','combined oxidative phosphorylation deficiency 35').
+gene_disease('YOR274W','lung cancer').
+gene_disease('YOR278W','erythropoietic protoporphyria').
+gene_disease('YOR290C','cancer').
+gene_disease('YOR291W','Kufor-Rakeb syndrome').
+gene_disease('YOR291W','amyotrophic lateral sclerosis').
+gene_disease('YOR291W','hereditary spastic paraplegia').
+gene_disease('YOR291W','juvenile-onset Parkinsons disease').
+gene_disease('YOR291W','neuronal ceroid lipofuscinosis').
+gene_disease('YOR294W','Huntingtons disease').
+gene_disease('YOR294W','thyroid gland papillary carcinoma').
+gene_disease('YOR317W','Sjogren-Larsson syndrome').
+gene_disease('YOR330C','Alpers-Huttenlocher syndrome').
+gene_disease('YOR330C','chronic progressive external ophthalmoplegia').
+gene_disease('YOR330C','peripheral nervous system disease').
+gene_disease('YOR330C','progeria').
+gene_disease('YOR335C','Charcot-Marie-Tooth disease').
+gene_disease('YOR335C','axonal neuropathy').
+gene_disease('YOR335C','cerebellar ataxia').
+gene_disease('YOR335C','dermatomyositis').
+gene_disease('YOR391C','Parkinsons disease').
+gene_disease('YOR391C','cancer').
+gene_disease('YPL006W','Niemann-Pick disease type C1').
+gene_disease('YPL006W','Niemann-Pick disease').
+gene_disease('YPL008W','Warsaw breakage syndrome').
+gene_disease('YPL009C','neuromuscular disease').
+gene_disease('YPL022W','Fanconi anemia').
+gene_disease('YPL022W','cancer').
+gene_disease('YPL024W','primary ovarian insufficiency').
+gene_disease('YPL031C','lissencephaly').
+gene_disease('YPL040C','mitochondrial metabolism disease').
+gene_disease('YPL087W','leukodystrophy').
+gene_disease('YPL091W','limb-girdle muscular dystrophy').
+gene_disease('YPL096W','NGLY1-deficiency').
+gene_disease('YPL117C','cancer').
+gene_disease('YPL120W','breast cancer').
+gene_disease('YPL126W','autism spectrum disorder').
+gene_disease('YPL126W','lissencephaly').
+gene_disease('YPL126W','subcortical band heterotopia').
+gene_disease('YPL135W','mitochondrial myopathy').
+gene_disease('YPL143W','Diamond-Blackfan anemia').
+gene_disease('YPL147W','adrenoleukodystrophy').
+gene_disease('YPL149W','autosomal recessive spinocerebellar ataxia 25').
+gene_disease('YPL153C','breast cancer').
+gene_disease('YPL164C','hereditary nonpolyposis colorectal cancer type 7').
+gene_disease('YPL172C','cytochrome-c oxidase deficiency disease').
+gene_disease('YPL175W','paroxysmal nocturnal hemoglobinuria').
+gene_disease('YPL177C','Down syndrome').
+gene_disease('YPL177C','acute leukemia').
+gene_disease('YPL177C','acute lymphoblastic leukemia').
+gene_disease('YPL177C','acute promyelocytic leukemia').
+gene_disease('YPL177C','cancer').
+gene_disease('YPL177C','chronic myeloid leukemia').
+gene_disease('YPL177C','leukemia').
+gene_disease('YPL177C','myeloid leukemia').
+gene_disease('YPL177C','restless legs syndrome').
+gene_disease('YPL177C','substance dependence').
+gene_disease('YPL204W','Alzheimers disease').
+gene_disease('YPL204W','advanced sleep phase syndrome').
+gene_disease('YPL204W','brain disease').
+gene_disease('YPL204W','cancer').
+gene_disease('YPL204W','familial adenomatous polyposis').
+gene_disease('YPL204W','neurodegenerative disease').
+gene_disease('YPL204W','syndromic X-linked intellectual disability Najm type').
+gene_disease('YPL218W','chylomicron retention disease').
+gene_disease('YPL227C','congenital disorder of glycosylation type I').
+gene_disease('YPL237W','leukodystrophy').
+gene_disease('YPL241C','retinitis pigmentosa').
+gene_disease('YPL262W','leiomyomatosis').
+gene_disease('YPL271W','mitochondrial complex V (ATP synthase) deficiency nuclear type 3').
+gene_disease('YPL280W','Parkinsons disease').
+gene_disease('YPL280W','cancer').
+gene_disease('YPR016C','Shwachman-Diamond syndrome').
+gene_disease('YPR019W','endometrial cancer').
+gene_disease('YPR021C','citrullinemia').
+gene_disease('YPR021C','common bile duct disease').
+gene_disease('YPR021C','intrahepatic cholestasis').
+gene_disease('YPR024W','colorectal adenocarcinoma').
+gene_disease('YPR024W','mitochondrial metabolism disease').
+gene_disease('YPR033C','Charcot-Marie-Tooth disease. axonal type 2W').
+gene_disease('YPR082C','Burn-McKeown syndrome').
+gene_disease('YPR082C','cancer').
+gene_disease('YPR088C','severe congenital neutropenia 8').
+gene_disease('YPR110C','Treacher Collins syndrome').
+gene_disease('YPR110C','hypomyelinating leukodystrophy').
+gene_disease('YPR113W','cancer').
+gene_disease('YPR124W','Menkes disease').
+gene_disease('YPR140W','Barth syndrome').
+gene_disease('YPR161C','renal carcinoma').
+gene_disease('YPR162C','Meier-Gorlin syndrome').
+gene_disease('YPR165W','ulcerative colitis').
+gene_disease('YPR181C','congenital dyserythropoietic anemia type II').
+gene_disease('YPR181C','craniolenticulosutural dysplasia').
+gene_disease('YPR183W','breast cancer').
+gene_disease('YPR189W','trichohepatoenteric syndrome 1').

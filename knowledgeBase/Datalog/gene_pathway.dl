@@ -1,0 +1,1185 @@
+gene_pathway('Q0045','aerobic respiration. electron transport chain').
+gene_pathway('Q0105','aerobic respiration. electron transport chain').
+gene_pathway('Q0250','aerobic respiration. electron transport chain').
+gene_pathway('Q0275','aerobic respiration. electron transport chain').
+gene_pathway('YAL012W','L-cysteine biosynthesis III (from L-homocysteine)').
+gene_pathway('YAL012W','homocysteine and cysteine interconversion').
+gene_pathway('YAL012W','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YAL038W','glycolysis I (from glucose 6-phosphate)').
+gene_pathway('YAL038W','superpathway of glucose fermentation').
+gene_pathway('YAL044C','folate interconversions').
+gene_pathway('YAL044C','folate transformations I').
+gene_pathway('YAL044C','superpathway of chorismate metabolism').
+gene_pathway('YAL044C','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YAL054C','acetate utilization').
+gene_pathway('YAL054C','ethanol degradation').
+gene_pathway('YAL060W','(R.R)-butanediol degradation').
+gene_pathway('YAL060W','acetoin biosynthesis').
+gene_pathway('YAL060W','butanediol biosynthesis').
+gene_pathway('YAL060W','superpathway of acetoin and butanediol biosynthesis').
+gene_pathway('YAL062W','superpathway of glutamate biosynthesis').
+gene_pathway('YAR015W','de novo biosynthesis of purine nucleotides').
+gene_pathway('YAR015W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YAR015W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YAR015W','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YAR035W','carnitine shuttle').
+gene_pathway('YBL011W','phosphatidate biosynthesis I (the dihydroxyacetone pathway)').
+gene_pathway('YBL011W','phosphatidate biosynthesis II (the glycerol-3-phosphate pathway)').
+gene_pathway('YBL011W','superpathway of phosphatidate biosynthesis').
+gene_pathway('YBL033C','riboflavin. FMN and FAD biosynthesis').
+gene_pathway('YBL039C','de novo biosynthesis of pyrimidine ribonucleotides').
+gene_pathway('YBL039C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YBL039C','superpathway of pyrimidine ribonucleotides de novo biosynthesis').
+gene_pathway('YBL045C','aerobic respiration. electron transport chain').
+gene_pathway('YBL068W','PRPP biosynthesis').
+gene_pathway('YBL068W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YBL071W-A','diphthamide biosynthesis').
+gene_pathway('YBL082C','lipid-linked oligosaccharide biosynthesis').
+gene_pathway('YBL098W','L-tryptophan degradation III (eukaryotic)').
+gene_pathway('YBL098W','L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde').
+gene_pathway('YBL098W','NAD de novo biosynthesis II (from tryptophan)').
+gene_pathway('YBL098W','superpathway of NAD biosynthesis').
+gene_pathway('YBR003W','hexaprenyl diphosphate biosynthesis').
+gene_pathway('YBR003W','superpathway of ubiquinone biosynthesis').
+gene_pathway('YBR006W','4-aminobutyrate degradation').
+gene_pathway('YBR018C','galactose degradation').
+gene_pathway('YBR019C','galactose degradation').
+gene_pathway('YBR020W','galactose degradation').
+gene_pathway('YBR023C','chitin biosynthesis').
+gene_pathway('YBR029C','CDP-diacylglycerol biosynthesis').
+gene_pathway('YBR029C','superpathway of phosphatidic acid and phospholipid biosynthesis').
+gene_pathway('YBR035C','pyridoxal 5-phosphate salvage I').
+gene_pathway('YBR036C','sphingolipid biosynthesis (yeast)').
+gene_pathway('YBR038W','chitin biosynthesis').
+gene_pathway('YBR041W','fatty acid oxidation pathway').
+gene_pathway('YBR070C','lipid-linked oligosaccharide biosynthesis').
+gene_pathway('YBR084W','folate interconversions').
+gene_pathway('YBR084W','folate polyglutamylation').
+gene_pathway('YBR084W','folate transformations I').
+gene_pathway('YBR084W','superpathway of chorismate metabolism').
+gene_pathway('YBR084W','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YBR110W','lipid-linked oligosaccharide biosynthesis').
+gene_pathway('YBR115C','L-lysine biosynthesis IV').
+gene_pathway('YBR117C','pentose phosphate pathway (non-oxidative branch)').
+gene_pathway('YBR117C','pentose phosphate pathway').
+gene_pathway('YBR126C','trehalose biosynthesis I').
+gene_pathway('YBR145W','L-tyrosine degradation III').
+gene_pathway('YBR145W','superpathway of glucose fermentation').
+gene_pathway('YBR149W','dehydro-D-arabinono-1.4-lactone biosynthesis').
+gene_pathway('YBR153W','riboflavin. FMN and FAD biosynthesis').
+gene_pathway('YBR159W','very long chain fatty acid biosynthesis I').
+gene_pathway('YBR166C','superpathway of aromatic amino acid biosynthesis').
+gene_pathway('YBR166C','superpathway of chorismate metabolism').
+gene_pathway('YBR176W','pantothenate and coenzyme A biosynthesis').
+gene_pathway('YBR183W','sphingolipid biosynthesis (yeast)').
+gene_pathway('YBR196C','gluconeogenesis I').
+gene_pathway('YBR196C','glycolysis I (from glucose 6-phosphate)').
+gene_pathway('YBR196C','superpathway of glucose fermentation').
+gene_pathway('YBR208C','superpathway of allantoin degradation in yeast').
+gene_pathway('YBR208C','urea degradation I').
+gene_pathway('YBR213W','siroheme biosynthesis').
+gene_pathway('YBR213W','superpathway of heme and siroheme biosynthesis').
+gene_pathway('YBR218C','TCA cycle. aerobic respiration').
+gene_pathway('YBR218C','aspartate biosynthesis').
+gene_pathway('YBR218C','gluconeogenesis I').
+gene_pathway('YBR218C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YBR218C','superpathway of threonine biosynthesis').
+gene_pathway('YBR221C','pyruvate decarboxylation to acetyl CoA').
+gene_pathway('YBR243C','lipid-linked oligosaccharide biosynthesis').
+gene_pathway('YBR244W','glutathione-glutaredoxin redox reactions').
+gene_pathway('YBR246W','diphthamide biosynthesis').
+gene_pathway('YBR248C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YBR249C','chorismate biosynthesis').
+gene_pathway('YBR249C','superpathway of aromatic amino acid biosynthesis').
+gene_pathway('YBR249C','superpathway of chorismate metabolism').
+gene_pathway('YBR252W','de novo biosynthesis of pyrimidine deoxyribonucleotides').
+gene_pathway('YBR256C','riboflavin. FMN and FAD biosynthesis').
+gene_pathway('YBR263W','folate interconversions').
+gene_pathway('YBR263W','folate polyglutamylation').
+gene_pathway('YBR263W','folate transformations I').
+gene_pathway('YBR263W','serine biosynthesis from glyoxylate').
+gene_pathway('YBR263W','superpathway of chorismate metabolism').
+gene_pathway('YBR263W','superpathway of serine and glycine biosynthesis').
+gene_pathway('YBR263W','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YBR265W','sphingolipid biosynthesis (yeast)').
+gene_pathway('YCL004W','phospholipid biosynthesis').
+gene_pathway('YCL004W','superpathway of phosphatidic acid and phospholipid biosynthesis').
+gene_pathway('YCL004W','superpathway of phospholipid biosynthesis').
+gene_pathway('YCL009C','acetoin biosynthesis').
+gene_pathway('YCL009C','superpathway of acetoin and butanediol biosynthesis').
+gene_pathway('YCL009C','superpathway of branched chain amino acid biosynthesis').
+gene_pathway('YCL018W','L-leucine biosynthesis').
+gene_pathway('YCL018W','superpathway of branched chain amino acid biosynthesis').
+gene_pathway('YCL030C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YCL035C','glutathione-glutaredoxin redox reactions').
+gene_pathway('YCL035C','glutathione-glutaredoxin system').
+gene_pathway('YCL040W','glucose-6-phosphate biosynthesis').
+gene_pathway('YCL040W','mannose degradation').
+gene_pathway('YCL040W','superpathway of glucose fermentation').
+gene_pathway('YCR005C','glyoxylate cycle').
+gene_pathway('YCR005C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YCR012W','gluconeogenesis I').
+gene_pathway('YCR012W','glycolysis I (from glucose 6-phosphate)').
+gene_pathway('YCR012W','superpathway of glucose fermentation').
+gene_pathway('YCR034W','very long chain fatty acid biosynthesis I').
+gene_pathway('YCR053W','superpathway of L-threonine biosynthesis').
+gene_pathway('YCR053W','superpathway of threonine and methionine biosynthesis').
+gene_pathway('YCR053W','superpathway of threonine biosynthesis').
+gene_pathway('YCR083W','adenosine deoxyribonucleotides de novo biosynthesis II').
+gene_pathway('YCR083W','assimilatory sulfate reduction I').
+gene_pathway('YCR083W','de novo biosynthesis of purine nucleotides').
+gene_pathway('YCR083W','de novo biosynthesis of pyrimidine deoxyribonucleotides').
+gene_pathway('YCR083W','sulfate assimilation pathway').
+gene_pathway('YCR083W','superpathway of adenosine nucleotides de novo biosynthesis II').
+gene_pathway('YCR083W','superpathway of guanosine nucleotides de novo biosynthesis II').
+gene_pathway('YCR083W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YCR083W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YCR083W','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YCR083W','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YCR083W','thioredoxin pathway').
+gene_pathway('YDL015C','very long chain fatty acid biosynthesis I').
+gene_pathway('YDL022W','glycerol biosynthesis').
+gene_pathway('YDL022W','phosphatidate biosynthesis II (the glycerol-3-phosphate pathway)').
+gene_pathway('YDL022W','superpathway of phosphatidate biosynthesis').
+gene_pathway('YDL042C','NAD salvage pathway V (PNC V cycle)').
+gene_pathway('YDL042C','superpathway of NAD biosynthesis').
+gene_pathway('YDL045C','riboflavin. FMN and FAD biosynthesis').
+gene_pathway('YDL052C','phosphatidate biosynthesis I (the dihydroxyacetone pathway)').
+gene_pathway('YDL052C','phosphatidate biosynthesis II (the glycerol-3-phosphate pathway)').
+gene_pathway('YDL052C','superpathway of phosphatidate biosynthesis').
+gene_pathway('YDL055C','dolichyl phosphate D-mannose biosynthesis').
+gene_pathway('YDL066W','superpathway of glutamate biosynthesis').
+gene_pathway('YDL067C','aerobic respiration. electron transport chain').
+gene_pathway('YDL078C','glyoxylate cycle').
+gene_pathway('YDL078C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YDL103C','UDP-N-acetylglucosamine biosynthesis').
+gene_pathway('YDL131W','L-lysine biosynthesis IV').
+gene_pathway('YDL142C','phospholipid biosynthesis').
+gene_pathway('YDL142C','superpathway of phosphatidic acid and phospholipid biosynthesis').
+gene_pathway('YDL142C','superpathway of phospholipid biosynthesis').
+gene_pathway('YDL168W','formaldehyde oxidation II (glutathione-dependent)').
+gene_pathway('YDL171C','superpathway of glutamate biosynthesis').
+gene_pathway('YDL182W','L-lysine biosynthesis IV').
+gene_pathway('YDL205C','superpathway of heme and siroheme biosynthesis').
+gene_pathway('YDL205C','tetrapyrrole biosynthesis').
+gene_pathway('YDL238C','salvage pathways of guanine. xanthine and their nucleosides').
+gene_pathway('YDL238C','salvage pathways of purines and their nucleosides').
+gene_pathway('YDL238C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YDL244W','thiamine biosynthesis').
+gene_pathway('YDR001C','trehalose degradation').
+gene_pathway('YDR007W','superpathway of aromatic amino acid biosynthesis').
+gene_pathway('YDR007W','superpathway of chorismate metabolism').
+gene_pathway('YDR019C','folate interconversions').
+gene_pathway('YDR019C','folate transformations I').
+gene_pathway('YDR019C','superpathway of chorismate metabolism').
+gene_pathway('YDR019C','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YDR035W','chorismate biosynthesis').
+gene_pathway('YDR035W','superpathway of aromatic amino acid biosynthesis').
+gene_pathway('YDR035W','superpathway of chorismate metabolism').
+gene_pathway('YDR044W','heme b biosynthesis I (aerobic)').
+gene_pathway('YDR044W','superpathway of heme and siroheme biosynthesis').
+gene_pathway('YDR047W','heme b biosynthesis I (aerobic)').
+gene_pathway('YDR047W','superpathway of heme and siroheme biosynthesis').
+gene_pathway('YDR050C','glycolysis I (from glucose 6-phosphate)').
+gene_pathway('YDR050C','superpathway of glucose fermentation').
+gene_pathway('YDR062W','sphingolipid biosynthesis (yeast)').
+gene_pathway('YDR072C','sphingolipid biosynthesis (yeast)').
+gene_pathway('YDR074W','trehalose biosynthesis I').
+gene_pathway('YDR098C','glutathione-glutaredoxin redox reactions').
+gene_pathway('YDR098C','glutathione-glutaredoxin system').
+gene_pathway('YDR127W','chorismate biosynthesis').
+gene_pathway('YDR127W','superpathway of aromatic amino acid biosynthesis').
+gene_pathway('YDR127W','superpathway of chorismate metabolism').
+gene_pathway('YDR147W','phospholipid biosynthesis II (Kennedy pathway)').
+gene_pathway('YDR147W','superpathway of phosphatidic acid and phospholipid biosynthesis').
+gene_pathway('YDR147W','superpathway of phospholipid biosynthesis').
+gene_pathway('YDR148C','2-oxoglutarate decarboxylation to succinyl-CoA').
+gene_pathway('YDR148C','TCA cycle. aerobic respiration').
+gene_pathway('YDR148C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YDR158W','superpathway of L-threonine biosynthesis').
+gene_pathway('YDR158W','superpathway of methionine biosynthesis').
+gene_pathway('YDR158W','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YDR158W','superpathway of threonine and methionine biosynthesis').
+gene_pathway('YDR158W','superpathway of threonine biosynthesis').
+gene_pathway('YDR178W','TCA cycle. aerobic respiration').
+gene_pathway('YDR178W','aerobic respiration. electron transport chain').
+gene_pathway('YDR178W','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YDR196C','pantothenate and coenzyme A biosynthesis').
+gene_pathway('YDR226W','de novo biosynthesis of purine nucleotides').
+gene_pathway('YDR226W','superpathway of adenosine nucleotides de novo biosynthesis II').
+gene_pathway('YDR226W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YDR226W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YDR226W','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YDR232W','superpathway of heme and siroheme biosynthesis').
+gene_pathway('YDR232W','tetrapyrrole biosynthesis').
+gene_pathway('YDR234W','L-lysine biosynthesis IV').
+gene_pathway('YDR236C','riboflavin. FMN and FAD biosynthesis').
+gene_pathway('YDR256C','superoxide radicals degradation').
+gene_pathway('YDR272W','methylglyoxal catabolism').
+gene_pathway('YDR284C','diacylglycerol and triacylglycerol biosynthesis').
+gene_pathway('YDR287W','myo-inositol biosynthesis').
+gene_pathway('YDR294C','sphingolipid biosynthesis (yeast)').
+gene_pathway('YDR297W','sphingolipid biosynthesis (yeast)').
+gene_pathway('YDR300C','L-proline biosynthesis I').
+gene_pathway('YDR321W','asparagine degradation').
+gene_pathway('YDR353W','thioredoxin pathway').
+gene_pathway('YDR354W','superpathway of aromatic amino acid biosynthesis').
+gene_pathway('YDR354W','superpathway of chorismate metabolism').
+gene_pathway('YDR399W','salvage pathways of adenine. hypoxanthine and their nucleosides').
+gene_pathway('YDR399W','salvage pathways of guanine. xanthine and their nucleosides').
+gene_pathway('YDR399W','salvage pathways of purines and their nucleosides').
+gene_pathway('YDR399W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YDR400W','nicotinamide riboside salvage pathway II').
+gene_pathway('YDR400W','nicotinate riboside salvage pathway II').
+gene_pathway('YDR400W','salvage pathways of pyrimidine deoxyribonucleotides').
+gene_pathway('YDR400W','salvage pathways of pyrimidine ribonucleotides').
+gene_pathway('YDR400W','superpathway of NAD biosynthesis').
+gene_pathway('YDR408C','de novo biosynthesis of purine nucleotides').
+gene_pathway('YDR408C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YDR408C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YDR408C','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YDR428C','L-tryptophan degradation III (eukaryotic)').
+gene_pathway('YDR428C','L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde').
+gene_pathway('YDR428C','NAD de novo biosynthesis II (from tryptophan)').
+gene_pathway('YDR428C','superpathway of NAD biosynthesis').
+gene_pathway('YDR441C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YDR454C','de novo biosynthesis of purine nucleotides').
+gene_pathway('YDR454C','superpathway of guanosine nucleotides de novo biosynthesis II').
+gene_pathway('YDR454C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YDR454C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YDR454C','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YDR487C','riboflavin. FMN and FAD biosynthesis').
+gene_pathway('YDR502C','S-adenosyl-L-methionine biosynthesis').
+gene_pathway('YDR502C','superpathway of methionine salvage pathway').
+gene_pathway('YDR502C','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YDR503C','diacylglycerol and triacylglycerol biosynthesis').
+gene_pathway('YDR513W','glutathione-glutaredoxin redox reactions').
+gene_pathway('YDR513W','glutathione-glutaredoxin system').
+gene_pathway('YDR529C','aerobic respiration. electron transport chain').
+gene_pathway('YDR531W','pantothenate and coenzyme A biosynthesis').
+gene_pathway('YEL011W','glycogen biosynthesis').
+gene_pathway('YEL021W','de novo biosynthesis of pyrimidine ribonucleotides').
+gene_pathway('YEL021W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YEL021W','superpathway of pyrimidine ribonucleotides de novo biosynthesis').
+gene_pathway('YEL024W','aerobic respiration. electron transport chain').
+gene_pathway('YEL029C','pyridoxal 5-phosphate salvage I').
+gene_pathway('YEL038W','superpathway of methionine salvage pathway').
+gene_pathway('YEL046C','superpathway of serine and glycine biosynthesis').
+gene_pathway('YEL058W','UDP-N-acetylglucosamine biosynthesis').
+gene_pathway('YER003C','dolichyl phosphate D-mannose biosynthesis').
+gene_pathway('YER003C','mannose degradation').
+gene_pathway('YER014W','heme b biosynthesis I (aerobic)').
+gene_pathway('YER014W','superpathway of heme and siroheme biosynthesis').
+gene_pathway('YER015W','fatty acid oxidation pathway').
+gene_pathway('YER023W','L-proline biosynthesis I').
+gene_pathway('YER023W','arginine degradation (aerobic)').
+gene_pathway('YER024W','carnitine shuttle').
+gene_pathway('YER026C','phosphatidylethanolamine biosynthesis I').
+gene_pathway('YER026C','phospholipid biosynthesis').
+gene_pathway('YER026C','superpathway of phosphatidic acid and phospholipid biosynthesis').
+gene_pathway('YER026C','superpathway of phospholipid biosynthesis').
+gene_pathway('YER052C','superpathway of L-threonine biosynthesis').
+gene_pathway('YER052C','superpathway of methionine biosynthesis').
+gene_pathway('YER052C','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YER052C','superpathway of threonine and methionine biosynthesis').
+gene_pathway('YER052C','superpathway of threonine biosynthesis').
+gene_pathway('YER055C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YER061C','fatty acid biosynthesis. initial steps').
+gene_pathway('YER061C','fatty acid elongation').
+gene_pathway('YER061C','stearate biosynthesis III (fungi)').
+gene_pathway('YER061C','superpathway of fatty acid biosynthesis. saturated and unsaturated').
+gene_pathway('YER061C','superpathway of fatty acid biosynthesis. saturated').
+gene_pathway('YER065C','glyoxylate cycle').
+gene_pathway('YER065C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YER070W','adenosine deoxyribonucleotides de novo biosynthesis II').
+gene_pathway('YER070W','de novo biosynthesis of purine nucleotides').
+gene_pathway('YER070W','de novo biosynthesis of pyrimidine deoxyribonucleotides').
+gene_pathway('YER070W','superpathway of adenosine nucleotides de novo biosynthesis II').
+gene_pathway('YER070W','superpathway of guanosine nucleotides de novo biosynthesis II').
+gene_pathway('YER070W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YER070W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YER070W','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YER073W','superpathway of glucose fermentation').
+gene_pathway('YER081W','L-serine biosynthesis I').
+gene_pathway('YER081W','superpathway of serine and glycine biosynthesis').
+gene_pathway('YER086W','superpathway of branched chain amino acid biosynthesis').
+gene_pathway('YER090W','superpathway of aromatic amino acid biosynthesis').
+gene_pathway('YER090W','superpathway of chorismate metabolism').
+gene_pathway('YER091C','superpathway of methionine biosynthesis').
+gene_pathway('YER091C','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YER091C','superpathway of threonine and methionine biosynthesis').
+gene_pathway('YER099C','PRPP biosynthesis').
+gene_pathway('YER099C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YER170W','de novo biosynthesis of purine nucleotides').
+gene_pathway('YER170W','superpathway of adenosine nucleotides de novo biosynthesis II').
+gene_pathway('YER170W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YER170W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YER170W','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YER174C','glutathione-glutaredoxin redox reactions').
+gene_pathway('YER174C','glutathione-glutaredoxin system').
+gene_pathway('YER178W','pyruvate decarboxylation to acetyl CoA').
+gene_pathway('YER183C','folate transformations I').
+gene_pathway('YFL017C','UDP-N-acetylglucosamine biosynthesis').
+gene_pathway('YFL018C','2-oxoglutarate decarboxylation to succinyl-CoA').
+gene_pathway('YFL018C','TCA cycle. aerobic respiration').
+gene_pathway('YFL018C','folate interconversions').
+gene_pathway('YFL018C','folate transformations I').
+gene_pathway('YFL018C','pyruvate decarboxylation to acetyl CoA').
+gene_pathway('YFL018C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YFL018C','superpathway of chorismate metabolism').
+gene_pathway('YFL018C','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YFL030W','superpathway of serine and glycine biosynthesis').
+gene_pathway('YFL045C','dolichyl phosphate D-mannose biosynthesis').
+gene_pathway('YFR015C','glycogen biosynthesis').
+gene_pathway('YFR025C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YFR030W','assimilatory sulfate reduction I').
+gene_pathway('YFR030W','sulfate assimilation pathway').
+gene_pathway('YFR030W','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YFR033C','aerobic respiration. electron transport chain').
+gene_pathway('YFR044C','glutathione degradation').
+gene_pathway('YFR044C','superpathway of glutathione metabolism (truncated &gamma;-glutamyl cycle)').
+gene_pathway('YFR047C','L-tryptophan degradation III (eukaryotic)').
+gene_pathway('YFR047C','NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde').
+gene_pathway('YFR047C','NAD de novo biosynthesis II (from tryptophan)').
+gene_pathway('YFR047C','superpathway of NAD biosynthesis').
+gene_pathway('YFR053C','fructose degradation').
+gene_pathway('YFR053C','glucose-6-phosphate biosynthesis').
+gene_pathway('YFR053C','mannose degradation').
+gene_pathway('YFR053C','superpathway of glucose fermentation').
+gene_pathway('YGL001C','superpathway of ergosterol biosynthesis I').
+gene_pathway('YGL001C','zymosterol biosynthesis').
+gene_pathway('YGL009C','L-leucine biosynthesis').
+gene_pathway('YGL009C','superpathway of branched chain amino acid biosynthesis').
+gene_pathway('YGL012W','ergosterol biosynthesis I').
+gene_pathway('YGL012W','superpathway of ergosterol biosynthesis I').
+gene_pathway('YGL026C','superpathway of aromatic amino acid biosynthesis').
+gene_pathway('YGL026C','superpathway of chorismate metabolism').
+gene_pathway('YGL037C','NAD salvage pathway V (PNC V cycle)').
+gene_pathway('YGL037C','superpathway of NAD biosynthesis').
+gene_pathway('YGL040C','superpathway of heme and siroheme biosynthesis').
+gene_pathway('YGL040C','tetrapyrrole biosynthesis').
+gene_pathway('YGL047W','lipid-linked oligosaccharide biosynthesis').
+gene_pathway('YGL055W','oleate biosynthesis').
+gene_pathway('YGL055W','palmitoleate biosynthesis').
+gene_pathway('YGL055W','superpathway of fatty acid biosynthesis. saturated and unsaturated').
+gene_pathway('YGL062W','TCA cycle. aerobic respiration').
+gene_pathway('YGL062W','aspartate biosynthesis').
+gene_pathway('YGL062W','gluconeogenesis I').
+gene_pathway('YGL062W','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YGL062W','superpathway of threonine biosynthesis').
+gene_pathway('YGL065C','lipid-linked oligosaccharide biosynthesis').
+gene_pathway('YGL067W','periplasmic NAD degradation').
+gene_pathway('YGL125W','folate interconversions').
+gene_pathway('YGL125W','folate polyglutamylation').
+gene_pathway('YGL125W','folate transformations I').
+gene_pathway('YGL125W','superpathway of chorismate metabolism').
+gene_pathway('YGL125W','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YGL148W','chorismate biosynthesis').
+gene_pathway('YGL148W','superpathway of aromatic amino acid biosynthesis').
+gene_pathway('YGL148W','superpathway of chorismate metabolism').
+gene_pathway('YGL184C','homocysteine and cysteine interconversion').
+gene_pathway('YGL184C','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YGL187C','aerobic respiration. electron transport chain').
+gene_pathway('YGL191W','aerobic respiration. electron transport chain').
+gene_pathway('YGL202W','L-tyrosine degradation III').
+gene_pathway('YGL202W','phenylalanine biosynthesis').
+gene_pathway('YGL202W','superpathway of aromatic amino acid biosynthesis').
+gene_pathway('YGL202W','superpathway of chorismate metabolism').
+gene_pathway('YGL202W','superpathway of methionine salvage pathway').
+gene_pathway('YGL205W','fatty acid oxidation pathway').
+gene_pathway('YGL234W','de novo biosynthesis of purine nucleotides').
+gene_pathway('YGL234W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YGL234W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YGL234W','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YGL253W','fructose degradation').
+gene_pathway('YGL253W','glucose-6-phosphate biosynthesis').
+gene_pathway('YGL253W','mannose degradation').
+gene_pathway('YGL253W','superpathway of glucose fermentation').
+gene_pathway('YGL256W','L-tyrosine degradation III').
+gene_pathway('YGL256W','superpathway of glucose fermentation').
+gene_pathway('YGR007W','phospholipid biosynthesis II (Kennedy pathway)').
+gene_pathway('YGR007W','superpathway of phosphatidic acid and phospholipid biosynthesis').
+gene_pathway('YGR007W','superpathway of phospholipid biosynthesis').
+gene_pathway('YGR010W','L-tryptophan degradation III (eukaryotic)').
+gene_pathway('YGR010W','NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde').
+gene_pathway('YGR010W','NAD de novo biosynthesis II (from tryptophan)').
+gene_pathway('YGR010W','NAD salvage pathway IV (from nicotinamide riboside)').
+gene_pathway('YGR010W','NAD salvage pathway V (PNC V cycle)').
+gene_pathway('YGR010W','superpathway of NAD biosynthesis').
+gene_pathway('YGR019W','4-aminobutyrate degradation').
+gene_pathway('YGR060W','superpathway of ergosterol biosynthesis I').
+gene_pathway('YGR060W','zymosterol biosynthesis').
+gene_pathway('YGR061C','de novo biosynthesis of purine nucleotides').
+gene_pathway('YGR061C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YGR061C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YGR061C','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YGR087C','L-tyrosine degradation III').
+gene_pathway('YGR087C','pyruvate fermentation to acetoin III').
+gene_pathway('YGR087C','superpathway of acetoin and butanediol biosynthesis').
+gene_pathway('YGR087C','superpathway of glucose fermentation').
+gene_pathway('YGR088W','superoxide radicals degradation').
+gene_pathway('YGR155W','L-cysteine biosynthesis III (from L-homocysteine)').
+gene_pathway('YGR155W','homocysteine and cysteine interconversion').
+gene_pathway('YGR155W','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YGR157W','phospholipid biosynthesis').
+gene_pathway('YGR157W','superpathway of phosphatidic acid and phospholipid biosynthesis').
+gene_pathway('YGR157W','superpathway of phospholipid biosynthesis').
+gene_pathway('YGR170W','phosphatidylethanolamine biosynthesis I').
+gene_pathway('YGR170W','phospholipid biosynthesis').
+gene_pathway('YGR170W','superpathway of phosphatidic acid and phospholipid biosynthesis').
+gene_pathway('YGR170W','superpathway of phospholipid biosynthesis').
+gene_pathway('YGR175C','epoxysqualene biosynthesis').
+gene_pathway('YGR175C','superpathway of ergosterol biosynthesis I').
+gene_pathway('YGR180C','adenosine deoxyribonucleotides de novo biosynthesis II').
+gene_pathway('YGR180C','de novo biosynthesis of purine nucleotides').
+gene_pathway('YGR180C','de novo biosynthesis of pyrimidine deoxyribonucleotides').
+gene_pathway('YGR180C','superpathway of adenosine nucleotides de novo biosynthesis II').
+gene_pathway('YGR180C','superpathway of guanosine nucleotides de novo biosynthesis II').
+gene_pathway('YGR180C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YGR180C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YGR180C','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YGR183C','aerobic respiration. electron transport chain').
+gene_pathway('YGR192C','gluconeogenesis I').
+gene_pathway('YGR192C','glycolysis I (from glucose 6-phosphate)').
+gene_pathway('YGR192C','superpathway of glucose fermentation').
+gene_pathway('YGR194C','xylulose degradation').
+gene_pathway('YGR202C','phosphatidylcholine biosynthesis I').
+gene_pathway('YGR202C','superpathway of phosphatidic acid and phospholipid biosynthesis').
+gene_pathway('YGR202C','superpathway of phospholipid biosynthesis').
+gene_pathway('YGR204W','folate interconversions').
+gene_pathway('YGR204W','folate polyglutamylation').
+gene_pathway('YGR204W','folate transformations I').
+gene_pathway('YGR204W','superpathway of chorismate metabolism').
+gene_pathway('YGR204W','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YGR208W','L-serine biosynthesis I').
+gene_pathway('YGR208W','superpathway of serine and glycine biosynthesis').
+gene_pathway('YGR209C','adenosine deoxyribonucleotides de novo biosynthesis II').
+gene_pathway('YGR209C','assimilatory sulfate reduction I').
+gene_pathway('YGR209C','de novo biosynthesis of purine nucleotides').
+gene_pathway('YGR209C','de novo biosynthesis of pyrimidine deoxyribonucleotides').
+gene_pathway('YGR209C','sulfate assimilation pathway').
+gene_pathway('YGR209C','superpathway of adenosine nucleotides de novo biosynthesis II').
+gene_pathway('YGR209C','superpathway of guanosine nucleotides de novo biosynthesis II').
+gene_pathway('YGR209C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YGR209C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YGR209C','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YGR209C','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YGR209C','thioredoxin pathway').
+gene_pathway('YGR227W','lipid-linked oligosaccharide biosynthesis').
+gene_pathway('YGR240C','glycolysis I (from glucose 6-phosphate)').
+gene_pathway('YGR240C','superpathway of glucose fermentation').
+gene_pathway('YGR244C','TCA cycle. aerobic respiration').
+gene_pathway('YGR244C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YGR248W','pentose phosphate pathway (oxidative branch) I').
+gene_pathway('YGR248W','pentose phosphate pathway').
+gene_pathway('YGR254W','gluconeogenesis I').
+gene_pathway('YGR254W','glycolysis I (from glucose 6-phosphate)').
+gene_pathway('YGR254W','superpathway of glucose fermentation').
+gene_pathway('YGR255C','superpathway of ubiquinone biosynthesis').
+gene_pathway('YGR255C','ubiquinol-6 biosynthesis from 4-hydroxybenzoate (eukaryotic)').
+gene_pathway('YGR256W','pentose phosphate pathway (oxidative branch) I').
+gene_pathway('YGR256W','pentose phosphate pathway').
+gene_pathway('YGR267C','6-hydroxymethyl-dihydropterin diphosphate biosynthesis I').
+gene_pathway('YGR267C','folate biosynthesis II').
+gene_pathway('YGR267C','superpathway of chorismate metabolism').
+gene_pathway('YGR267C','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YGR277C','pantothenate and coenzyme A biosynthesis').
+gene_pathway('YGR286C','biotin biosynthesis').
+gene_pathway('YHL003C','sphingolipid biosynthesis (yeast)').
+gene_pathway('YHL011C','PRPP biosynthesis').
+gene_pathway('YHL011C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YHL012W','dolichyl glucosyl phosphate biosynthesis').
+gene_pathway('YHL012W','glycogen biosynthesis').
+gene_pathway('YHL032C','glycerol degradation').
+gene_pathway('YHR001W-A','aerobic respiration. electron transport chain').
+gene_pathway('YHR007C','superpathway of ergosterol biosynthesis I').
+gene_pathway('YHR007C','zymosterol biosynthesis').
+gene_pathway('YHR008C','superoxide radicals degradation').
+gene_pathway('YHR025W','superpathway of L-threonine biosynthesis').
+gene_pathway('YHR025W','superpathway of threonine and methionine biosynthesis').
+gene_pathway('YHR025W','superpathway of threonine biosynthesis').
+gene_pathway('YHR037W','arginine degradation (aerobic)').
+gene_pathway('YHR046C','myo-inositol biosynthesis').
+gene_pathway('YHR051W','aerobic respiration. electron transport chain').
+gene_pathway('YHR063C','pantothenate and coenzyme A biosynthesis').
+gene_pathway('YHR072W','lanosterol biosynthesis').
+gene_pathway('YHR072W','superpathway of ergosterol biosynthesis I').
+gene_pathway('YHR074W','L-tryptophan degradation III (eukaryotic)').
+gene_pathway('YHR074W','NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde').
+gene_pathway('YHR074W','NAD de novo biosynthesis II (from tryptophan)').
+gene_pathway('YHR074W','NAD salvage pathway V (PNC V cycle)').
+gene_pathway('YHR074W','superpathway of NAD biosynthesis').
+gene_pathway('YHR104W','xylose metabolism').
+gene_pathway('YHR106W','thioredoxin pathway').
+gene_pathway('YHR123W','phospholipid biosynthesis II (Kennedy pathway)').
+gene_pathway('YHR123W','superpathway of phosphatidic acid and phospholipid biosynthesis').
+gene_pathway('YHR123W','superpathway of phospholipid biosynthesis').
+gene_pathway('YHR128W','salvage pathways of pyrimidine ribonucleotides').
+gene_pathway('YHR137W','L-tyrosine degradation III').
+gene_pathway('YHR137W','phenylalanine biosynthesis').
+gene_pathway('YHR137W','superpathway of aromatic amino acid biosynthesis').
+gene_pathway('YHR137W','superpathway of chorismate metabolism').
+gene_pathway('YHR137W','superpathway of methionine salvage pathway').
+gene_pathway('YHR163W','pentose phosphate pathway (oxidative branch) I').
+gene_pathway('YHR163W','pentose phosphate pathway').
+gene_pathway('YHR174W','gluconeogenesis I').
+gene_pathway('YHR174W','glycolysis I (from glucose 6-phosphate)').
+gene_pathway('YHR174W','superpathway of glucose fermentation').
+gene_pathway('YHR183W','pentose phosphate pathway (oxidative branch) I').
+gene_pathway('YHR183W','pentose phosphate pathway').
+gene_pathway('YHR190W','epoxysqualene biosynthesis').
+gene_pathway('YHR190W','superpathway of ergosterol biosynthesis I').
+gene_pathway('YHR208W','L-leucine biosynthesis').
+gene_pathway('YHR208W','superpathway of branched chain amino acid biosynthesis').
+gene_pathway('YHR208W','superpathway of methionine salvage pathway').
+gene_pathway('YHR216W','de novo biosynthesis of purine nucleotides').
+gene_pathway('YHR216W','superpathway of guanosine nucleotides de novo biosynthesis II').
+gene_pathway('YHR216W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YHR216W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YHR216W','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YIL009W','fatty acid oxidation pathway').
+gene_pathway('YIL020C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YIL066C','adenosine deoxyribonucleotides de novo biosynthesis II').
+gene_pathway('YIL066C','de novo biosynthesis of purine nucleotides').
+gene_pathway('YIL066C','de novo biosynthesis of pyrimidine deoxyribonucleotides').
+gene_pathway('YIL066C','superpathway of adenosine nucleotides de novo biosynthesis II').
+gene_pathway('YIL066C','superpathway of guanosine nucleotides de novo biosynthesis II').
+gene_pathway('YIL066C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YIL066C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YIL066C','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YIL074C','L-serine biosynthesis I').
+gene_pathway('YIL074C','superpathway of serine and glycine biosynthesis').
+gene_pathway('YIL083C','pantothenate and coenzyme A biosynthesis').
+gene_pathway('YIL094C','L-lysine biosynthesis IV').
+gene_pathway('YIL099W','glycogen catabolism').
+gene_pathway('YIL103W','diphthamide biosynthesis').
+gene_pathway('YIL116W','superpathway of aromatic amino acid biosynthesis').
+gene_pathway('YIL116W','superpathway of chorismate metabolism').
+gene_pathway('YIL116W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YIL124W','phosphatidate biosynthesis I (the dihydroxyacetone pathway)').
+gene_pathway('YIL124W','superpathway of phosphatidate biosynthesis').
+gene_pathway('YIL125W','2-oxoglutarate decarboxylation to succinyl-CoA').
+gene_pathway('YIL125W','TCA cycle. aerobic respiration').
+gene_pathway('YIL125W','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YIL145C','pantothenate and coenzyme A biosynthesis').
+gene_pathway('YIL155C','glycerol degradation').
+gene_pathway('YIL160C','fatty acid oxidation pathway').
+gene_pathway('YIL162W','sucrose degradation').
+gene_pathway('YIR027C','allantoin degradation to glyoxylate I').
+gene_pathway('YIR027C','allantoin degradation to ureidoglycolate I (urea producing)').
+gene_pathway('YIR027C','superpathway of allantoin degradation in yeast').
+gene_pathway('YIR029W','allantoin degradation to glyoxylate I').
+gene_pathway('YIR029W','allantoin degradation to ureidoglycolate I (urea producing)').
+gene_pathway('YIR029W','superpathway of allantoin degradation in yeast').
+gene_pathway('YIR031C','glyoxylate cycle').
+gene_pathway('YIR031C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YIR032C','allantoin degradation to glyoxylate I').
+gene_pathway('YIR032C','superpathway of allantoin degradation in yeast').
+gene_pathway('YIR034C','L-lysine biosynthesis IV').
+gene_pathway('YIR037W','glutathione-glutaredoxin redox reactions').
+gene_pathway('YIR038C','glutathione-glutaredoxin redox reactions').
+gene_pathway('YJL026W','adenosine deoxyribonucleotides de novo biosynthesis II').
+gene_pathway('YJL026W','de novo biosynthesis of purine nucleotides').
+gene_pathway('YJL026W','de novo biosynthesis of pyrimidine deoxyribonucleotides').
+gene_pathway('YJL026W','superpathway of adenosine nucleotides de novo biosynthesis II').
+gene_pathway('YJL026W','superpathway of guanosine nucleotides de novo biosynthesis II').
+gene_pathway('YJL026W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YJL026W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YJL026W','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YJL045W','TCA cycle. aerobic respiration').
+gene_pathway('YJL045W','aerobic respiration. electron transport chain').
+gene_pathway('YJL045W','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YJL052W','gluconeogenesis I').
+gene_pathway('YJL052W','glycolysis I (from glucose 6-phosphate)').
+gene_pathway('YJL052W','superpathway of glucose fermentation').
+gene_pathway('YJL060W','L-tryptophan degradation III (eukaryotic)').
+gene_pathway('YJL060W','L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde').
+gene_pathway('YJL060W','NAD de novo biosynthesis II (from tryptophan)').
+gene_pathway('YJL060W','superpathway of NAD biosynthesis').
+gene_pathway('YJL068C','formaldehyde oxidation II (glutathione-dependent)').
+gene_pathway('YJL088W','citrulline biosynthesis').
+gene_pathway('YJL097W','glutaryl-CoA degradation').
+gene_pathway('YJL097W','very long chain fatty acid biosynthesis I').
+gene_pathway('YJL101C','glutathione biosynthesis').
+gene_pathway('YJL101C','superpathway of glutathione metabolism (truncated &gamma;-glutamyl cycle)').
+gene_pathway('YJL121C','pentose phosphate pathway (non-oxidative branch)').
+gene_pathway('YJL121C','pentose phosphate pathway').
+gene_pathway('YJL130C','de novo biosynthesis of pyrimidine ribonucleotides').
+gene_pathway('YJL130C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YJL130C','superpathway of pyrimidine ribonucleotides de novo biosynthesis').
+gene_pathway('YJL134W','sphingolipid biosynthesis (yeast)').
+gene_pathway('YJL137C','glycogen biosynthesis').
+gene_pathway('YJL153C','myo-inositol biosynthesis').
+gene_pathway('YJL166W','aerobic respiration. electron transport chain').
+gene_pathway('YJL167W','hexaprenyl diphosphate biosynthesis').
+gene_pathway('YJL167W','superpathway of ergosterol biosynthesis I').
+gene_pathway('YJL167W','superpathway of ubiquinone biosynthesis').
+gene_pathway('YJL167W','trans. trans-farnesyl diphosphate biosynthesis').
+gene_pathway('YJL200C','TCA cycle. aerobic respiration').
+gene_pathway('YJL200C','glyoxylate cycle').
+gene_pathway('YJL200C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YJR009C','gluconeogenesis I').
+gene_pathway('YJR009C','glycolysis I (from glucose 6-phosphate)').
+gene_pathway('YJR009C','superpathway of glucose fermentation').
+gene_pathway('YJR010W','assimilatory sulfate reduction I').
+gene_pathway('YJR010W','sulfate activation (for sulfonation)').
+gene_pathway('YJR010W','sulfate assimilation pathway').
+gene_pathway('YJR010W','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YJR016C','superpathway of branched chain amino acid biosynthesis').
+gene_pathway('YJR019C','myristate biosynthesis').
+gene_pathway('YJR019C','palmitoleate biosynthesis').
+gene_pathway('YJR019C','stearate biosynthesis III (fungi)').
+gene_pathway('YJR019C','superpathway of fatty acid biosynthesis. saturated and unsaturated').
+gene_pathway('YJR019C','superpathway of fatty acid biosynthesis. saturated').
+gene_pathway('YJR024C','superpathway of methionine salvage pathway').
+gene_pathway('YJR025C','L-tryptophan degradation III (eukaryotic)').
+gene_pathway('YJR025C','L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde').
+gene_pathway('YJR025C','NAD de novo biosynthesis II (from tryptophan)').
+gene_pathway('YJR025C','superpathway of NAD biosynthesis').
+gene_pathway('YJR057W','de novo biosynthesis of pyrimidine deoxyribonucleotides').
+gene_pathway('YJR073C','phospholipid biosynthesis').
+gene_pathway('YJR073C','superpathway of phosphatidic acid and phospholipid biosynthesis').
+gene_pathway('YJR073C','superpathway of phospholipid biosynthesis').
+gene_pathway('YJR078W','L-tryptophan degradation III (eukaryotic)').
+gene_pathway('YJR078W','L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde').
+gene_pathway('YJR078W','NAD de novo biosynthesis II (from tryptophan)').
+gene_pathway('YJR078W','superpathway of NAD biosynthesis').
+gene_pathway('YJR103W','de novo biosynthesis of pyrimidine ribonucleotides').
+gene_pathway('YJR103W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YJR103W','superpathway of pyrimidine ribonucleotides de novo biosynthesis').
+gene_pathway('YJR104C','superoxide radicals degradation').
+gene_pathway('YJR105W','salvage pathways of adenine. hypoxanthine and their nucleosides').
+gene_pathway('YJR105W','salvage pathways of purines and their nucleosides').
+gene_pathway('YJR105W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YJR109C','citrulline biosynthesis').
+gene_pathway('YJR109C','superpathway of pyrimidine ribonucleotides de novo biosynthesis').
+gene_pathway('YJR130C','homocysteine and cysteine interconversion').
+gene_pathway('YJR130C','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YJR133W','salvage pathways of guanine. xanthine and their nucleosides').
+gene_pathway('YJR133W','salvage pathways of purines and their nucleosides').
+gene_pathway('YJR133W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YJR137C','assimilatory sulfate reduction I').
+gene_pathway('YJR137C','sulfate assimilation pathway').
+gene_pathway('YJR137C','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YJR139C','superpathway of L-threonine biosynthesis').
+gene_pathway('YJR139C','superpathway of methionine biosynthesis').
+gene_pathway('YJR139C','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YJR139C','superpathway of threonine and methionine biosynthesis').
+gene_pathway('YJR139C','superpathway of threonine biosynthesis').
+gene_pathway('YJR148W','L-leucine biosynthesis').
+gene_pathway('YJR148W','superpathway of branched chain amino acid biosynthesis').
+gene_pathway('YJR148W','superpathway of methionine salvage pathway').
+gene_pathway('YKL001C','assimilatory sulfate reduction I').
+gene_pathway('YKL001C','sulfate activation (for sulfonation)').
+gene_pathway('YKL001C','sulfate assimilation pathway').
+gene_pathway('YKL001C','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YKL004W','sphingolipid biosynthesis (yeast)').
+gene_pathway('YKL008C','sphingolipid biosynthesis (yeast)').
+gene_pathway('YKL024C','de novo biosynthesis of pyrimidine ribonucleotides').
+gene_pathway('YKL024C','salvage pathways of pyrimidine ribonucleotides').
+gene_pathway('YKL024C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YKL024C','superpathway of pyrimidine ribonucleotides de novo biosynthesis').
+gene_pathway('YKL026C','glutathione-glutaredoxin redox reactions').
+gene_pathway('YKL029C','TCA cycle. aerobic respiration').
+gene_pathway('YKL029C','gluconeogenesis I').
+gene_pathway('YKL029C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YKL035W','dolichyl glucosyl phosphate biosynthesis').
+gene_pathway('YKL035W','glycogen biosynthesis').
+gene_pathway('YKL055C','fatty acid biosynthesis. initial steps').
+gene_pathway('YKL055C','fatty acid elongation').
+gene_pathway('YKL055C','myristate biosynthesis').
+gene_pathway('YKL055C','palmitate biosynthesis').
+gene_pathway('YKL055C','stearate biosynthesis III (fungi)').
+gene_pathway('YKL055C','superpathway of fatty acid biosynthesis. saturated and unsaturated').
+gene_pathway('YKL055C','superpathway of fatty acid biosynthesis. saturated').
+gene_pathway('YKL060C','gluconeogenesis I').
+gene_pathway('YKL060C','glycolysis I (from glucose 6-phosphate)').
+gene_pathway('YKL060C','superpathway of glucose fermentation').
+gene_pathway('YKL067W','adenosine deoxyribonucleotides de novo biosynthesis II').
+gene_pathway('YKL067W','de novo biosynthesis of purine nucleotides').
+gene_pathway('YKL067W','de novo biosynthesis of pyrimidine deoxyribonucleotides').
+gene_pathway('YKL067W','salvage pathways of pyrimidine ribonucleotides').
+gene_pathway('YKL067W','superpathway of adenosine nucleotides de novo biosynthesis II').
+gene_pathway('YKL067W','superpathway of guanosine nucleotides de novo biosynthesis II').
+gene_pathway('YKL067W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YKL067W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YKL067W','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YKL085W','TCA cycle. aerobic respiration').
+gene_pathway('YKL085W','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YKL088W','pantothenate and coenzyme A biosynthesis').
+gene_pathway('YKL104C','UDP-N-acetylglucosamine biosynthesis').
+gene_pathway('YKL106W','asparagine degradation').
+gene_pathway('YKL106W','aspartate biosynthesis').
+gene_pathway('YKL106W','superpathway of L-threonine biosynthesis').
+gene_pathway('YKL106W','superpathway of threonine and methionine biosynthesis').
+gene_pathway('YKL106W','superpathway of threonine biosynthesis').
+gene_pathway('YKL127W','dolichyl glucosyl phosphate biosynthesis').
+gene_pathway('YKL127W','galactose degradation').
+gene_pathway('YKL127W','glycogen biosynthesis').
+gene_pathway('YKL127W','glycogen catabolism').
+gene_pathway('YKL141W','TCA cycle. aerobic respiration').
+gene_pathway('YKL141W','aerobic respiration. electron transport chain').
+gene_pathway('YKL141W','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YKL148C','TCA cycle. aerobic respiration').
+gene_pathway('YKL148C','aerobic respiration. electron transport chain').
+gene_pathway('YKL148C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YKL152C','gluconeogenesis I').
+gene_pathway('YKL152C','glycolysis I (from glucose 6-phosphate)').
+gene_pathway('YKL152C','superpathway of glucose fermentation').
+gene_pathway('YKL181W','PRPP biosynthesis').
+gene_pathway('YKL181W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YKL182W','fatty acid biosynthesis. initial steps').
+gene_pathway('YKL182W','fatty acid elongation').
+gene_pathway('YKL182W','fatty acids biosynthesis (yeast)').
+gene_pathway('YKL182W','palmitate biosynthesis').
+gene_pathway('YKL182W','stearate biosynthesis III (fungi)').
+gene_pathway('YKL182W','superpathway of fatty acid biosynthesis. saturated and unsaturated').
+gene_pathway('YKL182W','superpathway of fatty acid biosynthesis. saturated').
+gene_pathway('YKL184W','putrescine biosynthesis III').
+gene_pathway('YKL184W','superpathway of polyamine biosynthesis').
+gene_pathway('YKL191W','diphthamide biosynthesis').
+gene_pathway('YKL211C','superpathway of aromatic amino acid biosynthesis').
+gene_pathway('YKL211C','superpathway of chorismate metabolism').
+gene_pathway('YKL216W','de novo biosynthesis of pyrimidine ribonucleotides').
+gene_pathway('YKL216W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YKL216W','superpathway of pyrimidine ribonucleotides de novo biosynthesis').
+gene_pathway('YKR009C','fatty acid oxidation pathway').
+gene_pathway('YKR009C','glutaryl-CoA degradation').
+gene_pathway('YKR053C','sphingolipid biosynthesis (yeast)').
+gene_pathway('YKR058W','glycogen biosynthesis').
+gene_pathway('YKR067W','phosphatidate biosynthesis I (the dihydroxyacetone pathway)').
+gene_pathway('YKR067W','phosphatidate biosynthesis II (the glycerol-3-phosphate pathway)').
+gene_pathway('YKR067W','superpathway of phosphatidate biosynthesis').
+gene_pathway('YKR069W','siroheme biosynthesis').
+gene_pathway('YKR069W','superpathway of heme and siroheme biosynthesis').
+gene_pathway('YKR072C','pantothenate and coenzyme A biosynthesis').
+gene_pathway('YKR080W','folate interconversions').
+gene_pathway('YKR080W','folate transformations I').
+gene_pathway('YKR080W','superpathway of chorismate metabolism').
+gene_pathway('YKR080W','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YKR097W','gluconeogenesis I').
+gene_pathway('YLL041C','TCA cycle. aerobic respiration').
+gene_pathway('YLL041C','aerobic respiration. electron transport chain').
+gene_pathway('YLL041C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YLL060C','glutathione-glutaredoxin redox reactions').
+gene_pathway('YLR017W','superpathway of methionine salvage pathway').
+gene_pathway('YLR027C','asparagine degradation').
+gene_pathway('YLR027C','aspartate biosynthesis').
+gene_pathway('YLR027C','superpathway of L-threonine biosynthesis').
+gene_pathway('YLR027C','superpathway of threonine and methionine biosynthesis').
+gene_pathway('YLR027C','superpathway of threonine biosynthesis').
+gene_pathway('YLR028C','de novo biosynthesis of purine nucleotides').
+gene_pathway('YLR028C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YLR028C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YLR028C','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YLR038C','aerobic respiration. electron transport chain').
+gene_pathway('YLR043C','adenosine deoxyribonucleotides de novo biosynthesis II').
+gene_pathway('YLR043C','assimilatory sulfate reduction I').
+gene_pathway('YLR043C','de novo biosynthesis of purine nucleotides').
+gene_pathway('YLR043C','de novo biosynthesis of pyrimidine deoxyribonucleotides').
+gene_pathway('YLR043C','sulfate assimilation pathway').
+gene_pathway('YLR043C','superpathway of adenosine nucleotides de novo biosynthesis II').
+gene_pathway('YLR043C','superpathway of guanosine nucleotides de novo biosynthesis II').
+gene_pathway('YLR043C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YLR043C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YLR043C','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YLR043C','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YLR043C','thioredoxin pathway').
+gene_pathway('YLR044C','L-tyrosine degradation III').
+gene_pathway('YLR044C','pyruvate fermentation to acetoin III').
+gene_pathway('YLR044C','superpathway of acetoin and butanediol biosynthesis').
+gene_pathway('YLR044C','superpathway of glucose fermentation').
+gene_pathway('YLR056W','ergosterol biosynthesis I').
+gene_pathway('YLR056W','superpathway of ergosterol biosynthesis I').
+gene_pathway('YLR058C','folate interconversions').
+gene_pathway('YLR058C','folate polyglutamylation').
+gene_pathway('YLR058C','folate transformations I').
+gene_pathway('YLR058C','serine biosynthesis from glyoxylate').
+gene_pathway('YLR058C','superpathway of chorismate metabolism').
+gene_pathway('YLR058C','superpathway of serine and glycine biosynthesis').
+gene_pathway('YLR058C','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YLR070C','xylose metabolism').
+gene_pathway('YLR089C','L-alanine biosynthesis II').
+gene_pathway('YLR100W','superpathway of ergosterol biosynthesis I').
+gene_pathway('YLR100W','zymosterol biosynthesis').
+gene_pathway('YLR133W','phosphatidylcholine biosynthesis I').
+gene_pathway('YLR133W','superpathway of phosphatidic acid and phospholipid biosynthesis').
+gene_pathway('YLR133W','superpathway of phospholipid biosynthesis').
+gene_pathway('YLR134W','L-tyrosine degradation III').
+gene_pathway('YLR134W','pyruvate fermentation to acetoin III').
+gene_pathway('YLR134W','superpathway of acetoin and butanediol biosynthesis').
+gene_pathway('YLR134W','superpathway of glucose fermentation').
+gene_pathway('YLR142W','arginine degradation (aerobic)').
+gene_pathway('YLR146C','spermine biosynthesis').
+gene_pathway('YLR146C','superpathway of methionine salvage pathway').
+gene_pathway('YLR146C','superpathway of polyamine biosynthesis').
+gene_pathway('YLR153C','acetate utilization').
+gene_pathway('YLR153C','ethanol degradation').
+gene_pathway('YLR155C','asparagine degradation').
+gene_pathway('YLR157C','asparagine degradation').
+gene_pathway('YLR158C','asparagine degradation').
+gene_pathway('YLR160C','asparagine degradation').
+gene_pathway('YLR172C','diphthamide biosynthesis').
+gene_pathway('YLR174W','superpathway of glutamate biosynthesis').
+gene_pathway('YLR180W','S-adenosyl-L-methionine biosynthesis').
+gene_pathway('YLR180W','superpathway of methionine salvage pathway').
+gene_pathway('YLR180W','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YLR209C','nicotinamide riboside salvage pathway II').
+gene_pathway('YLR209C','nicotinate riboside salvage pathway II').
+gene_pathway('YLR209C','salvage pathways of adenine. hypoxanthine and their nucleosides').
+gene_pathway('YLR209C','salvage pathways of purines and their nucleosides').
+gene_pathway('YLR209C','superpathway of NAD biosynthesis').
+gene_pathway('YLR209C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YLR231C','L-tryptophan degradation III (eukaryotic)').
+gene_pathway('YLR231C','L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde').
+gene_pathway('YLR231C','NAD de novo biosynthesis II (from tryptophan)').
+gene_pathway('YLR231C','superpathway of NAD biosynthesis').
+gene_pathway('YLR245C','salvage pathways of pyrimidine deoxyribonucleotides').
+gene_pathway('YLR245C','salvage pathways of pyrimidine ribonucleotides').
+gene_pathway('YLR258W','glycogen biosynthesis').
+gene_pathway('YLR260W','sphingolipid biosynthesis (yeast)').
+gene_pathway('YLR284C','fatty acid oxidation pathway').
+gene_pathway('YLR299W','glutathione degradation').
+gene_pathway('YLR299W','superpathway of glutathione metabolism (truncated &gamma;-glutamyl cycle)').
+gene_pathway('YLR303W','superpathway of methionine biosynthesis').
+gene_pathway('YLR303W','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YLR303W','superpathway of threonine and methionine biosynthesis').
+gene_pathway('YLR304C','TCA cycle. aerobic respiration').
+gene_pathway('YLR304C','glyoxylate cycle').
+gene_pathway('YLR304C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YLR307W','chitosan biosynthesis').
+gene_pathway('YLR308W','chitosan biosynthesis').
+gene_pathway('YLR328W','L-tryptophan degradation III (eukaryotic)').
+gene_pathway('YLR328W','NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde').
+gene_pathway('YLR328W','NAD de novo biosynthesis II (from tryptophan)').
+gene_pathway('YLR328W','NAD salvage pathway IV (from nicotinamide riboside)').
+gene_pathway('YLR328W','NAD salvage pathway V (PNC V cycle)').
+gene_pathway('YLR328W','superpathway of NAD biosynthesis').
+gene_pathway('YLR354C','pentose phosphate pathway (non-oxidative branch)').
+gene_pathway('YLR354C','pentose phosphate pathway').
+gene_pathway('YLR355C','superpathway of branched chain amino acid biosynthesis').
+gene_pathway('YLR359W','de novo biosynthesis of purine nucleotides').
+gene_pathway('YLR359W','superpathway of adenosine nucleotides de novo biosynthesis II').
+gene_pathway('YLR359W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YLR359W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YLR359W','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YLR372W','very long chain fatty acid biosynthesis I').
+gene_pathway('YLR377C','gluconeogenesis I').
+gene_pathway('YLR377C','glycolysis I (from glucose 6-phosphate)').
+gene_pathway('YLR377C','superpathway of glucose fermentation').
+gene_pathway('YLR395C','aerobic respiration. electron transport chain').
+gene_pathway('YLR420W','de novo biosynthesis of pyrimidine ribonucleotides').
+gene_pathway('YLR420W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YLR420W','superpathway of pyrimidine ribonucleotides de novo biosynthesis').
+gene_pathway('YLR432W','de novo biosynthesis of purine nucleotides').
+gene_pathway('YLR432W','superpathway of guanosine nucleotides de novo biosynthesis II').
+gene_pathway('YLR432W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YLR432W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YLR432W','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YLR438W','arginine degradation (aerobic)').
+gene_pathway('YLR450W','mevalonate pathway I').
+gene_pathway('YLR450W','mevalonate pathway').
+gene_pathway('YLR450W','superpathway of ergosterol biosynthesis I').
+gene_pathway('YML004C','methylglyoxal catabolism').
+gene_pathway('YML008C','ergosterol biosynthesis I').
+gene_pathway('YML008C','superpathway of ergosterol biosynthesis I').
+gene_pathway('YML022W','salvage pathways of adenine. hypoxanthine and their nucleosides').
+gene_pathway('YML022W','salvage pathways of purines and their nucleosides').
+gene_pathway('YML022W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YML035C','salvage pathways of adenine. hypoxanthine and their nucleosides').
+gene_pathway('YML035C','salvage pathways of purines and their nucleosides').
+gene_pathway('YML035C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YML042W','carnitine shuttle').
+gene_pathway('YML056C','de novo biosynthesis of purine nucleotides').
+gene_pathway('YML056C','superpathway of guanosine nucleotides de novo biosynthesis II').
+gene_pathway('YML056C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YML056C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YML056C','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YML075C','mevalonate pathway I').
+gene_pathway('YML075C','mevalonate pathway').
+gene_pathway('YML075C','superpathway of ergosterol biosynthesis I').
+gene_pathway('YML086C','dehydro-D-arabinono-1.4-lactone biosynthesis').
+gene_pathway('YML106W','de novo biosynthesis of pyrimidine ribonucleotides').
+gene_pathway('YML106W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YML106W','superpathway of pyrimidine ribonucleotides de novo biosynthesis').
+gene_pathway('YML110C','superpathway of ubiquinone biosynthesis').
+gene_pathway('YML110C','ubiquinol-6 biosynthesis from 4-hydroxybenzoate (eukaryotic)').
+gene_pathway('YML120C','aerobic respiration. electron transport chain').
+gene_pathway('YML126C','mevalonate pathway I').
+gene_pathway('YML126C','mevalonate pathway').
+gene_pathway('YML126C','superpathway of ergosterol biosynthesis I').
+gene_pathway('YMR009W','superpathway of methionine salvage pathway').
+gene_pathway('YMR015C','ergosterol biosynthesis I').
+gene_pathway('YMR015C','superpathway of ergosterol biosynthesis I').
+gene_pathway('YMR020W','pantothenate and coenzyme A biosynthesis').
+gene_pathway('YMR020W','β-alanine biosynthesis IV').
+gene_pathway('YMR041C','dehydro-D-arabinono-1.4-lactone biosynthesis').
+gene_pathway('YMR083W','L-tyrosine degradation III').
+gene_pathway('YMR083W','superpathway of glucose fermentation').
+gene_pathway('YMR105C','dolichyl glucosyl phosphate biosynthesis').
+gene_pathway('YMR105C','galactose degradation').
+gene_pathway('YMR105C','glycogen biosynthesis').
+gene_pathway('YMR105C','glycogen catabolism').
+gene_pathway('YMR108W','acetoin biosynthesis').
+gene_pathway('YMR108W','superpathway of acetoin and butanediol biosynthesis').
+gene_pathway('YMR108W','superpathway of branched chain amino acid biosynthesis').
+gene_pathway('YMR113W','folate biosynthesis II').
+gene_pathway('YMR113W','superpathway of chorismate metabolism').
+gene_pathway('YMR113W','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YMR113W','tetrahydrofolate biosynthesis').
+gene_pathway('YMR120C','de novo biosynthesis of purine nucleotides').
+gene_pathway('YMR120C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YMR120C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YMR120C','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YMR169C','pantothenate and coenzyme A biosynthesis').
+gene_pathway('YMR169C','β-alanine biosynthesis IV').
+gene_pathway('YMR170C','ethanol degradation').
+gene_pathway('YMR170C','pantothenate and coenzyme A biosynthesis').
+gene_pathway('YMR170C','superpathway of glucose fermentation').
+gene_pathway('YMR170C','β-alanine biosynthesis IV').
+gene_pathway('YMR189W','folate interconversions').
+gene_pathway('YMR189W','folate transformations I').
+gene_pathway('YMR189W','superpathway of chorismate metabolism').
+gene_pathway('YMR189W','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YMR202W','ergosterol biosynthesis I').
+gene_pathway('YMR202W','superpathway of ergosterol biosynthesis I').
+gene_pathway('YMR205C','glycolysis I (from glucose 6-phosphate)').
+gene_pathway('YMR205C','superpathway of glucose fermentation').
+gene_pathway('YMR207C','fatty acid biosynthesis. initial steps').
+gene_pathway('YMR207C','superpathway of fatty acid biosynthesis. saturated and unsaturated').
+gene_pathway('YMR207C','superpathway of fatty acid biosynthesis. saturated').
+gene_pathway('YMR208W','mevalonate pathway I').
+gene_pathway('YMR208W','mevalonate pathway').
+gene_pathway('YMR208W','superpathway of ergosterol biosynthesis I').
+gene_pathway('YMR217W','de novo biosynthesis of purine nucleotides').
+gene_pathway('YMR217W','superpathway of guanosine nucleotides de novo biosynthesis II').
+gene_pathway('YMR217W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YMR217W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YMR217W','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YMR220W','mevalonate pathway I').
+gene_pathway('YMR220W','mevalonate pathway').
+gene_pathway('YMR220W','superpathway of ergosterol biosynthesis I').
+gene_pathway('YMR246W','fatty acid oxidation pathway').
+gene_pathway('YMR256C','aerobic respiration. electron transport chain').
+gene_pathway('YMR271C','de novo biosynthesis of pyrimidine ribonucleotides').
+gene_pathway('YMR271C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YMR271C','superpathway of pyrimidine ribonucleotides de novo biosynthesis').
+gene_pathway('YMR272C','sphingolipid biosynthesis (yeast)').
+gene_pathway('YMR289W','4-aminobenzoate biosynthesis').
+gene_pathway('YMR289W','folate biosynthesis II').
+gene_pathway('YMR289W','p-aminobenzoate biosynthesis').
+gene_pathway('YMR289W','superpathway of chorismate metabolism').
+gene_pathway('YMR289W','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YMR296C','sphingolipid biosynthesis (yeast)').
+gene_pathway('YMR298W','sphingolipid biosynthesis (yeast)').
+gene_pathway('YMR300C','de novo biosynthesis of purine nucleotides').
+gene_pathway('YMR300C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YMR300C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YMR300C','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YMR303C','L-tyrosine degradation III').
+gene_pathway('YMR303C','ethanol degradation').
+gene_pathway('YMR303C','superpathway of glucose fermentation').
+gene_pathway('YNL009W','superpathway of glutamate biosynthesis').
+gene_pathway('YNL037C','TCA cycle. aerobic respiration').
+gene_pathway('YNL037C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YNL048W','lipid-linked oligosaccharide biosynthesis').
+gene_pathway('YNL052W','aerobic respiration. electron transport chain').
+gene_pathway('YNL071W','pyruvate decarboxylation to acetyl CoA').
+gene_pathway('YNL104C','L-leucine biosynthesis').
+gene_pathway('YNL104C','superpathway of branched chain amino acid biosynthesis').
+gene_pathway('YNL117W','glyoxylate cycle').
+gene_pathway('YNL117W','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YNL129W','NAD salvage pathway IV (from nicotinamide riboside)').
+gene_pathway('YNL129W','nicotinate riboside salvage pathway I').
+gene_pathway('YNL129W','superpathway of NAD biosynthesis').
+gene_pathway('YNL130C','phosphatidylcholine biosynthesis I').
+gene_pathway('YNL130C','superpathway of phosphatidic acid and phospholipid biosynthesis').
+gene_pathway('YNL130C','superpathway of phospholipid biosynthesis').
+gene_pathway('YNL141W','salvage pathways of adenine. hypoxanthine and their nucleosides').
+gene_pathway('YNL141W','salvage pathways of purines and their nucleosides').
+gene_pathway('YNL141W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YNL169C','phosphatidylethanolamine biosynthesis I').
+gene_pathway('YNL169C','phospholipid biosynthesis').
+gene_pathway('YNL169C','superpathway of phosphatidic acid and phospholipid biosynthesis').
+gene_pathway('YNL169C','superpathway of phospholipid biosynthesis').
+gene_pathway('YNL192W','chitin biosynthesis').
+gene_pathway('YNL219C','lipid-linked oligosaccharide biosynthesis').
+gene_pathway('YNL220W','de novo biosynthesis of purine nucleotides').
+gene_pathway('YNL220W','superpathway of adenosine nucleotides de novo biosynthesis II').
+gene_pathway('YNL220W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YNL220W','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YNL220W','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YNL241C','pentose phosphate pathway (oxidative branch) I').
+gene_pathway('YNL241C','pentose phosphate pathway').
+gene_pathway('YNL256W','6-hydroxymethyl-dihydropterin diphosphate biosynthesis I').
+gene_pathway('YNL256W','folate biosynthesis II').
+gene_pathway('YNL256W','superpathway of chorismate metabolism').
+gene_pathway('YNL256W','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YNL256W','tetrahydrofolate biosynthesis').
+gene_pathway('YNL277W','superpathway of methionine biosynthesis').
+gene_pathway('YNL277W','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YNL277W','superpathway of threonine and methionine biosynthesis').
+gene_pathway('YNL280C','superpathway of ergosterol biosynthesis I').
+gene_pathway('YNL280C','zymosterol biosynthesis').
+gene_pathway('YNL316C','phenylalanine biosynthesis').
+gene_pathway('YNL316C','superpathway of aromatic amino acid biosynthesis').
+gene_pathway('YNL316C','superpathway of chorismate metabolism').
+gene_pathway('YNR001C','TCA cycle. aerobic respiration').
+gene_pathway('YNR001C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YNR012W','salvage pathways of pyrimidine deoxyribonucleotides').
+gene_pathway('YNR012W','salvage pathways of pyrimidine ribonucleotides').
+gene_pathway('YNR016C','fatty acid biosynthesis. initial steps').
+gene_pathway('YNR016C','superpathway of fatty acid biosynthesis. saturated and unsaturated').
+gene_pathway('YNR016C','superpathway of fatty acid biosynthesis. saturated').
+gene_pathway('YNR030W','lipid-linked oligosaccharide biosynthesis').
+gene_pathway('YNR033W','4-aminobenzoate biosynthesis').
+gene_pathway('YNR033W','folate biosynthesis II').
+gene_pathway('YNR033W','p-aminobenzoate biosynthesis').
+gene_pathway('YNR033W','superpathway of chorismate metabolism').
+gene_pathway('YNR033W','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YNR041C','superpathway of ubiquinone biosynthesis').
+gene_pathway('YNR041C','ubiquinol-6 biosynthesis from 4-hydroxybenzoate (eukaryotic)').
+gene_pathway('YNR043W','mevalonate pathway I').
+gene_pathway('YNR043W','mevalonate pathway').
+gene_pathway('YNR043W','superpathway of ergosterol biosynthesis I').
+gene_pathway('YNR050C','L-lysine biosynthesis IV').
+gene_pathway('YNR057C','biotin biosynthesis').
+gene_pathway('YNR058W','biotin biosynthesis').
+gene_pathway('YOL049W','glutathione biosynthesis').
+gene_pathway('YOL049W','superpathway of glutathione metabolism (truncated &gamma;-glutamyl cycle)').
+gene_pathway('YOL052C','spermidine biosynthesis I').
+gene_pathway('YOL052C','spermine biosynthesis').
+gene_pathway('YOL052C','superpathway of methionine salvage pathway').
+gene_pathway('YOL052C','superpathway of polyamine biosynthesis').
+gene_pathway('YOL055C','thiamine biosynthesis').
+gene_pathway('YOL059W','glycerol biosynthesis').
+gene_pathway('YOL059W','phosphatidate biosynthesis II (the glycerol-3-phosphate pathway)').
+gene_pathway('YOL059W','superpathway of phosphatidate biosynthesis').
+gene_pathway('YOL061W','PRPP biosynthesis').
+gene_pathway('YOL061W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YOL066C','riboflavin. FMN and FAD biosynthesis').
+gene_pathway('YOL086C','L-tyrosine degradation III').
+gene_pathway('YOL086C','superpathway of glucose fermentation').
+gene_pathway('YOL096C','superpathway of ubiquinone biosynthesis').
+gene_pathway('YOL096C','ubiquinol-6 biosynthesis from 4-hydroxybenzoate (eukaryotic)').
+gene_pathway('YOL126C','gluconeogenesis I').
+gene_pathway('YOL126C','glyoxylate cycle').
+gene_pathway('YOL126C','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YOL143C','riboflavin. FMN and FAD biosynthesis').
+gene_pathway('YOR002W','lipid-linked oligosaccharide biosynthesis').
+gene_pathway('YOR040W','methylglyoxal catabolism').
+gene_pathway('YOR054C','pantothenate and coenzyme A biosynthesis').
+gene_pathway('YOR065W','aerobic respiration. electron transport chain').
+gene_pathway('YOR067C','lipid-linked oligosaccharide biosynthesis').
+gene_pathway('YOR074C','de novo biosynthesis of pyrimidine deoxyribonucleotides').
+gene_pathway('YOR074C','folate interconversions').
+gene_pathway('YOR074C','superpathway of chorismate metabolism').
+gene_pathway('YOR074C','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YOR095C','pentose phosphate pathway (non-oxidative branch)').
+gene_pathway('YOR095C','pentose phosphate pathway').
+gene_pathway('YOR108W','L-leucine biosynthesis').
+gene_pathway('YOR108W','superpathway of branched chain amino acid biosynthesis').
+gene_pathway('YOR125C','superpathway of ubiquinone biosynthesis').
+gene_pathway('YOR125C','ubiquinol-6 biosynthesis from 4-hydroxybenzoate (eukaryotic)').
+gene_pathway('YOR128C','de novo biosynthesis of purine nucleotides').
+gene_pathway('YOR128C','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YOR128C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YOR128C','superpathway of purine nucleotides de novo biosynthesis II').
+gene_pathway('YOR136W','TCA cycle. aerobic respiration').
+gene_pathway('YOR136W','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YOR142W','TCA cycle. aerobic respiration').
+gene_pathway('YOR142W','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YOR143C','thiamine biosynthesis').
+gene_pathway('YOR155C','superpathway of purine biosynthesis and salvage pathways').
+gene_pathway('YOR171C','sphingolipid biosynthesis (yeast)').
+gene_pathway('YOR176W','heme b biosynthesis I (aerobic)').
+gene_pathway('YOR176W','superpathway of heme and siroheme biosynthesis').
+gene_pathway('YOR180C','fatty acid oxidation pathway').
+gene_pathway('YOR184W','L-serine biosynthesis I').
+gene_pathway('YOR184W','superpathway of serine and glycine biosynthesis').
+gene_pathway('YOR202W','superpathway of histidine. purine. and pyrimidine biosynthesis').
+gene_pathway('YOR209C','NAD salvage pathway V (PNC V cycle)').
+gene_pathway('YOR209C','superpathway of NAD biosynthesis').
+gene_pathway('YOR221C','fatty acid biosynthesis. initial steps').
+gene_pathway('YOR221C','superpathway of fatty acid biosynthesis. saturated and unsaturated').
+gene_pathway('YOR221C','superpathway of fatty acid biosynthesis. saturated').
+gene_pathway('YOR236W','folate biosynthesis II').
+gene_pathway('YOR236W','folate interconversions').
+gene_pathway('YOR236W','folate polyglutamylation').
+gene_pathway('YOR236W','superpathway of chorismate metabolism').
+gene_pathway('YOR236W','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YOR236W','tetrahydrofolate biosynthesis').
+gene_pathway('YOR241W','folate polyglutamylation').
+gene_pathway('YOR241W','superpathway of methionine biosynthesis').
+gene_pathway('YOR241W','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YOR241W','superpathway of threonine and methionine biosynthesis').
+gene_pathway('YOR278W','superpathway of heme and siroheme biosynthesis').
+gene_pathway('YOR278W','tetrapyrrole biosynthesis').
+gene_pathway('YOR303W','citrulline biosynthesis').
+gene_pathway('YOR303W','superpathway of pyrimidine ribonucleotides de novo biosynthesis').
+gene_pathway('YOR317W','fatty acid oxidation pathway').
+gene_pathway('YOR323C','L-proline biosynthesis I').
+gene_pathway('YOR347C','glycolysis I (from glucose 6-phosphate)').
+gene_pathway('YOR347C','superpathway of glucose fermentation').
+gene_pathway('YOR374W','superpathway of glucose fermentation').
+gene_pathway('YOR375C','superpathway of glutamate biosynthesis').
+gene_pathway('YOR388C','formaldehyde oxidation II (glutathione-dependent)').
+gene_pathway('YPL023C','folate interconversions').
+gene_pathway('YPL023C','folate polyglutamylation').
+gene_pathway('YPL023C','folate transformations I').
+gene_pathway('YPL023C','superpathway of chorismate metabolism').
+gene_pathway('YPL023C','superpathway of tetrahydrofolate biosynthesis and salvage').
+gene_pathway('YPL028W','glutaryl-CoA degradation').
+gene_pathway('YPL028W','mevalonate pathway I').
+gene_pathway('YPL028W','mevalonate pathway').
+gene_pathway('YPL028W','superpathway of ergosterol biosynthesis I').
+gene_pathway('YPL057C','sphingolipid biosynthesis (yeast)').
+gene_pathway('YPL059W','glutathione-glutaredoxin redox reactions').
+gene_pathway('YPL059W','glutathione-glutaredoxin system').
+gene_pathway('YPL061W','superpathway of glucose fermentation').
+gene_pathway('YPL069C','hexaprenyl diphosphate biosynthesis').
+gene_pathway('YPL069C','superpathway of ubiquinone biosynthesis').
+gene_pathway('YPL087W','sphingolipid biosynthesis (yeast)').
+gene_pathway('YPL091W','glutathione-glutaredoxin redox reactions').
+gene_pathway('YPL091W','glutathione-glutaredoxin system').
+gene_pathway('YPL111W','arginine degradation (aerobic)').
+gene_pathway('YPL117C','mevalonate pathway I').
+gene_pathway('YPL117C','mevalonate pathway').
+gene_pathway('YPL117C','superpathway of ergosterol biosynthesis I').
+gene_pathway('YPL117C','trans. trans-farnesyl diphosphate biosynthesis').
+gene_pathway('YPL214C','thiamine biosynthesis').
+gene_pathway('YPL227C','dolichyl glucosyl phosphate biosynthesis').
+gene_pathway('YPL231W','fatty acid biosynthesis. initial steps').
+gene_pathway('YPL231W','fatty acid elongation').
+gene_pathway('YPL231W','fatty acids biosynthesis (yeast)').
+gene_pathway('YPL231W','palmitate biosynthesis').
+gene_pathway('YPL231W','stearate biosynthesis III (fungi)').
+gene_pathway('YPL231W','superpathway of fatty acid biosynthesis. saturated and unsaturated').
+gene_pathway('YPL231W','superpathway of fatty acid biosynthesis. saturated').
+gene_pathway('YPL258C','thiamine biosynthesis').
+gene_pathway('YPL262W','TCA cycle. aerobic respiration').
+gene_pathway('YPL262W','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YPR001W','TCA cycle. aerobic respiration').
+gene_pathway('YPR001W','superpathway of TCA cycle and glyoxylate cycle').
+gene_pathway('YPR026W','trehalose degradation').
+gene_pathway('YPR035W','superpathway of glutamate biosynthesis').
+gene_pathway('YPR060C','phenylalanine biosynthesis').
+gene_pathway('YPR060C','superpathway of aromatic amino acid biosynthesis').
+gene_pathway('YPR060C','superpathway of chorismate metabolism').
+gene_pathway('YPR062W','salvage pathways of pyrimidine ribonucleotides').
+gene_pathway('YPR069C','spermidine biosynthesis I').
+gene_pathway('YPR069C','superpathway of methionine salvage pathway').
+gene_pathway('YPR069C','superpathway of polyamine biosynthesis').
+gene_pathway('YPR074C','pentose phosphate pathway (non-oxidative branch)').
+gene_pathway('YPR074C','pentose phosphate pathway').
+gene_pathway('YPR113W','phosphatidylinositol biosynthesis').
+gene_pathway('YPR113W','superpathway of phosphatidic acid and phospholipid biosynthesis').
+gene_pathway('YPR113W','superpathway of phospholipid biosynthesis').
+gene_pathway('YPR118W','superpathway of methionine salvage pathway').
+gene_pathway('YPR160W','glycogen catabolism').
+gene_pathway('YPR167C','assimilatory sulfate reduction I').
+gene_pathway('YPR167C','sulfate assimilation pathway').
+gene_pathway('YPR167C','superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)').
+gene_pathway('YPR183W','dolichyl phosphate D-mannose biosynthesis').
+gene_pathway('YPR184W','glycogen catabolism').
+gene_pathway('YPR191W','aerobic respiration. electron transport chain').

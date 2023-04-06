@@ -1,0 +1,11 @@
+:- ['../../knowledgeBase/Datalog/gene_pathway.dl'].
+:- ['../../knowledgeBase/Datalog/gene_disease.dl'].
+:- ['../../knowledgeBase/Datalog/gene_chromosome.dl'].
+:- ['../../knowledgeBase/Datalog/gene_enzymatics.dl'].
+:- ['../../knowledgeBase/Datalog/gene_goterms.dl'].
+:- ['../../knowledgeBase/Datalog/gene_metabolites.dl'].
+:- ['../../knowledgeBase/Datalog/gene_phenotype_extended.dl'].
+:- ['../../knowledgeBase/Datalog/gene_phenotypeCHEM_extended.dl'].
+:- ['../../knowledgeBase/Datalog/gene_proteindomain.dl'].
+:- ['../../knowledgeBase/Datalog/gene_regulates.dl'].
+:- ['../../knowledgeBase/Datalog/gene_regulatedBy.dl'].
