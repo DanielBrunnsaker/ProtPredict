@@ -37,6 +37,13 @@ Gene(A) :=
   InvolvedIn(A, One − carbon metabolic process)
 ```
 
+This pattern can be interpreted as: genes (A) which are involved
+in the one-carbon metabolic process, and which are regulated by
+a transcription factor (B) whose deletion causes the cell to have
+an abnormal chronological lifespan.
+
+## Feature generation in aleph
+
 In order to generate the features, you SWi-prolog needs to be installed, and you need to follow the following commands:
 In the folder of the relevant dataset (feature_generation/proteomics or feature_generation/proteomics_noAA):
 
