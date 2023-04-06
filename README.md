@@ -77,7 +77,9 @@ and relational features (binary features).
 See the following notebooks:
 
 scripts/notebooks/ProteinsFromAA.ipynb - Train and evaluate models used to predict protein abundances in *S. cerevisiae* using metabolite (amino acid) concentrations.
+
 scripts/notebooks/ProteinsFromILP.ipynb - Train and evaluate models used to predict protein abundances in *S. cerevisiae* using propositionalized logic programs.
+
 scripts/notebooks/ProteinsFromAA.ipynb - Train and evaluate models used to predict protein abundances in *S. cerevisiae* using a combination of propositionalized logic programs and metabolite concentrations.
 
 
