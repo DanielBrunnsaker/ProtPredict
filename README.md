@@ -1,5 +1,7 @@
 # ProtPredict
 
+![alt text](https://github.com/DanielBrunnsaker/ProtPredict/Schematic.pdf?raw=true)
+
 Proteomic profiles reflect the functional readout of the physiological state of an organism, and
 thus, increased understanding of what controls and defines the accumulated abundances of proteins is of
 high scientific interest. Saccharomyces cerevisiae is a well studied model organism, as such there is a large
