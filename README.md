@@ -10,7 +10,7 @@ adhere to semantically meaningful ontologies.
 
 ![alt text](https://github.com/DanielBrunnsaker/ProtPredict/blob/main/Schematic.png?raw=true)
 
-By representing this prior knowledge in a richly expressive Datalog database we generated data
+By representing this prior knowledge in a richly expressive Datalog database (/knowledgeBase) we generated data
 descriptors using relational learning that, when combined with standard approaches, allows us to accurately
 predict protein abundances in S. cerevisiae in an explainable manner, connecting them to functional
 annotations of the genotype and phenotypical observations, such as α-amino acid concentrations and
