@@ -37,15 +37,18 @@ $ swipl
 
 In order to save the features as a .txt document, do the following:
 
-?- saveQueries('name.txt'). %To save the positive examples in order
+**To save the positive examples in order:**
+?- saveQueries('name.txt'). 
 ?- show(pos).
 ?- stopQueriesSaving().
 
-?- saveQueries('namec_features.txt'). %Saving the binary features
+**Saving the binary features:**
+?- saveQueries('namec_features.txt'). 
 ?- show(train_pos).
 ?- stopQueriesSaving().
 
-?- saveQueries('name_expl.txt'). %Saving the logic programs connected to each feature
+**Saving the logic programs connected to each feature:**
+?- saveQueries('name_expl.txt'). 
 ?- show(features).
 ?- stopQueriesSaving().
 
