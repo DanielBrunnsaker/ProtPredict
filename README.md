@@ -23,6 +23,10 @@ This repository contains the code need to reproduce the results of the study.
 
 Additional data will need to be downloaded at Zenodo (link incoming).
 
+# Install python dependencies
+
+Add requirements.txt etc.
+
 # Frequent Pattern Mining
 
 Frequent patterns are mined from Datalog database created from the Saccharomyces Genome Database (SGD), BioGRID, 
