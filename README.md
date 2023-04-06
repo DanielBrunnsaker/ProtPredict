@@ -49,7 +49,7 @@ In order to save the features as a .txt document, do the following:
 
 **Saving the binary features:**
 ```
-?- saveQueries('namec_features.txt'). 
+?- saveQueries('name_features.txt'). 
 ?- show(train_pos).
 ?- stopQueriesSaving().
 ```
