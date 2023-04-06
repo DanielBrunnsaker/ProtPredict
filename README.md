@@ -26,8 +26,7 @@ Additional data will need to be downloaded at Zenodo (link incoming).
 # Frequent Pattern Mining
 
 Frequent patterns are mined from Datalog database created from the Saccharomyces Genome Database (SGD), BioGRID, 
-and the metabolic atlas[cite] and then used as features in a protein abundance predictions.  These patterns are mined using Aleph in Prolog[cite], and by
-using sample meta-data (deletant strains) from a dataset by Messner et al. as positive examples.
+and Yeast8[1,2,3] and then used as features in a protein abundance predictions.  These patterns are mined using Aleph in Prolog using the WARMR algorithm, and by using sample meta-data (deletant strains) from a dataset by Messner et al. as positive examples [4,5].
 
 In order to generate the features, you SWi-prolog needs to be installed, and you need to follow the following commands:
 In the folder of the relevant dataset (feature_generation/proteomics or feature_generation/proteomics_noAA):
@@ -76,7 +75,18 @@ See the following notebooks:
 **scripts/notebooks/ProteinsFromAA.ipynb** - Train and evaluate models used to predict protein abundances in *S. cerevisiae* using a combination of propositionalized logic programs and metabolite concentrations.
 
 
+# References
 
+[1] J. Michael Cherry, et al. Saccharomyces Genome Database: the genomics resource of budding yeast. Nucleic Acids Research, 40(Database issue):D700–705, January 2012
+
+[2] Rose Oughtred, et al. The BioGRID database: A comprehensive biomedical resource of curated protein, genetic, and chemical interactions. 
+Protein Science: A Publication of the Protein Society, 30(1):187–200, January 2021
+
+[3] Hongzhong Lu, et al. A consensus S. cerevisiae metabolic model Yeast8 and its ecosystem for comprehensively probing cellular metabolism. Nature Communications, 10(1):3586, August 2019. Number: 1
+
+[4] Ashwin Srinivasan. The Aleph Manual.
+
+[5] Ross D. King, et al. Warmr: a data mining tool for chemical data. Journal of Computer-Aided Molecular Design, 15(2):173– 181, February 2001.
 
 
 
