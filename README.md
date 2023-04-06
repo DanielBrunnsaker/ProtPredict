@@ -34,11 +34,8 @@ In the folder of the relevant dataset (feature_generation/proteomics or feature_
 
 ```
 $ swipl
-
 [aleph_orig].
-
 ?- read_all(proteomics).
-
 ?- induce_features.
 ```
 
