@@ -1,6 +1,6 @@
 # ProtPredict
 
-![alt text](https://github.com/DanielBrunnsaker/ProtPredict/Schematic.pdf?raw=true)
+![alt text](https://github.com/DanielBrunnsaker/ProtPredict/blob/main/Schematic.pdf)
 
 Proteomic profiles reflect the functional readout of the physiological state of an organism, and
 thus, increased understanding of what controls and defines the accumulated abundances of proteins is of
