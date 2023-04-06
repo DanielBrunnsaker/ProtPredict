@@ -44,8 +44,7 @@ an abnormal chronological lifespan.
 
 ## Feature generation in aleph
 
-In order to generate the features, you SWi-prolog needs to be installed, and you need to follow the following commands:
-In the folder of the relevant dataset (feature_generation/proteomics or feature_generation/proteomics_noAA):
+In order to generate the features, SWI-prolog (preferrably v7.6.3) needs to be installed on your system, and you need to follow the following commands in the folder of the relevant dataset (feature_generation/proteomics or feature_generation/proteomics_noAA):
 
 ```
 $ swipl
