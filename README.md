@@ -1,7 +1,5 @@
 # ProtPredict
 
-![alt text](https://github.com/DanielBrunnsaker/ProtPredict/blob/main/Schematic.png?raw=true)
-
 Proteomic profiles reflect the functional readout of the physiological state of an organism, and
 thus, increased understanding of what controls and defines the accumulated abundances of proteins is of
 high scientific interest. Saccharomyces cerevisiae is a well studied model organism, as such there is a large
@@ -9,6 +7,8 @@ amount of structured knowledge on yeast systems biology contained in databases s
 Genome Database, and in highly curated genome-scale metabolic models like Yeast8. These are the product
 of decades worth of experiments on multiple different modalities, these are abundant in information, and
 adhere to semantically meaningful ontologies.
+
+![alt text](https://github.com/DanielBrunnsaker/ProtPredict/blob/main/Schematic.png?raw=true)
 
 By representing this prior knowledge in a richly expressive Datalog database we generated data
 descriptors using relational learning that, when combined with standard approaches, allows us to accurately
