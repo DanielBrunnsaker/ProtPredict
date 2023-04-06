@@ -12,7 +12,7 @@ adhere to semantically meaningful ontologies.
 
 By representing this prior knowledge in a richly expressive Datalog database (/knowledgeBase) we generated data
 descriptors using relational learning that, when combined with standard approaches, allows us to accurately
-predict protein abundances in S. cerevisiae in an explainable manner, connecting them to functional
+predict protein abundances in *S. cerevisiae* in an explainable manner, connecting them to functional
 annotations of the genotype and phenotypical observations, such as α-amino acid concentrations and
 deviations in chronological lifespan. We further showcase this methodology on the proteins His4 and Ilv2,
 successfully connecting qualitative biological concepts to quantified abundances. We argue that explainable
@@ -63,8 +63,7 @@ In order to save the features as a .txt document, do the following:
 
 # Model training & analysis
 
-Models are trained using XGBoost[cite] on both standard propositional data (protein abundances and metabolite concentrations) 
-and relational features (binary features).
+Models are trained using XGBoost on both standard propositional data (protein abundances and metabolite concentrations) and relational features (binary features/logic programs).
 
 See the following notebooks:
 
@@ -87,6 +86,3 @@ Protein Science: A Publication of the Protein Society, 30(1):187–200, January 
 [4] Ashwin Srinivasan. The Aleph Manual.
 
 [5] Ross D. King, et al. Warmr: a data mining tool for chemical data. Journal of Computer-Aided Molecular Design, 15(2):173– 181, February 2001.
-
-
-
