@@ -30,11 +30,12 @@ and Yeast8[1,2,3] and then used as features in a protein abundance predictions. 
 
 A pattern in this context can take the following form, represented as a logic program:
 
+```
 Gene(A) :=
-RegulatedBy(A, B, Transcription factor),
-nullPhenotype(B, Abnormal chronological lifespan),
-InvolvedIn(A, One − carbon metabolic process)
-
+  RegulatedBy(A, B, Transcription factor),
+  nullPhenotype(B, Abnormal chronological lifespan),
+  InvolvedIn(A, One − carbon metabolic process)
+```
 
 In order to generate the features, you SWi-prolog needs to be installed, and you need to follow the following commands:
 In the folder of the relevant dataset (feature_generation/proteomics or feature_generation/proteomics_noAA):
