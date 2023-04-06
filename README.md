@@ -31,26 +31,41 @@ In order to generate the features, you SWi-prolog needs to be installed, and you
 In the folder of the relevant dataset (feature_generation/proteomics or feature_generation/proteomics_noAA):
 
 $ swipl
+
 [aleph_orig].
+
 ?- read_all(proteomics).
+
 ?- induce_features.
 
 In order to save the features as a .txt document, do the following:
 
 **To save the positive examples in order:**
+
 ?- saveQueries('name.txt'). 
+
 ?- show(pos).
+
 ?- stopQueriesSaving().
+
 
 **Saving the binary features:**
+
 ?- saveQueries('namec_features.txt'). 
+
 ?- show(train_pos).
+
 ?- stopQueriesSaving().
 
+
 **Saving the logic programs connected to each feature:**
+
 ?- saveQueries('name_expl.txt'). 
+
 ?- show(features).
+
 ?- stopQueriesSaving().
+
 
 # Model training & analysis
 
