@@ -80,6 +80,8 @@ In order to save the features as a .txt document, do the following:
 ?- stopQueriesSaving().
 ```
 
+<Write the shell command as well>
+
 Alternatively, the data/feature-sets accompanied with explanatory logic programs can be downloaded at [LINK].
 
 # Model training & analysis
