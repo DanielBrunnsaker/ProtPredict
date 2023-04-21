@@ -23,9 +23,13 @@ This repository contains the code need to reproduce the results of the study.
 
 Additional data will need to be downloaded at Zenodo (link incoming).
 
-# Install python dependencies
+# Install Python dependencies
 
 Add requirements.txt etc.
+
+# Install SWI-Prolog
+
+Follow download and install instructions [here](https://www.swi-prolog.org/download/stable). It can also be installed using package managers such as apt, snap, and brew.
 
 # Frequent Pattern Mining
 
