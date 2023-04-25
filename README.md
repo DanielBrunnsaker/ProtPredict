@@ -52,7 +52,7 @@ an abnormal chronological lifespan.
 
 ## Feature generation in aleph
 
-In order to generate the features, SWI-prolog (tested with v7.6.3) needs to be installed on your system, and you need to follow the following commands in the folder of the relevant dataset (`feature_generation/proteomics` for the relational features only analysis or `feature_generation/proteomics_noAA` for use in combination with metabolite concentration values):
+In order to generate the features, SWI-prolog (tested with v7.6.3) needs to be installed on your system, and you need to run the following commands in the folder of the relevant dataset (`feature_generation/proteomics` for the relational features only analysis or `feature_generation/proteomics_noAA` for use in combination with metabolite concentration values):
 
 ```
 $ swipl
@@ -98,7 +98,7 @@ See the following notebooks:
 
 `scripts/notebooks/ProteinsFromILP.ipynb` - Train and evaluate models used to predict protein abundances in *S. cerevisiae* using propositionalized logic programs. Additonally, visualize feature importances using SHAP and Gain.
 
-`scripts/notebooks/ProteinsFromAA.ipynb` - Train and evaluate models used to predict protein abundances in *S. cerevisiae* using a combination of propositionalized logic programs and metabolite concentrations. Additionally, visualize comparative performance between featuresets, global feature importances and the predictive capacity of amino acids, and beeswarm-plots for SHAP-values for specific proteins.
+`scripts/notebooks/ProteinsFromAAILP.ipynb` - Train and evaluate models used to predict protein abundances in *S. cerevisiae* using a combination of propositionalized logic programs and metabolite concentrations. Additionally, visualize comparative performance between featuresets, global feature importances and the predictive capacity of amino acids, and beeswarm-plots for SHAP-values for specific proteins.
 
 # References
 
