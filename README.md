@@ -61,7 +61,7 @@ $ swipl
 ?- induce_features.
 ```
 
-In order to save the features as a .txt document, do the following:
+In order to save the features as .txt documents, run the following commands in sequence:
 
 **To save the positive examples in order:**
 ```
