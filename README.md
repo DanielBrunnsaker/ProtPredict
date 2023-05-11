@@ -6,7 +6,9 @@ Saccharomyces cerevisiae is a well studied model organism, and there is a large 
 knowledge on yeast systems biology in databases such as the Saccharomyces Genome Database, and highly
 curated genome-scale metabolic models like Yeast8. These data-sets, the result of decades of experiments,
 are abundant in information, and adhere to semantically meaningful ontologies.
+
 ![alt text](https://github.com/DanielBrunnsaker/ProtPredict/blob/main/Schematic.png?raw=true)
+
 By representing this knowledge in an expressive Datalog database we generated data descriptors
 using relational learning that, when combined with supervised machine learning, enables us to predict protein
 abundances in an explainable manner. We learnt predictive relationships between protein abundances,
