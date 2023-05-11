@@ -1,23 +1,19 @@
 # ProtPredict
 
-Proteomic profiles reflect the functional readout of the physiological state of an organism, and
-thus, increased understanding of what controls and defines the accumulated abundances of proteins is of
-high scientific interest. Saccharomyces cerevisiae is a well studied model organism, as such there is a large
-amount of structured knowledge on yeast systems biology contained in databases such as the Saccharomyces
-Genome Database, and in highly curated genome-scale metabolic models like Yeast8. These are the product
-of decades worth of experiments on multiple different modalities, these are abundant in information, and
-adhere to semantically meaningful ontologies.
-
+Proteomic profiles reflect the functional readout of the physiological state of an organism.
+An increased understanding of what controls and defines protein abundances is of high scientific interest.
+Saccharomyces cerevisiae is a well studied model organism, and there is a large amount of structured
+knowledge on yeast systems biology in databases such as the Saccharomyces Genome Database, and highly
+curated genome-scale metabolic models like Yeast8. These data-sets, the result of decades of experiments,
+are abundant in information, and adhere to semantically meaningful ontologies.
 ![alt text](https://github.com/DanielBrunnsaker/ProtPredict/blob/main/Schematic.png?raw=true)
-
-By representing this prior knowledge in a richly expressive Datalog database (`knowledgeBase/`) we generated data
-descriptors using relational learning that, when combined with standard approaches, allows us to accurately
-predict protein abundances in *S. cerevisiae* in an explainable manner, connecting them to functional
-annotations of the genotype and phenotypical observations, such as α-amino acid concentrations and
-deviations in chronological lifespan. We further showcase this methodology on the proteins His4 and Ilv2,
-successfully connecting qualitative biological concepts to quantified abundances. We argue that explainable
-models improve the understanding of the implications of knowledge-based systems biology representations,
-and enables them to be rationally improved
+By representing this knowledge in an expressive Datalog database we generated data descriptors
+using relational learning that, when combined with supervised machine learning, enables us to predict protein
+abundances in an explainable manner. We learnt predictive relationships between protein abundances,
+function and phenotype; such as α-amino acid accumulations and deviations in chronological lifespan.
+We further demonstrate the power of this new methodology on the proteins His4 and Ilv2, connecting
+qualitative biological concepts to quantified abundances. Interpretable models enable us to better understand
+knowledge-based representations in systems biology.
 
 This repository contains the code need to reproduce the results of the study.
 
