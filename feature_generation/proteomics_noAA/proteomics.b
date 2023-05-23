@@ -6,7 +6,7 @@
 :- set(max_features, 2049). %2048 features, 2049 because it starts from one
 :- set(clauselength,10).
 
-%mode declarations
+%mode declarations (note that ORF and gene are interchangeable in this specific context)
 :- modeh(*, networked(+gene)).
 :- modeb(*, gene_metabolite(+gene, #metabolite)).
 :- modeb(*, gene_pathway(+gene, #pathway)).
