@@ -7,7 +7,7 @@ knowledge on yeast systems biology in databases such as the Saccharomyces Genome
 curated genome-scale metabolic models like Yeast8. These data-sets, the result of decades of experiments,
 are abundant in information, and adhere to semantically meaningful ontologies.
 
-![alt text](https://github.com/DanielBrunnsaker/ProtPredict/blob/main/Schematic.png?raw=true)
+![alt text](https://github.com/DanielBrunnsaker/ProtPredict/blob/main/graphical_abstract.png?raw=true)
 
 By representing this knowledge in an expressive Datalog database we generated data descriptors
 using relational learning that, when combined with supervised machine learning, enables us to predict protein
