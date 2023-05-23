@@ -89,7 +89,7 @@ In order to save the features as .txt documents, run the following commands in s
 
 <Write the shell command as well>
 
-Alternatively, the data/feature-sets accompanied with explanatory logic programs can be downloaded at [LINK].
+Alternatively, the data/feature-sets accompanied with explanatory logic programs can be intermediateData/generated_features and intermediateData/generated_datasets.
 
 # Model training & analysis
 
