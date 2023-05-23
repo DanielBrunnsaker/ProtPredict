@@ -23,7 +23,12 @@ Additional data will need to be downloaded at Zenodo (link incoming).
 
 # Install Python dependencies
 
-Add requirements.txt etc.
+Using Python 3.8.13 the dependencies can be installed from the requirements.txt file, e.g. using conda and the following commands:
+```
+$ conda create --name mpred38 python=3.8.13 && \\
+    conda activate mpred38 && \\
+    pip install -r requirements.txt
+```
 
 # Install SWI-Prolog
 
