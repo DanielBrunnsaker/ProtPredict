@@ -5,8 +5,24 @@
 def Bayes_CV(params, X, y, cvcount_inner, n_parallel, seed):
     
     from skopt import BayesSearchCV
-
-    #Declare the inner cross-validation strategy
+    
+    '''
+    Bayesian optimization (via cross-validation)
+    
+    Inputs:
+        params: Dict containing parameter-ranges of choice
+        X: training data (independent variables, dataframe)
+        y: training data (dependent variables, dataframe)
+        cvcount_inner: number of folds used in optimization
+        n_parallel: n_workers (int)
+        seed: random seed (int)
+    
+    Outputs:
+        best params: Self explanatory (best parameters found during optimization)
+    
+    '''
+    
+    
     inner_cv = KFold(n_splits=cvcount_inner, shuffle=True, random_state=seed) #gets into a local minima at 0
     
     
@@ -23,6 +39,17 @@ def Bayes_CV(params, X, y, cvcount_inner, n_parallel, seed):
 
 
 def extract_means_SHAP(shap_values, X, Protein):
+    '''
+    Extract absolute mean shap-values (local to "global" feature importance)
+    
+    Inputs:
+        shap_values: SHAP object
+        X: training data (independent variables, dataframe)
+    
+    Outputs:
+        avg: Mean shap values for all observations/features
+    
+    '''
     values = abs(shap_values.values)
     avg = pd.DataFrame(values.mean(axis = 0))
     avg.index = X.columns
@@ -31,12 +58,35 @@ def extract_means_SHAP(shap_values, X, Protein):
 
 
 def correlation_remover(dataset):
+    '''
+    Remove perfectly correlated features drom a dataframe
+    
+    Inputs:
+        dataset: Dataframe containing your dataset
+    
+    Outputs:
+        dataset: Dataframe with correlated features (except first occurence) removed
+    
+    '''
     print('Removing perfectly correlated features...')
     dataset = dataset.transpose().drop_duplicates(keep = 'first').transpose()
     return(dataset)
 
 
 def return_protein_dataset(dataset, protein):
+    '''
+    Return X and y vectors, given a specific protein
+    
+    Inputs:
+        dataset: Entire dataset, all proteins and all features (dataframe)
+        protein: Protein of choice (string)
+    
+    Outputs:
+        X: training data, dataframe
+        y: training data, array
+        nancount: Number of missing rows for selected protein
+    
+    '''
     import numpy as np
     import pandas as pd
     
@@ -51,6 +101,19 @@ def return_protein_dataset(dataset, protein):
 
 
 def extract_shap_return_absmeans(regressor, X, Protein, predefined_df):
+    '''
+    Extract shap values, and return the abs(mean) (See extract_means_SHAP)
+    
+    Inputs:
+        regressor: sklearn model object (trained)
+        X: training data (independent variables)
+        Protein = protein of choice (string)
+        predefined_df: preallocated/defined dataframe to contain our values
+    
+    Outputs:
+        predefined_df: dataframe with all our feature importance values
+    
+    '''
     explainer = shap.Explainer(regressor, X)
     shap_values = explainer(X)
     
@@ -60,6 +123,16 @@ def extract_shap_return_absmeans(regressor, X, Protein, predefined_df):
 
 
 def extract_xgb_feature_values(regressor):
+    '''
+    Extract XGB gain values
+    
+    Inputs:
+        regressor: sklearn model object (trained)
+    
+    Outputs:
+        xgb_feature_values: dataframe with all our feature importance values
+    
+    '''
     xgb_feature_values = pd.DataFrame(index = X.columns)
     types = ['weight', 'gain', 'cover', 'total_gain', 'total_cover']
     for f in types:
@@ -69,7 +142,18 @@ def extract_xgb_feature_values(regressor):
     return(xgb_feature_values)
 
 def create_features(path_features, path_labels, aaData):
+    '''
+    Merge the output from aleph with a standard propositional dataset. Merges on the ORF
     
+    Inputs:
+        path_features: path to the .txt file containing the binary descriptors/features
+        path_labels: path to the .txt file containing the row-labels (ORFs)
+        aaData = propositional dataset (as a dataframe, index must containg matching values to path_labels)
+    
+    Outputs:
+        dataset: dataframe with our complete dataset (propositional data and data descriptors)
+    
+    '''
     import pandas as pd
     import numpy as np
     
@@ -104,6 +188,19 @@ def extract_abs_means_SHAP(shap_values, X, name):
     return(avg)
 
 def extract_top_features(shap_path, metric):
+    '''
+    Extract the top 10 features, according to either mean(abs(shap)) or max model output change (for ilp features)
+    
+    Inputs:
+        shap_path: path to pickle with shap object of interst
+        metric: 'max' or 'mean '
+    
+    Outputs:
+        raw_shap_values: shap values taken from the shap-object
+        raw_data_values: og. data values taken from the shap-object
+        df_feature_importance: Dataframe containing the feature importance values of interest
+    
+    '''
     import pandas as pd
     import numpy as np
     
@@ -142,7 +239,10 @@ def inter_from_256(x):
     return np.interp(x=x,xp=[0,255],fp=[0,1])
 
 def create_cmap():
-    
+    '''
+    Custom CMAP for figure 6
+
+    '''
     import numpy as np
     from matplotlib import colors
     from matplotlib import cm
