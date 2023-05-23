@@ -116,4 +116,4 @@ Protein Science: A Publication of the Protein Society, 30(1):187–200, January 
 
 [5] Ross D. King, et al. Warmr: a data mining tool for chemical data. Journal of Computer-Aided Molecular Design, 15(2):173– 181, February 2001.
 
-[6] Christoph B. Messner, et al. The Proteomic Landscape of Genome-Wide Genetic Perturbations, May 2022. Pages: 2022.05.17.492318
+[6] Christoph B. Messner, et al. The Proteomic Landscape of Genome-Wide Genetic Perturbations, May 2022. https://www.biorxiv.org/content/10.1101/2022.05.17.492318v1
