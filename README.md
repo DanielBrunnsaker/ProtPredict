@@ -17,7 +17,7 @@ We further demonstrate the power of this new methodology on the proteins His4 an
 qualitative biological concepts to quantified abundances. Interpretable models enable us to better understand
 knowledge-based representations in systems biology.
 
-This repository contains the code need to reproduce the results of the study.
+This repository contains the code needed to reproduce the results of the study.
 
 Additional data will need to be downloaded at Zenodo (link incoming).
 
