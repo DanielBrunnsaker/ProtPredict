@@ -110,7 +110,7 @@ Protein Science: A Publication of the Protein Society, 30(1):187–200, January 
 
 [3] Hongzhong Lu, et al. A consensus S. cerevisiae metabolic model Yeast8 and its ecosystem for comprehensively probing cellular metabolism. Nature Communications, 10(1):3586, August 2019. Number: 1
 
-[4] Ashwin Srinivasan. The Aleph Manual.
+[4] Ashwin Srinivasan. The Aleph Manual. https://www.cs.ox.ac.uk/activities/programinduction/Aleph/aleph.html
 
 [5] Ross D. King, et al. Warmr: a data mining tool for chemical data. Journal of Computer-Aided Molecular Design, 15(2):173– 181, February 2001.
 
