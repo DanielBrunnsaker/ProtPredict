@@ -87,7 +87,7 @@ In order to save the features as .txt documents, run the following commands in s
 
 <Write the shell command as well>
 
-Alternatively, the data/feature-sets accompanied with explanatory logic programs can be found in intermediateData/generated_features and intermediateData/generated_datasets.
+Alternatively, the data/feature-sets accompanied with explanatory logic programs can be found in intermediateData/generated_features and intermediateData/generated_datasets (make sure to unzip).
 
 # Model training & analysis
 
