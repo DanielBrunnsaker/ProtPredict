@@ -28,6 +28,11 @@ $ conda create --name mpred38 python=3.8.13 && \\
     pip install -r requirements.txt
 ```
 
+or 
+```
+$ conda create --name mpred38 --file requirements.txt
+```
+
 # Install SWI-Prolog
 
 Follow download and install instructions [here](https://www.swi-prolog.org/download/stable). It can also be installed using package managers such as apt, snap, and brew.
