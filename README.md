@@ -31,9 +31,9 @@ $ conda create --name mpred38 python=3.8.13 && \\
 
 Follow download and install instructions [here](https://www.swi-prolog.org/download/stable). It can also be installed using package managers such as apt, snap, and brew.
 
-# Frequent Pattern Mining
+# Frequent Pattern Mining/Relational Descriptor Generation
 
-Frequent patterns are mined from Datalog database created from the Saccharomyces Genome Database (SGD), BioGRID, 
+Frequent patterns (relational descriptors) are mined from a Datalog database created from the Saccharomyces Genome Database (SGD), BioGRID, 
 and Yeast8[1,2,3] and then used as features in a protein abundance predictions.  These patterns are mined using Aleph in Prolog using the WARMR algorithm, and by using sample meta-data (deletant strains) from a dataset by Messner et al. as positive examples [4,5,6].
 
 A pattern in this context can take the following form, represented as a logic program:
@@ -52,7 +52,11 @@ an abnormal chronological lifespan.
 
 ## Feature generation in aleph
 
-In order to generate the features, SWI-prolog (tested with v7.6.3) needs to be installed on your system, and you need to run the following commands in the folder of the relevant dataset (`feature_generation/proteomics` for the relational features only analysis or `feature_generation/proteomics_noAA` for use in combination with metabolite concentration values):
+For more general instructions on how to use Aleph, see the [Aleph manual](https://www.cs.ox.ac.uk/activities/programinduction/Aleph/aleph.html) by Ashwin Srinivasan. Source-files for Aleph are also included in this repository (in `feature_generation/proteomics` and `feature_generation/proteomics_noAA`). 
+
+The background file (`feature_generation/proteomics/proteomics.b`) contain the settings for the pattern search, and all of the allowed relations. The example file (`feature_generation/proteomics/proteomics.f`) contain all of the positive examples (deletant strains) used in the feature generation.
+
+In order to generate the features used for this study, SWI-prolog (tested with v7.6.3) needs to be installed on your system, and you need to run the following commands in the folder of the relevant dataset (`feature_generation/proteomics` for the relational features only analysis or `feature_generation/proteomics_noAA` for use in combination with metabolite concentration values):
 
 ```
 $ swipl
@@ -86,11 +90,11 @@ In order to save the features as .txt documents, run the following commands in s
 
 <Write the shell command as well>
 
-Alternatively, the data/feature-sets accompanied with explanatory logic programs can be found in intermediateData/generated_features and intermediateData/generated_datasets (make sure to unzip).
+Alternatively, the data/feature-sets accompanied with explanatory logic programs can be found in intermediateData/generated_features and intermediateData/generated_datasets (make sure to unzip the files first).
 
 # Model training & analysis
 
-Models are trained using XGBoost on both standard propositional data (protein abundances and metabolite concentrations) and relational features (binary features/logic programs).
+Models are trained using XGBoost on both standard propositional data (protein abundances and metabolite concentrations) and relational features (binary features/logic programs/frequent patterns).
 
 See the following notebooks:
 
