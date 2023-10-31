@@ -52,7 +52,7 @@ an abnormal chronological lifespan.
 
 ## Feature generation in aleph
 
-For more general instructions on how to use Aleph, see the [Aleph manual](https://www.cs.ox.ac.uk/activities/programinduction/Aleph/aleph.html) by Ashwin Srinivasan. Source-files for Aleph are also included in this repository (in `feature_generation/proteomics` and `feature_generation/proteomics_noAA`). 
+For more general instructions on how to use Aleph, see the [Aleph manual](https://www.cs.ox.ac.uk/activities/programinduction/Aleph/aleph.html) by Ashwin Srinivasan. Source-files for Aleph (`aleph_orig.pl`) are also included in this repository (in `feature_generation/proteomics` and `feature_generation/proteomics_noAA`). 
 
 The background file (`feature_generation/proteomics/proteomics.b`) contain the settings for the pattern search, and all of the allowed relations. The example file (`feature_generation/proteomics/proteomics.f`) contain all of the positive examples (deletant strains) used in the feature generation.
 
