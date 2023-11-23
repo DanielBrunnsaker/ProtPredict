@@ -74,7 +74,7 @@ For example, In order to save the features as .txt documents (in the case of rel
 ?- stopQueriesSaving().
 ```
 
-**Saving the binary features:**
+**Saving the relational features/descriptors:**
 ```
 ?- saveQueries('proteomics_features.txt'). 
 ?- show(train_pos).
