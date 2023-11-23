@@ -65,25 +65,25 @@ $ swipl
 ?- induce_features.
 ```
 
-In order to save the features as .txt documents, run the following commands in sequence:
+For example, In order to save the features as .txt documents (in the case of relational features only), run the following commands in sequence:
 
 **To save the positive examples in order:**
 ```
-?- saveQueries('name.txt'). 
+?- saveQueries('proteomics.txt'). 
 ?- show(pos).
 ?- stopQueriesSaving().
 ```
 
 **Saving the binary features:**
 ```
-?- saveQueries('name_features.txt'). 
+?- saveQueries('proteomics_features.txt'). 
 ?- show(train_pos).
 ?- stopQueriesSaving().
 ```
 
 **Saving the logic programs connected to each feature:**
 ```
-?- saveQueries('name_expl.txt'). 
+?- saveQueries('proteomics_expl.txt'). 
 ?- show(features).
 ?- stopQueriesSaving().
 ```
