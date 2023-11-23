@@ -40,7 +40,7 @@ A pattern in this context can take the following form, represented as a logic pr
 
 ```
 Gene(A) :=
-  RegulatedBy(A, B, Transcription factor),
+  RegulatedBy(A, B, Transcription factor), 
   nullPhenotype(B, Abnormal chronological lifespan),
   InvolvedIn(A, One − carbon metabolic process)
 ```
@@ -59,10 +59,10 @@ The background file (`feature_generation/proteomics/proteomics.b`) contain the s
 In order to generate the features used for this study, SWI-prolog (tested with v7.6.3) needs to be installed on your system, and you need to run the following commands in the folder of the relevant dataset (`feature_generation/proteomics` for the relational features only analysis or `feature_generation/proteomics_noAA` for use in combination with metabolite concentration values):
 
 ```
-$ swipl
-[aleph_orig].
-?- read_all(proteomics).
-?- induce_features.
+$ swipl # Initialize SWI-prolog
+[aleph_orig]. # Initialize aleph
+?- read_all(proteomics). # Read the necessary example and background files
+?- induce_features. # Generate patterns
 ```
 
 For example, In order to save the features as .txt documents (in the case of relational features only), run the following commands in sequence:
