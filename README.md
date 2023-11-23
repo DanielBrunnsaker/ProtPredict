@@ -90,7 +90,7 @@ For example, In order to save the features as .txt documents (in the case of rel
 
 <Write the shell command as well>
 
-Running the commands will produce three files. `name.txt`, containing all the positive examples used in the search. `name_features.txt`, containing the matrix of binary features (covering the positive examples). `name_expl.txt`, containing the accompanying logic programs for each feature.
+Running the commands will produce three files. `proteomics.txt`, containing all the positive examples used in the search. `proteomics_features.txt`, containing the matrix of binary features (covering the positive examples). `proteomics_expl.txt`, containing the accompanying logic programs for each feature.
 
 Alternatively, the data/feature-sets accompanied with explanatory logic programs can be found in intermediateData/generated_features and intermediateData/generated_datasets (make sure to unzip the files first).
 
