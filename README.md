@@ -19,6 +19,8 @@ knowledge-based representations in systems biology.
 
 This repository contains the code needed to reproduce the results of the study.
 
+Note, the study has been published in [Bioinformatics](https://academic.oup.com/bioinformatics/article/40/2/btae050/7589924) 
+
 # Install Python dependencies
 
 Using Python 3.8.13 the dependencies can be installed from the requirements.txt file, e.g. using conda and the following commands:
