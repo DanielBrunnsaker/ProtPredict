@@ -19,7 +19,7 @@ knowledge-based representations in systems biology.
 
 This repository contains the code needed to reproduce the results of the study.
 
-Note, the study has been published in [Bioinformatics](https://academic.oup.com/bioinformatics/article/40/2/btae050/7589924) 
+Note that the study has been published in [Bioinformatics](https://academic.oup.com/bioinformatics/article/40/2/btae050/7589924) 
 
 # Install Python dependencies
 
